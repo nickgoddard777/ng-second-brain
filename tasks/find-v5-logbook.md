@@ -1,0 +1,16 @@
+---
+type: task
+status: pending
+due: 2026-03-31
+tags: [car, admin]
+created: 2026-03-12T00:00:00
+---
+
+# Find V5 logbook
+
+Find the V5 logbook for the Seat Exeo — probably in the shed.
+
+## Notes
+
+- Part of [[projects/sell-seat-exeo]]
+- If not found, raise [[tasks/order-new-v5-logbook]]
