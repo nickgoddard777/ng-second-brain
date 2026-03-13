@@ -1,8 +1,13 @@
 ---
 type: task
-status: pending
-tags: [hsl, business-central, crm, devops]
+status: complete
+tags:
+  - hsl
+  - business-central
+  - crm
+  - devops
 created: 2026-03-11T00:00:00
+due: 2206-03-12
 ---
 
 # Set up BC↔CRM sync on new Sandbox environment

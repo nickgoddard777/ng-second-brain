@@ -1,7 +1,11 @@
 ---
 type: project
 status: active
-tags: [hsl, business-central, devops]
+tags:
+  - hsl
+  - business-central
+  - devops
+  - acora
 created: 2026-03-11
 ---
 
@@ -22,6 +26,7 @@ Delete UAT environment in Business Central admin.
 5. [[tasks/hsl-bc-wait-for-zeph-crm-refresh]] ← blocker
 6. [[tasks/hsl-bc-sync-crm-uat]]
 7. [[tasks/hsl-bc-sync-crm-sandbox]]
+8. [[tasks/hsl-speak-to-stu-allen-regarding-crm-setup]]
 
 ## Notes
 

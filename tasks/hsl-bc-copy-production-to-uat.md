@@ -1,8 +1,11 @@
 ---
 type: task
-due: 2026-03-11
-status: pending
-tags: [hsl, business-central, devops]
+due: 2026-03-12
+status: complete
+tags:
+  - hsl
+  - business-central
+  - devops
 created: 2026-03-11T00:00:00
 ---
 

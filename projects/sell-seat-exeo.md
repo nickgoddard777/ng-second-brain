@@ -1,7 +1,10 @@
 ---
 type: project
 status: active
-tags: [car, admin]
+tags:
+  - car
+  - admin
+  - personal
 created: 2026-03-12
 ---
 x§
