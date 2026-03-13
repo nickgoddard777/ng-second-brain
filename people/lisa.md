@@ -4,7 +4,9 @@ tags: [personal, legal]
 last-contact: 2026-03-13
 ---
 
-# Lisa
+# Lisa Vickerage
+
+Ex-wife.
 
 ## Follow-ups
 - [ ] Ask when decree absolute will go through court — [[tasks/ask-lisa-decree-absolute-timeline]]
