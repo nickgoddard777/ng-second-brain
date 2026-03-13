@@ -1,6 +1,6 @@
 ---
 type: task
-status: in-prggress
+status: complete
 tags:
   - hsl
   - business-central

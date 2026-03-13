@@ -1,6 +1,6 @@
 ---
 type: project
-status: active
+status: complete
 tags:
   - hsl
   - business-central
