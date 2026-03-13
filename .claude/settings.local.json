@@ -4,7 +4,14 @@
       "Bash(python3 \"M:\\\\Projects\\\\Obsidian\\\\second-brain\\\\.claude\\\\skills\\\\start-second-brain\\\\scripts\\\\init_vault.py\" \"M:\\\\Projects\\\\Obsidian\\\\ng-second-brain\")",
       "Bash(python \"M:\\\\Projects\\\\Obsidian\\\\second-brain\\\\.claude\\\\skills\\\\start-second-brain\\\\scripts\\\\init_vault.py\" \"M:\\\\Projects\\\\Obsidian\\\\ng-second-brain\")",
       "Bash(mkdir -p \"M:/Projects/Obsidian/ng-second-brain/tasks\" \"M:/Projects/Obsidian/ng-second-brain/projects\" \"M:/Projects/Obsidian/ng-second-brain/people\" \"M:/Projects/Obsidian/ng-second-brain/ideas\" \"M:/Projects/Obsidian/ng-second-brain/context\" \"M:/Projects/Obsidian/ng-second-brain/daily\" \"M:/Projects/Obsidian/ng-second-brain/weekly\" \"M:/Projects/Obsidian/ng-second-brain/outputs\")",
-      "Read(//m/Projects/Obsidian/**)"
+      "Read(//m/Projects/Obsidian/**)",
+      "Bash(git push origin main)",
+      "Bash(chmod +x .claude/hooks/auto-commit.sh)",
+      "Bash(xattr -l .claude/hooks/auto-commit.sh)",
+      "Bash(xattr -d com.apple.provenance .claude/hooks/auto-commit.sh)",
+      "Bash(cp .claude/hooks/auto-commit.sh /tmp/auto-commit-backup.sh)",
+      "Bash(rm .claude/hooks/auto-commit.sh)",
+      "Bash(cp /tmp/auto-commit-backup.sh .claude/hooks/auto-commit.sh)"
     ]
   }
 }

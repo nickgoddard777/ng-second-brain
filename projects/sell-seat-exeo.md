@@ -4,7 +4,7 @@ status: active
 tags: [car, admin]
 created: 2026-03-12
 ---
-
+x§
 # Sell Seat Exeo
 
 Sell the Seat Exeo via webuyanycar.
