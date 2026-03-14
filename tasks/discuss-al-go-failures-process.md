@@ -9,6 +9,8 @@ tags:
 
 Speak to Support and Project Managers about the process for handling AL-Go test failure notifications.
 
+> Depends on: [[arrange-al-go-process-meeting]]
+
 Speak to:
 - Support: [[neil-conniff]], [[jacob-hollins]]
 - Project Managers: [[jess-townsend]], [[josh-murphy]]
