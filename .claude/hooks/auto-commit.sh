@@ -10,7 +10,21 @@ if [ -z "$FILE_PATH" ]; then
 fi
 
 # Get relative path from vault root (normalize backslashes for Windows)
-VAULT_ROOT=$(echo "$CLAUDE_PROJECT_DIR" | tr '\\' '/')
+# Fall back to deriving vault root from the file path itself if CLAUDE_PROJECT_DIR is unset
+if [ -n "$CLAUDE_PROJECT_DIR" ]; then
+  VAULT_ROOT=$(echo "$CLAUDE_PROJECT_DIR" | tr '\\' '/')
+else
+  FILE_PATH_FWD=$(echo "$FILE_PATH" | tr '\\' '/')
+  # Walk up from file until we find .git
+  DIR="$FILE_PATH_FWD"
+  while [ "$DIR" != "/" ] && [ "$DIR" != "." ]; do
+    DIR=$(dirname "$DIR")
+    if [ -d "$DIR/.git" ]; then
+      VAULT_ROOT="$DIR"
+      break
+    fi
+  done
+fi
 FILE_PATH=$(echo "$FILE_PATH" | tr '\\' '/')
 REL_PATH="${FILE_PATH#$VAULT_ROOT/}"
 
