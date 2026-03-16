@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Context
-Acora Support team member.
+Acora Support team leader.
 
 ## Follow-ups
 - [ ] Discuss AL-Go test failure notification process [[discuss-al-go-failures-process]]

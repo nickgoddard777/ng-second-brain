@@ -1,7 +1,11 @@
 ---
 type: project
 status: active
-tags: [business-central, infrastructure, it]
+tags:
+  - business-central
+  - infrastructure
+  - it
+  - work
 ---
 ## Overview
 Replace internal Business Central Development Infrastructure. Involves writing requirements, team review, and IT sign-off.

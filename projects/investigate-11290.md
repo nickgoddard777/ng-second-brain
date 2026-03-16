@@ -4,12 +4,13 @@ status: active
 tags:
   - acora
   - infopro
+  - work
 ---
 ## Next Action
 - [ ] [[investigate-11290-why-not-working]]
 - [x] [[get-11290-example-from-jess]]
 - [x] [[debug-11290-example]]
-- [ ] [[fix-11290-bug]]
+- [x] [[fix-11290-bug]]
 - [ ] [[release-11290-fix]]
 
 ## Notes

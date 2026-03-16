@@ -5,6 +5,7 @@ tags:
   - work
   - azure
   - al-go
+due: 2026-03-20
 ---
 
 Research how to create email alerts in Azure Application Insights for Next AL-Go test failures.

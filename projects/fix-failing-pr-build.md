@@ -6,6 +6,7 @@ tags:
   - ci
   - pr
   - acora
+  - work
 ---
 ## Next Action
 - Investigate and fix the failing PR build
