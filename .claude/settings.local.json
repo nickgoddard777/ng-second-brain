@@ -20,7 +20,8 @@
       "Skill(new:*)",
       "Bash(git -C M:/Projects/Obsidian/ng-second-brain log --oneline -5)",
       "Bash(git -C M:/Projects/Obsidian/ng-second-brain log --oneline -3)",
-      "Bash(git -C M:/Projects/Obsidian/ng-second-brain status --short)"
+      "Bash(git -C M:/Projects/Obsidian/ng-second-brain status --short)",
+      "Bash(git -C M:/Projects/Obsidian/ng-second-brain log --since=\"midnight\" --grep=\"cos:\" --oneline)"
     ]
   }
 }
