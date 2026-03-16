@@ -4,10 +4,10 @@ last-contact: 2026-03-14
 tags:
   - family
 ---
-
+# Susan Goddard
 ## Context
 Mum.
 
 ## Follow-ups
-- [ ] [[get-wrapping-paper]]
-- [ ] [[wrap-mothers-day-present]]
+- [x] [[get-wrapping-paper]]
+- [x] [[wrap-mothers-day-present]]

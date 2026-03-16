@@ -7,4 +7,4 @@ tags:
   - infopro
 project: "[[investigate-11290]]"
 ---
-Release the fix for issue 11290 to production.
+Release the fix for issue 11290 to AcoraDev.

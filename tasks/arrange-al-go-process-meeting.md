@@ -11,7 +11,7 @@ tags:
 Arrange a meeting with Support and Project Managers to discuss the process for handling AL-Go test failure notifications.
 
 Attendees:
-- Support: [[neil-conniff]], [[jacob-hollins]]
+- Support: [[neil-conniff]], [[jacob-hollins]], [[mike-jones]]
 - Project Managers: [[jess-townsend]], [[josh-murphy]]
 
 [[al-go-support-email-notifications]]

@@ -6,9 +6,11 @@ tags:
   - webshop
   - colleague
 ---
+# Stuart Simpson
+
 ## Context
-Contact at CII. Key person for webshop queries.
+Contact at CII. Key person for Web Shop queries.
 .net Developer at Acora Limited
 
 ## Follow-ups
-- [ ] Confirm how the webshop handles midyear membership order types [[cii-pbi55179-confirm-webshop-handling]]
+- [ ] Confirm how the Web Shop handles midyear membership order types [[cii-pbi55179-confirm-webshop-handling]]
