@@ -7,9 +7,9 @@ tags:
   - work
 ---
 ## Next Action
-- [ ] [[review-inc1014760]]
-- [ ] [[review-inc1015406]]
-- [ ] [[review-inc1015233]]
+- [x] [[review-inc1014760]]
+- [x] [[review-inc1015406]]
+- [x] [[review-inc1015233]]
 
 ## Notes
 Managing CII incidents.

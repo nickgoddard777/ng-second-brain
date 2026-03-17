@@ -1,7 +1,7 @@
 ---
 type: task
 due: 2026-03-17
-status: pending
+status: complete
 tags:
   - tooling
   - bc-development
