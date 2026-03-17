@@ -21,7 +21,17 @@
       "Bash(git -C M:/Projects/Obsidian/ng-second-brain log --oneline -5)",
       "Bash(git -C M:/Projects/Obsidian/ng-second-brain log --oneline -3)",
       "Bash(git -C M:/Projects/Obsidian/ng-second-brain status --short)",
-      "Bash(git -C M:/Projects/Obsidian/ng-second-brain log --since=\"midnight\" --grep=\"cos:\" --oneline)"
+      "Bash(git -C M:/Projects/Obsidian/ng-second-brain log --since=\"midnight\" --grep=\"cos:\" --oneline)",
+      "WebFetch(domain:www.objectidninja.com)",
+      "WebFetch(domain:marketplace.visualstudio.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:alid.ninja)",
+      "WebFetch(domain:vjeko.com)",
+      "Bash(npm list:*)",
+      "Bash(npm install:*)",
+      "Bash(node build-proposal.js)",
+      "Bash(npm root:*)",
+      "Bash(NODE_PATH=\"C:/Users/nick.goddard/AppData/Roaming/npm/node_modules\" node build-proposal.js)"
     ]
   }
 }

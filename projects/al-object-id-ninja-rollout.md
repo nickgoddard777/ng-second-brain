@@ -10,14 +10,18 @@ created: 2026-03-17
 Roll out the AL Object ID Ninja VS Code extension across all BC development projects and the Dev Team. Requires pricing research, a short proposal, sign-off from Matt and Jiten, then full deployment.
 
 ## Next Action
-Sort out access to AL Object ID Ninja and find pricing from the website.
+Send proposal to Matt Hollins and Jiten for sign-off.
 
 ## Tasks
 - [ ] [[tasks/al-object-id-ninja-sort-access]] - Sort out access
-- [ ] [[tasks/al-object-id-ninja-find-price]] - Find pricing from website
-- [ ] [[tasks/al-object-id-ninja-write-proposal]] - Write proposal
-- [ ] [[tasks/al-object-id-ninja-sign-off]] - Send to Matt & Jiten for sign-off
+- [x] [[tasks/al-object-id-ninja-find-price]] - Find pricing from website
+- [x] [[tasks/al-object-id-ninja-write-proposal]] - Write proposal
+- [x] [[tasks/al-object-id-ninja-sign-off]] - Send to Matt & Jiten for sign-off
 - [ ] [[tasks/al-object-id-ninja-deploy]] - Roll out to all projects and Dev Team
+
+## Outputs
+- [[outputs/2026-03-17-al-object-id-ninja-proposal]] - Proposal markdown (draft)
+- [[outputs/2026-03-17-al-object-id-ninja-proposal.docx]] - Proposal Word doc (draft, awaiting sign-off)
 
 ## Notes
 - Extension is free for solo devs; teams may require paid plan
