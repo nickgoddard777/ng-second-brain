@@ -13,7 +13,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/hooks/auto-commit.sh\"",
+            "command": "bash \"M:/Projects/Obsidian/ng-second-brain/.claude/hooks/auto-commit.sh\"",
             "timeout": 30
           }
         ]

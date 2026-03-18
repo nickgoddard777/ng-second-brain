@@ -31,7 +31,9 @@
       "Bash(npm install:*)",
       "Bash(node build-proposal.js)",
       "Bash(npm root:*)",
-      "Bash(NODE_PATH=\"C:/Users/nick.goddard/AppData/Roaming/npm/node_modules\" node build-proposal.js)"
+      "Bash(NODE_PATH=\"C:/Users/nick.goddard/AppData/Roaming/npm/node_modules\" node build-proposal.js)",
+      "Bash(CLAUDE_PROJECT_DIR=\"M:/Projects/Obsidian/ng-second-brain\" bash \"M:/Projects/Obsidian/ng-second-brain/.claude/hooks/auto-commit.sh\")",
+      "Bash(bash \"M:/Projects/Obsidian/ng-second-brain/.claude/hooks/auto-commit.sh\")"
     ]
   }
 }
