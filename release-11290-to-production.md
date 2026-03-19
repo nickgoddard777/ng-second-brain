@@ -13,6 +13,6 @@ created: 2026-03-19T12:47:00
 
 Need to release this fix to production
 
-- [ ] Make Transactions Archive the same as Transaction page
-- [ ] Create Release which includes 11290 and 10850
-- [ ] Publish Release to Production
+- [x] Make Transactions Archive the same as Transaction page
+- [x] Create Release which includes 11290 and 10850
+- [x] Publish Release to Production
