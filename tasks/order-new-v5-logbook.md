@@ -6,8 +6,8 @@ tags:
   - car
   - admin
 created: 2026-03-12T00:00:00
-title: "Order New V5 Logbook"
-project: sell-seat-exeo
+title: Order New V5 Logbook
+project: "[[sell-seat-exeo]]"
 ---
 
 # Order new V5 logbook

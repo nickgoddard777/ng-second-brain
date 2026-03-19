@@ -5,8 +5,8 @@ due: 2026-03-21
 tags:
   - car
 created: 2026-03-12T00:00:00
-title: "Clean Seat Exeo"
-project: sell-seat-exeo
+title: Clean Seat Exeo
+project: "[[sell-seat-exeo]]"
 ---
 
 # Clean Seat Exeo

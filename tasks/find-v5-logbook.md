@@ -6,8 +6,8 @@ tags:
   - car
   - admin
 created: 2026-03-12T00:00:00
-title: "Find V5 Logbook"
-project: sell-seat-exeo
+title: Find V5 Logbook
+project: "[[sell-seat-exeo]]"
 ---
 
 # Find V5 logbook
