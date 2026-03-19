@@ -3,6 +3,8 @@ type: person
 last-contact: 2026-03-12
 tags:
   - colleague
+  - acora
+  - work
 ---
 # Jess Townsend
 

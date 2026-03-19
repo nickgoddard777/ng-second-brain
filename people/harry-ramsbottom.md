@@ -5,6 +5,8 @@ tags:
   - cii
   - webshop
   - colleague
+  - acora
+  - work
 ---
 # Harry Ramsbottom
 
@@ -13,4 +15,4 @@ Contact at CII. Key person for Web Shop queries.
 .net Developer at Acora Limited
 
 ## Follow-ups
-- [ ] Confirm how the Web Shop handles midyear membership order types [[cii-pbi55179-confirm-webshop-handling]]
+- [x] Confirm how the Web Shop handles midyear membership order types [[cii-pbi55179-confirm-webshop-handling]]

@@ -9,4 +9,4 @@ tags:
 Mamta Pathak — Tester at Acora.
 
 ## Follow-ups
-- [ ] Assign GitHub licence [[tasks/assign-github-licence-mamta-pathak]]
+- [x] Assign GitHub licence [[tasks/assign-github-licence-mamta-pathak]]
