@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-03-18
 tags: [personal, conveyancer]
 project: "[[sell-4-arkell-way]]"

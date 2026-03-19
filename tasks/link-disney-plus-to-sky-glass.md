@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-03-18
 tags: [personal, tv, home]
 created: 2026-03-18

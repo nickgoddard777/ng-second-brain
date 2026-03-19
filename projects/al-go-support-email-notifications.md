@@ -7,6 +7,7 @@ tags:
   - azure
   - support
 ---
+# AL-Go Support Email Notifications
 
 Set up support email notifications for Next AL-Go test failures. Involves researching Azure Application Insights alerting, aligning with Support and Project Managers on process, clearing the current backlog of unrecorded failures in ServiceNow, and producing a triage reference for the support team.
 
