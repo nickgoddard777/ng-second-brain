@@ -13,8 +13,8 @@ created: 2026-03-13
 
 ## Tasks
 
-- [[tasks/wait-for-court-financial-order]]
-- [[tasks/ask-lisa-decree-absolute-timeline]]
+- [ ] [[tasks/wait-for-court-financial-order]]
+- [ ] [[tasks/ask-lisa-decree-absolute-timeline]]
 
 ## Notes
 

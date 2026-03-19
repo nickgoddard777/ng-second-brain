@@ -6,6 +6,7 @@ tags:
   - al-go
   - servicenow
 due: 2026-03-16
+project: "[[al-go-support-email-notifications]]"
 ---
 
 Check the current list of AL-Go test failures and raise ServiceNow tickets for any not already recorded.

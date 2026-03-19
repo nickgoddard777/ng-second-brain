@@ -4,7 +4,7 @@ due: 2026-03-17
 status: complete
 tags: [tooling, bc-development]
 created: 2026-03-17T00:00:00
-project: al-object-id-ninja-rollout
+project: "[[al-object-id-ninja-rollout]]"
 ---
 
 # Sort Out Access to AL Object ID Ninja

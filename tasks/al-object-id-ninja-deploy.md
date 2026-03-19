@@ -4,7 +4,7 @@ due: 2026-03-21
 status: pending
 tags: [tooling, bc-development, dev-team]
 created: 2026-03-17T00:00:00
-project: al-object-id-ninja-rollout
+project: "[[al-object-id-ninja-rollout]]"
 ---
 
 # Roll Out AL Object ID Ninja to All Projects and Dev Team

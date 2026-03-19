@@ -6,6 +6,7 @@ tags:
   - business-central
   - infrastructure
   - it
+project: "[[bc-dev-infrastructure-replacement]]"
 ---
 Write requirements document for replacing the internal Business Central Development Infrastructure.
 

@@ -6,6 +6,7 @@ tags:
   - al-go
   - support
 due: 2026-03-20
+project: "[[al-go-support-email-notifications]]"
 ---
 
 Compile a list of known AL-Go test errors that support can use to triage incoming failure notifications.

@@ -3,6 +3,7 @@ type: task
 status: pending
 tags: [personal, legal]
 created: 2026-03-13T00:00:00
+project: "[[get-divorced]]"
 ---
 
 # Ask Lisa when decree absolute will go through court

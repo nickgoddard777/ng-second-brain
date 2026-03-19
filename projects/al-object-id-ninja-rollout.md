@@ -13,10 +13,12 @@ Roll out the AL Object ID Ninja VS Code extension across all BC development proj
 Send proposal to Matt Hollins and Jiten for sign-off.
 
 ## Tasks
-- [ ] [[tasks/al-object-id-ninja-sort-access]] - Sort out access
+- [x] [[tasks/al-object-id-ninja-sort-access]] - Sort out access
 - [x] [[tasks/al-object-id-ninja-find-price]] - Find pricing from website
 - [x] [[tasks/al-object-id-ninja-write-proposal]] - Write proposal
 - [x] [[tasks/al-object-id-ninja-sign-off]] - Send to Matt & Jiten for sign-off
+- [ ] [[tasks/al-object-id-ninja-wait-for-sign-off]] - Wait for Matt & Jiten to sign off
+- [ ] [[tasks/al-object-id-ninja-configure-account]] - Configure Al Object Ninja Id Account
 - [ ] [[tasks/al-object-id-ninja-deploy]] - Roll out to all projects and Dev Team
 
 ## Outputs

@@ -5,6 +5,7 @@ tags:
   - work
   - al-go
   - support
+project: "[[al-go-support-email-notifications]]"
 ---
 
 Speak to Support and Project Managers about the process for handling AL-Go test failure notifications.
