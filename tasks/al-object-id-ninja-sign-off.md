@@ -7,6 +7,7 @@ tags:
   - bc-development
 created: 2026-03-17T00:00:00
 project: "[[al-object-id-ninja-rollout]]"
+title: "Send AL Object ID Ninja Proposal for Sign-Off"
 ---
 
 # Send AL Object ID Ninja Proposal to Matt & Jiten for Sign-Off

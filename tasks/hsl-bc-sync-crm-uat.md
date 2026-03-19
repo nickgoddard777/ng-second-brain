@@ -8,6 +8,8 @@ tags:
   - devops
 created: 2026-03-11T00:00:00
 due: 2026-11-12
+title: "Sync CRM to UAT"
+project: hsl-bc-sandbox-refresh
 ---
 
 # Set up BC↔CRM sync on new UAT environment

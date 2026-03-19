@@ -4,6 +4,8 @@ status: pending
 due: 2026-03-31
 tags: [car, admin]
 created: 2026-03-12T00:00:00
+title: "Book Car with We Buy Any Car"
+project: sell-seat-exeo
 ---
 
 # Book car in with webuyanycar

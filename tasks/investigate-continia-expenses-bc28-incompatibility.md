@@ -7,6 +7,8 @@ tags:
   - continia
   - business-central
   - work
+title: "Investigate Continia Expenses BC28 Incompatibility"
+project: continia-expenses-bc28-compatibility
 ---
 
 Investigate why Continia Expenses is not compatible with BC 28.

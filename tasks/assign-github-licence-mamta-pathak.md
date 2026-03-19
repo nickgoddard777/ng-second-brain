@@ -6,6 +6,7 @@ tags:
   - acora
   - github
   - admin
+title: "Assign GitHub Licence to Mamta Pathak"
 ---
 Assign a GitHub licence to Mamta Pathak (Acora Tester).
 

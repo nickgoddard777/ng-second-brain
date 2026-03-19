@@ -6,5 +6,6 @@ tags:
   - acora
   - infopro
 project: "[[investigate-11290]]"
+title: "Fix Bug 11290"
 ---
 Fix the bug identified in issue 11290.

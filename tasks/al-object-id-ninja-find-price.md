@@ -7,6 +7,7 @@ tags:
   - bc-development
 created: 2026-03-17T00:00:00
 project: "[[al-object-id-ninja-rollout]]"
+title: "AL Object ID Ninja Find Price"
 ---
 
 # Find AL Object ID Ninja Pricing

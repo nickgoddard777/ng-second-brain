@@ -6,5 +6,6 @@ tags:
   - acora
   - infopro
   - release
+title: "Republish InfoPro Extensions to AcoraDev"
 ---
 Republish all Infopro extensions to AcoraDev.

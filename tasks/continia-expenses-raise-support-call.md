@@ -5,6 +5,7 @@ status: complete
 tags: [continia, business-central, acora]
 created: 2026-03-17T00:00:00
 project: "[[continia-expenses-bc28-compatibility]]"
+title: "Raise Continia Support Call"
 ---
 
 # Raise Support Call with Continia — Expenses BC28 Incompatibility

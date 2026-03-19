@@ -4,6 +4,7 @@ status: pending
 due:
 tags: [al-go, business-central, devops]
 project: "[[bc-repos-al-go-migration]]"
+title: "AL-Go Migration Plan"
 ---
 
 After the demo meeting, build out a full plan for migrating all remaining BC repositories to AL-Go. Include repo inventory, sequencing, owners, and target dates.

@@ -3,6 +3,7 @@ type: task
 status: pending
 tags: [business-central, infrastructure, it]
 project: "[[bc-dev-infrastructure-replacement]]"
+title: "BC Infra Team Review"
 ---
 Get team to review the BC Development Infrastructure requirements document.
 

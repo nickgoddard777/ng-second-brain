@@ -6,6 +6,8 @@ tags:
   - car
   - admin
 created: 2026-03-12T00:00:00
+title: "Swap Insurance to VW Golf"
+project: sell-seat-exeo
 ---
 
 # Swap insurance to VW Golf

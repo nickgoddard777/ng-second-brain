@@ -8,6 +8,7 @@ tags:
   - pr
   - release
 project: "[[fix-failing-pr-build]]"
+title: "Fix PR Build Release Client Response"
 ---
 Wait for [[jess-townsend]] and [[yevgen-bukar]] to respond on how release to client is going to work.
 

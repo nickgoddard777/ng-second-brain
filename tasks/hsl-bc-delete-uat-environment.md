@@ -7,6 +7,8 @@ tags:
   - business-central
   - devops
 created: 2026-03-11T00:00:00
+title: "Delete UAT Environment"
+project: hsl-bc-sandbox-refresh
 ---
 
 # Delete UAT environment

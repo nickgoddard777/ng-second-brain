@@ -5,6 +5,7 @@ status: pending
 tags: [continia, business-central, acora]
 created: 2026-03-17T00:00:00
 project: "[[continia-expenses-bc28-compatibility]]"
+title: "Await Continia Support Response"
 ---
 
 # Await and Action Continia Support Response — BC28 Incompatibility

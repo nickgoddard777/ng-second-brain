@@ -7,6 +7,8 @@ tags:
   - crm
   - devops
 created: 2026-03-11T00:00:00
+title: "Wait for Zeph CRM Refresh"
+project: hsl-bc-sandbox-refresh
 ---
 
 # Wait for Zeph Lakota to refresh CRM environments
