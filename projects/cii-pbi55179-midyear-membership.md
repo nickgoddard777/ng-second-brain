@@ -40,9 +40,9 @@ In particular, we need clarity on whether existing code paths are shared between
 - ADO 54562
 
 ## Next Action
-- [ ] Confirm with Stuart Simpson how the Web Shop handles midyear membership orders [[cii-pbi55179-confirm-webshop-handling]]
-- [ ] Write Solution Document [[cii-pbi55179-write-solution]]
+- [x] Confirm with Stuart Simpson how the Web Shop handles midyear membership orders [[cii-pbi55179-confirm-webshop-handling]]
 - [ ] Investigate where to update unit price [[cii-pbi55179-investigate-unit-price]]
+- [ ] Write Solution Document [[cii-pbi55179-write-solution]]
 - [ ] Create test plan for testers [[cii-pbi55179-test-plan]]
 
 ## Notes

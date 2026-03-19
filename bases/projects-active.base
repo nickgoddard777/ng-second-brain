@@ -6,3 +6,12 @@ views:
         - file.path != this.file.path
         - type == "project"
         - status == "active"
+    order:
+      - file.name
+      - status
+      - tags
+      - file.mtime
+      - file.links
+    sort:
+      - property: file.mtime
+        direction: ASC
