@@ -7,8 +7,9 @@ tags:
   - alcops
   - github
   - pipelines
-title: "Research ALCops AL-Go Integration"
-project: "[[al-go-support-email-notifications]]"
+  - work
+title: Research ALCops AL-Go Integration
+project: "[[bc-repos-al-go-migration]]"
 ---
 Research how the new ALCops works and investigate how it can be incorporated into the AL-Go for GitHub pipelines.
 
@@ -16,4 +17,4 @@ Research how the new ALCops works and investigate how it can be incorporated int
 
 - Understand ALCops feature set and workflow
 - Identify integration points with AL-Go for GitHub
-- Related: [[al-go-support-email-notifications]]
+- Related: [[bc-repos-al-go-migration]]

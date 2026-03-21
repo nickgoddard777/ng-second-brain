@@ -20,13 +20,15 @@ type: context
 - CII
 - Development Process Improvement
 - Development Environment Replacement
+- Development Team Leading
 
 ## Key Stakeholders
 
-- Dan Townsend — Application Operations Manage
-- Kevin Portellas — BC Developer
 - Matt Hollins — Head of Applications
-- Stu Alllen — Enterprise Architect
+- Dan Townsend — Application Operations Manager
+- Jiten Parekh - Applications Quality & Release Manager
+- Kevin Portellas — BC Developer
+- Stu Alllen — Enterprise Architect 
 
 ## Tools & Systems
 
