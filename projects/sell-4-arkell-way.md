@@ -8,10 +8,10 @@ tags:
 - [ ] Wait for Pete Lysandrou to confirm receipt of info from First Port [[wait-for-pete-lysandrou-firstport-confirmation]]
 
 ## Tasks - Clearout (due: 2026-03-22)
-- [ ] [[clean-rubbish-out-of-garden]]
-- [ ] [[take-rubbish-to-tip]]
-- [ ] [[remove-tv-brackets]]
-- [ ] [[take-hottub]]
+- [x] [[clean-rubbish-out-of-garden]]
+- [x] [[take-rubbish-to-tip]]
+- [x] [[remove-tv-brackets]]
+- [x] [[take-hottub]]
 
 ## Tasks - Keys
 - [ ] [[get-rus-keys]] (due: 2026-03-23)
