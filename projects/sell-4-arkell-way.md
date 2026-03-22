@@ -7,6 +7,16 @@ tags:
 ## Next Action
 - [ ] Wait for Pete Lysandrou to confirm receipt of info from First Port [[wait-for-pete-lysandrou-firstport-confirmation]]
 
+## Tasks - Clearout (due: 2026-03-22)
+- [ ] [[clean-rubbish-out-of-garden]]
+- [ ] [[take-rubbish-to-tip]]
+- [ ] [[remove-tv-brackets]]
+- [ ] [[take-hottub]]
+
+## Tasks - Keys
+- [ ] [[get-rus-keys]] (due: 2026-03-23)
+- [ ] [[post-mine-and-rus-keys]] (due: 2026-03-27)
+
 ## Completed
 - [x] [[ring-pete-lysandrou]]
 - [x] [[ring-pete-lysandrou-arkell-way-update]] — ring Pete in the morning for sale update (due: 2026-03-18)
