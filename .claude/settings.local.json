@@ -34,7 +34,9 @@
       "Bash(NODE_PATH=\"C:/Users/nick.goddard/AppData/Roaming/npm/node_modules\" node build-proposal.js)",
       "Bash(CLAUDE_PROJECT_DIR=\"M:/Projects/Obsidian/ng-second-brain\" bash \"M:/Projects/Obsidian/ng-second-brain/.claude/hooks/auto-commit.sh\")",
       "Bash(bash \"M:/Projects/Obsidian/ng-second-brain/.claude/hooks/auto-commit.sh\")",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Read(//c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/**)",
+      "Read(//c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/.claude/worktrees/objective-villani/**)"
     ]
   }
 }
