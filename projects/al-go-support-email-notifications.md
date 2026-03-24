@@ -15,9 +15,9 @@ Set up support email notifications for Next AL-Go test failures. Involves resear
 - Arrange meeting with Support and Project Managers (due: 2026-03-16)
 
 ## Tasks
-	- [ ] [[arrange-al-go-process-meeting]]
+- [ ] [[arrange-al-go-process-meeting]]
 - [ ] [[create-power-automate-flow-al-go-email]]
-- [ ] [[research-app-insights-email-alerts]]
+- [x] [[research-app-insights-email-alerts]]
 - [ ] [[discuss-al-go-failures-process]]
 - [ ] [[raise-servicenow-tickets-for-al-go-failures]]
 - [ ] [[compile-al-go-triage-error-list]]

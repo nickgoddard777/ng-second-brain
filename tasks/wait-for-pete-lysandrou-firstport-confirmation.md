@@ -1,10 +1,12 @@
 ---
 type: task
-title: "Wait for Pete Lysandrou to Confirm Receipt of Info from First Port"
+title: Wait for Pete Lysandrou to Confirm Receipt of Info from First Port
 status: pending
-due: 2026-03-23
+due: 2026-03-24
 project: sell-4-arkell-way
-tags: [personal, property]
+tags:
+  - personal
+  - property
 ---
 Waiting for Pete Lysandrou to confirm he has received the information from First Port.
 

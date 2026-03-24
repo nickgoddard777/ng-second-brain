@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-03-23
+due: 2026-03-24
 tags:
   - work
   - al-go
