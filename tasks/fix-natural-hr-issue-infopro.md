@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-03-23
 tags: [infopro, natural-hr, support]
 ---
