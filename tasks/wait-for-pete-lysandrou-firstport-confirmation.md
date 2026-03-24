@@ -2,7 +2,7 @@
 type: task
 title: Wait for Pete Lysandrou to Confirm Receipt of Info from First Port
 status: pending
-due: 2026-03-24
+due: 2026-03-25
 project: sell-4-arkell-way
 tags:
   - personal
