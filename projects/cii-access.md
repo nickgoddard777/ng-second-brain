@@ -10,9 +10,9 @@ tags:
 ## Next Action
 - List Entra permissions for Kevin, Nick & Yevgen, pass to Neil for support ticket
 
-[[list-entra-permissions-cii-access]]
-[[ask-neil-to-raise ticket-to-sort-entra access]]
-[[raise-als-development-team-retrospections-devops]]
+- [x] [[list-entra-permissions-cii-access]]
+- [ ] [[ask-neil-to-raise ticket-to-sort-entra access]]
+- [ ] [[raise-als-development-team-retrospections-devops]]
 
 ## People
 - [[kevin-portellas]]
