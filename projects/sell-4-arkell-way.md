@@ -5,7 +5,14 @@ tags:
   - personal
 ---
 ## Next Action
-- [ ] Wait for Pete Lysandrou to confirm receipt of info from First Port [[wait-for-pete-lysandrou-firstport-confirmation]]
+- [ ] Print documents [[print-arkell-way-documents]] (due: 2026-03-25)
+- [ ] Sign documents [[sign-arkell-way-documents]] (due: 2026-03-25)
+- [ ] Post documents [[post-arkell-way-documents]] (due: 2026-03-26)
+
+## Tasks - Conveyancing Documents
+- [ ] [[print-arkell-way-documents]] (due: 2026-03-25)
+- [ ] [[sign-arkell-way-documents]] (due: 2026-03-25)
+- [ ] [[post-arkell-way-documents]] (due: 2026-03-26)
 
 ## Tasks - Clearout (due: 2026-03-22)
 - [x] [[clean-rubbish-out-of-garden]]
@@ -29,3 +36,5 @@ Selling 4 Arkell Way. Contact: [[pete-lysandrou]].
 2026-03-18 - Lisa chased First Port
 2026-03-20 09:50 - Pete rang Lisa to give update that the ball is in the buyers solicitors court
 2026-03-20 16:30 - Spoke to Becky@Dixons, Buyer speaking to their solicitor today - Pete has been chasing
+2026-03-24 18:54 - Email from Claire@Dixons, buyers solicitor has suggested completion date of the 2026-04-02, this just needs confirmation from the Lending Solicitor. Lisa emailed to confirm we are happy with this date.
+2026-03-25 10:21 - Call from Pete, he has received the provisional Completion Date. He is going to start the ball-rolling with Target re: the Help 2 Buy final valuation which will take 24 hours. He has also emailed the the final documents for us to sign.
