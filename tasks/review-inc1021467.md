@@ -1,0 +1,12 @@
+---
+type: task
+status: pending
+due: 2026-03-25
+tags:
+  - cii
+  - incidents
+  - work
+project: "[[cii-incident-management]]"
+title: Review INC1021467
+---
+Look into INC1021467.
