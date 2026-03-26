@@ -11,7 +11,7 @@ tags:
 - [x] [[review-inc1015406]]
 - [x] [[review-inc1015233]]
 - [ ] [[review-inc1021467]]
-- [ ] [[investigate-inc1021180]]
+- [x] [[investigate-inc1021180]]
 
 ## Notes
 Managing CII incidents.

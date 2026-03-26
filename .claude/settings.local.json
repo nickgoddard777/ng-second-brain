@@ -36,7 +36,10 @@
       "Bash(bash \"M:/Projects/Obsidian/ng-second-brain/.claude/hooks/auto-commit.sh\")",
       "Bash(git push:*)",
       "Read(//c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/**)",
-      "Read(//c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/.claude/worktrees/objective-villani/**)"
+      "Read(//c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/.claude/worktrees/objective-villani/**)",
+      "Bash(sed -i 's/^status: pending/status: complete/' \"tasks/sign-arkell-way-documents.md\")",
+      "Bash(sed -i 's/^status: pending/status: complete/' \"tasks/ask-neil-to-raise ticket-to-sort-entra access.md\")",
+      "Bash(sed -i 's/^status: pending/status: complete/' \"tasks/investigate-inc1021180.md\")"
     ]
   }
 }

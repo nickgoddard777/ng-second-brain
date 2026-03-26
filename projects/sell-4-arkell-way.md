@@ -5,14 +5,15 @@ tags:
   - personal
 ---
 ## Next Action
-- [ ] Print documents [[print-arkell-way-documents]] (due: 2026-03-25)
-- [ ] Sign documents [[sign-arkell-way-documents]] (due: 2026-03-25)
-- [ ] Post documents [[post-arkell-way-documents]] (due: 2026-03-26)
+- [x] Print documents [[print-arkell-way-documents]] (due: 2026-03-25)
+- [x] Sign documents [[sign-arkell-way-documents]] (due: 2026-03-25)
+- [x] Post documents [[post-arkell-way-documents]] (due: 2026-03-26)
+- [ ] [[get-rus-keys]] (due: 2026-03-26)
 
 ## Tasks - Conveyancing Documents
-- [ ] [[print-arkell-way-documents]] (due: 2026-03-25)
-- [ ] [[sign-arkell-way-documents]] (due: 2026-03-25)
-- [ ] [[post-arkell-way-documents]] (due: 2026-03-26)
+- [x] [[print-arkell-way-documents]] (due: 2026-03-25)
+- [x] [[sign-arkell-way-documents]] (due: 2026-03-25)
+- [x] [[post-arkell-way-documents]] (due: 2026-03-26)
 
 ## Tasks - Clearout (due: 2026-03-22)
 - [x] [[clean-rubbish-out-of-garden]]
@@ -21,7 +22,7 @@ tags:
 - [x] [[take-hottub]]
 
 ## Tasks - Keys
-- [ ] [[get-rus-keys]] (due: 2026-03-23)
+- [ ] [[get-rus-keys]] (due: 2026-03-26)
 - [ ] [[post-mine-and-rus-keys]] (due: 2026-03-27)
 
 ## Completed
@@ -38,3 +39,6 @@ Selling 4 Arkell Way. Contact: [[pete-lysandrou]].
 2026-03-20 16:30 - Spoke to Becky@Dixons, Buyer speaking to their solicitor today - Pete has been chasing
 2026-03-24 18:54 - Email from Claire@Dixons, buyers solicitor has suggested completion date of the 2026-04-02, this just needs confirmation from the Lending Solicitor. Lisa emailed to confirm we are happy with this date.
 2026-03-25 10:21 - Call from Pete, he has received the provisional Completion Date. He is going to start the ball-rolling with Target re: the Help 2 Buy final valuation which will take 24 hours. He has also emailed the the final documents for us to sign.
+2026-03-25 15:30 - Lisa posted her signed documents
+2026-03-26 12:50 - Lisa spoke to Claire @ the conveyancers no update 
+2026-03-26 13:30 - I posted my docs off & emailed Pete to let him know

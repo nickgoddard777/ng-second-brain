@@ -8,10 +8,10 @@ tags:
 ---
 
 ## Next Action
-- List Entra permissions for Kevin, Nick & Yevgen, pass to Neil for support ticket
+- Wait for Neil to raise support ticket for Entra access
 
 - [x] [[list-entra-permissions-cii-access]]
-- [ ] [[ask-neil-to-raise ticket-to-sort-entra access]]
+- [x] [[ask-neil-to-raise ticket-to-sort-entra access]]
 - [ ] [[raise-als-development-team-retrospections-devops]]
 
 ## People
