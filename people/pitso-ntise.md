@@ -1,10 +1,16 @@
 ---
 type: person
 last-contact: 2026-03-26
-tags: []
+tags:
+  - acora
+  - colleague
+  - developer
 ---
-## Context
+# Pitso Ntise
 
+
+## Context
+BC Developer
 
 ## Follow-ups
 - [ ] [[1-1-pitso-ntise]]
