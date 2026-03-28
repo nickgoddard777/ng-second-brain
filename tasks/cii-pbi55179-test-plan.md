@@ -1,10 +1,15 @@
 ---
 type: task
 status: pending
-due: 2026-03-25
-tags: [cii, membership, webshop, work, testing]
+due: 2026-03-31
+tags:
+  - cii
+  - membership
+  - webshop
+  - work
+  - testing
 project: "[[cii-pbi55179-midyear-membership]]"
-title: "CII PBI-55179 Create Test Plan"
+title: CII PBI-55179 Create Test Plan
 ---
 # Create test plan for tester
 Create a test plan for testers to validate the implications of the midyear membership solution. Should cover:

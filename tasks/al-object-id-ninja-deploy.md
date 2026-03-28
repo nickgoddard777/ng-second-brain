@@ -1,6 +1,6 @@
 ---
 type: task
-due: 2026-03-27
+due: 2026-03-31
 status: pending
 tags:
   - tooling
@@ -17,7 +17,7 @@ Once sign-off is received, deploy AL Object ID Ninja across all BC development p
 
 ## Notes
 - Depends on: al-object-id-ninja-sign-off
-- Add extension to recommended extensions list in all project .vscode/extensions.json files
+- Add extension to the recommended extensions list in all project .vscode/extensions.json files
 - Brief the Dev Team — Teams message or short session
 - Confirm alid.ninja account/licence is set up before rollout
 - Verify all devs can connect to the shared back-end

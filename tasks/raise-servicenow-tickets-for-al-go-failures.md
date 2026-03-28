@@ -5,9 +5,9 @@ tags:
   - work
   - al-go
   - servicenow
-due: 2026-03-16
+due: 2026-03-30
 project: "[[al-go-support-email-notifications]]"
-title: "Raise ServiceNow Tickets for AL-Go Failures"
+title: Raise ServiceNow Tickets for AL-Go Failures
 ---
 
 Check the current list of AL-Go test failures and raise ServiceNow tickets for any not already recorded.

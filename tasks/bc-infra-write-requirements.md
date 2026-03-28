@@ -9,6 +9,6 @@ tags:
 project: "[[bc-dev-infrastructure-replacement]]"
 title: BC Infra Write Requirements
 ---
-Write requirements document for replacing the internal Business Central Development Infrastructure.
+Write a requirements document for replacing the internal Business Central Development Infrastructure.
 
 Related: [[bc-dev-infrastructure-replacement]]

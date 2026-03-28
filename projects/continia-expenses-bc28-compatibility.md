@@ -14,7 +14,7 @@ Raise a support call with Continia Support regarding BC 28 incompatibility.
 
 ## Tasks
 - [x] [[tasks/continia-expenses-raise-support-call]] - Raise call with Continia Support
-- [ ] [[tasks/continia-expenses-await-response]] - Await and action Continia Support response
+- [x] [[tasks/continia-expenses-await-response]] - Await and action Continia Support response
 
 ## Notes
 - Original task captured 2026-03-17
