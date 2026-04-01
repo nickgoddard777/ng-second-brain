@@ -10,6 +10,7 @@ tags:
 - [x] Post documents [[post-arkell-way-documents]] (due: 2026-03-26)
 - [x] [[get-rus-keys]] (due: 2026-03-26)
 - [ ] Post mine and Ru's keys to Lisa [[post-mine-and-rus-keys]] (due: 2026-03-30)
+- [ ] Contact surveyors for new RICS valuation [[contact-surveyors-rics-valuation]] (due: 2026-03-31)
 
 ## Tasks - Conveyancing Documents
 - [x] [[print-arkell-way-documents]] (due: 2026-03-25)
@@ -46,3 +47,5 @@ Selling 4 Arkell Way. Contact: [[pete-lysandrou]].
 2026-03-27 14:30 - I emailed Pete and Claire for an update.
 2026-03-27 15:16 - Email from Pete with an update stating that he has the redemption figure from Halifax and has sent off the redemption request to the  Homes and Communities Agency. He isn't sure we will complete on the 2nd.
 2026-03-28 12:16 - Lisa emailed back with the fact the our survey runs out on the 7th.
+2026-03-30 10:00 - Claire @ Dixon has rang, The buyers dad has terminal cancer and will need to postpone for a month.  AAAGGGHHH!!!!!
+2026-03-30 16:15 - Spoke to Pete, got fobbed off, he is waiting for Persimmon to come back about the 

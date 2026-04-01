@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-03-30
 time: "11:30"
 tags: [mum, family]

@@ -4,6 +4,6 @@ status: pending
 tags:
   - home
 project: "[[sort-out-bedroom]]"
-due: 2026-03-29
+due: 2026-04-03
 ---
 Buy extra storage solutions.

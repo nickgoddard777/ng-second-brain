@@ -43,7 +43,8 @@
       "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain log --since=\"midnight\" --grep=\"cos:\" --oneline)",
       "Bash(do)",
       "Bash(echo \"=== $f ===\")",
-      "Read(//Users/nickgoddard/Documents/GitHub/ng-second-brain/**)"
+      "Read(//Users/nickgoddard/Documents/GitHub/ng-second-brain/**)",
+      "Bash(for file:*)"
     ]
   }
 }
