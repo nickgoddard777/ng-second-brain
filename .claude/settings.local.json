@@ -44,7 +44,10 @@
       "Bash(do)",
       "Bash(echo \"=== $f ===\")",
       "Read(//Users/nickgoddard/Documents/GitHub/ng-second-brain/**)",
-      "Bash(for file:*)"
+      "Bash(for file:*)",
+      "Bash(while read:*)",
+      "Bash(do grep:*)",
+      "Bash(echo \"$f\")"
     ]
   }
 }
