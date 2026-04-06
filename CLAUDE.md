@@ -6,7 +6,9 @@ A git-tracked Obsidian vault. This repo IS the vault (no `vault/` subfolder). Co
 
 ```
 tasks/      - Items with due dates
+tasks/archive - Tasks that are complete
 projects/   - Ongoing work with next actions
+projects/archive - Projects that are complete
 people/     - Relationship notes
 ideas/      - Captured thoughts
 context/    - LLM context (writing style, business profile)

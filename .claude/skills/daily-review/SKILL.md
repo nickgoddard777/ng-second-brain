@@ -17,8 +17,9 @@ Compare planned vs actual for today.
    - Find task files modified today: `git diff --name-only HEAD@{8am}..HEAD -- task/`
 4. Read only the relevant task files identified above
 5. Update task statuses (`status: done` for completed items)
-6. Append review section to daily note
-7. Commit: `cos: daily review for YYYY-MM-DD`
+6. Move all completed tasks to tasks/archive, and move all completed projects to projects/archive
+7. Append review section to daily note
+8. Commit: `cos: daily review for YYYY-MM-DD`
 
 ## Append to Daily Note
 

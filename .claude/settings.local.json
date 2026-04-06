@@ -47,7 +47,15 @@
       "Bash(for file:*)",
       "Bash(while read:*)",
       "Bash(do grep:*)",
-      "Bash(echo \"$f\")"
+      "Bash(echo \"$f\")",
+      "Bash(/usr/bin/git status:*)",
+      "Bash(/usr/bin/git log:*)",
+      "Bash(xcrun git:*)",
+      "Bash(/opt/homebrew/bin/git status:*)",
+      "Read(//opt/homebrew/Cellar/git/2.48.1/bin/**)",
+      "Bash(/opt/homebrew/bin/git diff:*)",
+      "Bash(/opt/homebrew/bin/git add:*)",
+      "Bash(/opt/homebrew/bin/git commit:*)"
     ]
   }
 }
