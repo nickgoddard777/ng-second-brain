@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 tags:
   - cii
   - membership
