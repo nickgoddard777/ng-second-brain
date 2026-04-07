@@ -57,7 +57,9 @@
       "Bash(/opt/homebrew/bin/git add:*)",
       "Bash(/opt/homebrew/bin/git commit:*)",
       "Bash(/opt/homebrew/bin/git push:*)",
-      "Bash(find '/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/tasks' -name *.md -type f)"
+      "Bash(find '/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/tasks' -name *.md -type f)",
+      "Bash(git pull:*)",
+      "Bash(git rebase:*)"
     ]
   }
 }
