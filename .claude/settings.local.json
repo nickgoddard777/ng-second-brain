@@ -55,7 +55,8 @@
       "Read(//opt/homebrew/Cellar/git/2.48.1/bin/**)",
       "Bash(/opt/homebrew/bin/git diff:*)",
       "Bash(/opt/homebrew/bin/git add:*)",
-      "Bash(/opt/homebrew/bin/git commit:*)"
+      "Bash(/opt/homebrew/bin/git commit:*)",
+      "Bash(/opt/homebrew/bin/git push:*)"
     ]
   }
 }
