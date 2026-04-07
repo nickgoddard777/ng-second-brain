@@ -48,4 +48,9 @@ Selling 4 Arkell Way. Contact: [[pete-lysandrou]].
 2026-03-27 15:16 - Email from Pete with an update stating that he has the redemption figure from Halifax and has sent off the redemption request to the  Homes and Communities Agency. He isn't sure we will complete on the 2nd.
 2026-03-28 12:16 - Lisa emailed back with the fact the our survey runs out on the 7th.
 2026-03-30 10:00 - Claire @ Dixon has rang, The buyers dad has terminal cancer and will need to postpone for a month.  AAAGGGHHH!!!!!
-2026-03-30 16:15 - Spoke to Pete, got fobbed off, he is waiting for Persimmon to come back about the 
+2026-03-30 16:15 - Spoke to Pete, got fobbed off, he is waiting for Persimmon to come back about the Certificates, Pete says Claire needs to ask about the buyer paying for the valuation. I asked about putting it back on the market and his estimate once we had a buyer process would be 3-4months.
+2026-03-30 16:34 - Spoke to Claire@Dixons, asked if she can pay for valuation, she tried to fob me off. She did tell me Pete can write a letter to my creditors.
+2026-03-30 16:40 - Told Lisa about the calls
+2026-03-31 15:49 - email from Claire, She had spoken to the buyers, they will have an update next week.
+2026-03-31 16:17 - Lisa's replied saying she had been in touch to get a new valuation
+2026-04-07 13:20 - Lisa let me know that the Valuation is booked for the 16th.

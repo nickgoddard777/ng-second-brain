@@ -1,8 +1,10 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-04-01
-tags: [car, mot]
+tags:
+  - car
+  - mot
 ---
 Arrange MOT appointment for the Golf.
 
