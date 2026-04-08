@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Next Action
-- Wait for Neil to raise support ticket for Entra access
+- [[raise-als-development-team-retrospections-devops]]
 
 - [x] [[list-entra-permissions-cii-access]]
 - [x] [[ask-neil-to-raise ticket-to-sort-entra access]]

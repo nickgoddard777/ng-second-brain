@@ -43,7 +43,9 @@ In particular, we need clarity on whether existing code paths are shared between
 - [x] Confirm with Stuart Simpson how the Web Shop handles midyear membership orders [[cii-pbi55179-confirm-webshop-handling]]
 - [x] Investigate where to update unit price [[cii-pbi55179-investigate-unit-price]]
 - [x] Write Solution Document [[cii-pbi55179-write-solution]]
-- [ ] Create test plan for testers [[cii-pbi55179-test-plan]]
+- [x] Create test plan for testers [[cii-pbi55179-test-plan]]
+- [ ] Update SRD [[cii-pbi55179-update-srd]]
+- [ ] Create and send Pricing workflow diagram [[cii-pbi55179-pricing-workflow-diagram]]
 
 ## Notes
 - [[cii-pbi55179-webshop-order-import-process-flow]] — idea: process flow for web shop order importing
