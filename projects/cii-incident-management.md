@@ -19,9 +19,9 @@ tags:
 - [x] [[cii-investigate-inc1029013]]
 - [ ] [[cii-investigate-inc1029193]]
 - [ ] [[cii-investigate-inc1029197]]
-- [ ] [[cii-investigate-inc1029302]]
-- [ ] [[cii-investigate-inc1029870]]
-- [ ] [[cii-investigate-inc1029753]]
+- [x] [[cii-investigate-inc1029302]]
+- [x] [[cii-investigate-inc1029870]]
+- [x] [[cii-investigate-inc1029753]]
 
 ## Notes
 Managing CII incidents.
