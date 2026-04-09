@@ -7,9 +7,9 @@ tags:
 ---
 
 ## Next Action
-- Meeting D365 Instance Setup
+- [x] Meeting D365 Instance Setup
 
 ## Tasks
-- [[meeting-d365-instance-setup]]
+- [x] [[meeting-d365-instance-setup]]
 
 ## Notes
