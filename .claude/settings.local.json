@@ -70,7 +70,8 @@
       "Bash(printf %s '{\"file_path\":\"C:\\\\Users\\\\test\"}')",
       "Bash(printf '{\"tool_input\":{\"file_path\":\"C:\\\\\\\\\\\\\\\\Users\\\\\\\\\\\\\\\\test.md\"}}')",
       "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\).on\\('end',\\(\\)=>{process.stderr.write\\('RAW: '+d+'\\\\n'\\);try{const j=JSON.parse\\(d\\);console.log\\(j?.tool_input?.file_path||'EMPTY'\\);}catch\\(e\\){console.log\\('ERR:'+e.message\\);}}\\);\")",
-      "Bash(env)"
+      "Bash(env)",
+      "Bash(bash .claude/hooks/auto-commit.sh)"
     ]
   }
 }
