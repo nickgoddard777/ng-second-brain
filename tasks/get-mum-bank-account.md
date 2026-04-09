@@ -6,5 +6,6 @@ tags:
   - mum
   - family
 project: "[[tasks-for-mum]]"
+title: Get Mum a Bank Account
 ---
 Get mum a bank account.

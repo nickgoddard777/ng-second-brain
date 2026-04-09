@@ -59,7 +59,18 @@
       "Bash(/opt/homebrew/bin/git push:*)",
       "Bash(find '/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/tasks' -name *.md -type f)",
       "Bash(git pull:*)",
-      "Bash(git rebase:*)"
+      "Bash(git rebase:*)",
+      "Bash(head -20 \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/tasks/\"*.md)",
+      "Bash(echo '{\"tool_input\":{\"file_path\":\"C:\\\\\\\\Users\\\\\\\\Nick.Goddard\\\\\\\\OneDrive - Acora Limited\\\\\\\\Documents\\\\\\\\GitHub\\\\\\\\ng-second-brain\\\\\\\\tasks\\\\\\\\cii-investigate-inc1029870.md\"}}')",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\).on\\('end',\\(\\)=>{try{const j=JSON.parse\\(d\\);console.log\\(j?.tool_input?.file_path||j?.tool_input?.filePath||''\\);}catch\\(e\\){console.log\\(''\\);}}\\);\")",
+      "Bash(echo '{\"tool_input\":{\"file_path\":\"C:\\\\\\\\Users\\\\\\\\test\\\\\\\\file.md\"}}')",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\).on\\('end',\\(\\)=>{try{const j=JSON.parse\\(d\\);console.log\\(j?.tool_input?.file_path||j?.tool_input?.filePath||''\\);}catch\\(e\\){console.log\\('ERR:'+e.message\\);}}\\);\")",
+      "Bash(printf '{\"tool_input\":{\"file_path\":\"C:\\\\\\\\\\\\\\\\Users\\\\\\\\\\\\\\\\Nick.Goddard\\\\\\\\\\\\\\\\OneDrive - Acora Limited\\\\\\\\\\\\\\\\Documents\\\\\\\\\\\\\\\\GitHub\\\\\\\\\\\\\\\\ng-second-brain\\\\\\\\\\\\\\\\tasks\\\\\\\\\\\\\\\\cii-investigate-inc1029870.md\"}}')",
+      "Bash(CLAUDE_PROJECT_DIR='C:\\\\Users\\\\Nick.Goddard\\\\OneDrive - Acora Limited\\\\Documents\\\\GitHub\\\\ng-second-brain' bash -x .claude/hooks/auto-commit.sh)",
+      "Bash(printf %s '{\"file_path\":\"C:\\\\Users\\\\test\"}')",
+      "Bash(printf '{\"tool_input\":{\"file_path\":\"C:\\\\\\\\\\\\\\\\Users\\\\\\\\\\\\\\\\test.md\"}}')",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\).on\\('end',\\(\\)=>{process.stderr.write\\('RAW: '+d+'\\\\n'\\);try{const j=JSON.parse\\(d\\);console.log\\(j?.tool_input?.file_path||'EMPTY'\\);}catch\\(e\\){console.log\\('ERR:'+e.message\\);}}\\);\")",
+      "Bash(env)"
     ]
   }
 }

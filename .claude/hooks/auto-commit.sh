@@ -1,8 +1,7 @@
 #!/bin/bash
 # Auto-commit vault changes after Write/Edit operations
 
-INPUT=$(cat)
-FILE_PATH=$(echo "$INPUT" | node -e "let d='';process.stdin.on('data',c=>d+=c).on('end',()=>{try{const j=JSON.parse(d);console.log(j?.tool_input?.file_path||j?.tool_input?.filePath||'');}catch(e){console.log('');}});")
+FILE_PATH=$(node -e "let d='';process.stdin.on('data',c=>d+=c).on('end',()=>{try{const j=JSON.parse(d);console.log(j?.tool_input?.file_path||j?.tool_input?.filePath||'');}catch(e){console.log('');}});")
 
 # Exit if no file path
 if [ -z "$FILE_PATH" ]; then
@@ -13,6 +12,10 @@ fi
 # Fall back to deriving vault root from the file path itself if CLAUDE_PROJECT_DIR is unset
 if [ -n "$CLAUDE_PROJECT_DIR" ]; then
   VAULT_ROOT=$(echo "$CLAUDE_PROJECT_DIR" | tr '\\' '/')
+elif [ -n "${BASH_SOURCE[0]}" ]; then
+  # Derive vault root from this script's location (.claude/hooks/auto-commit.sh)
+  SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+  VAULT_ROOT=$(cd "$SCRIPT_DIR/../.." && pwd)
 else
   FILE_PATH_FWD=$(echo "$FILE_PATH" | tr '\\' '/')
   # Walk up from file until we find .git

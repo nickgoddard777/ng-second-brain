@@ -5,6 +5,7 @@ status: pending
 tags:
   - home
 project: "[[sort-out-bedroom]]"
+title: Replace Bedding
 ---
 Replace bedding.
 

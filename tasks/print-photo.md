@@ -6,5 +6,6 @@ tags:
   - mum
   - family
 project: "[[tasks-for-mum]]"
+title: Print Photo for Mum
 ---
 Print photo for mum.

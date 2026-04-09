@@ -6,6 +6,8 @@ tags:
   - cii
   - incidents
   - work
+title: Investigate INC1023435 Customer Bank Account Issues
+project: "[[cii-incident-management]]"
 ---
 Investigate INC1023435 - Customer Bank Account Issues.
 

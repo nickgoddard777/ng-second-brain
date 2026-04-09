@@ -11,6 +11,8 @@ due: YYYY-MM-DD
 status: pending | in-progress | complete | cancelled
 tags: [tag1, tag2]
 created: YYYY-MM-DDTHH:MM:SS
+project: link to project
+title: task title
 ---
 
 # Task Title
@@ -23,6 +25,7 @@ Description of what needs to be done.
 ```
 
 **Status values:**
+
 - `pending` - Not started
 - `in-progress` - Currently working on
 - `complete` - Done

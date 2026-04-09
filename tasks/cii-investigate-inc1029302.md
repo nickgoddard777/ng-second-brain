@@ -6,7 +6,12 @@ tags:
   - cii
   - incidents
   - work
+title: Investigate INC1029302 Stuck Order 2001184292
+project: "[[cii-incident-management]]"
 ---
 Investigate INC1029302 - Stuck order 2001184292.
 
 [[cii-incident-management]]
+
+## Note
+Order not come through into Nav

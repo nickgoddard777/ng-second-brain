@@ -5,5 +5,6 @@ tags:
   - home
 project: "[[sort-out-bedroom]]"
 due: 2026-04-03
+title: Work Out Places to Store Everything
 ---
 Work out places to store everything.

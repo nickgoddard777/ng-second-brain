@@ -5,6 +5,7 @@ tags:
   - home
 project: "[[sort-out-bedroom]]"
 due: 2026-04-03
+title: Replace Mattress Topper
 ---
 Replace the mattress topper.
 

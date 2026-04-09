@@ -1,12 +1,13 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-04-08
 tags:
   - cii
   - membership
   - work
 project: "[[cii-pbi55179-midyear-membership]]"
+title: Update SRD for PBI-55179
 ---
 Update the SRD (Software Requirements Document) for PBI-55179 midyear membership.
 

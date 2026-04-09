@@ -44,8 +44,8 @@ In particular, we need clarity on whether existing code paths are shared between
 - [x] Investigate where to update unit price [[cii-pbi55179-investigate-unit-price]]
 - [x] Write Solution Document [[cii-pbi55179-write-solution]]
 - [x] Create test plan for testers [[cii-pbi55179-test-plan]]
-- [ ] Update SRD [[cii-pbi55179-update-srd]]
-- [ ] Create and send Pricing workflow diagram [[cii-pbi55179-pricing-workflow-diagram]]
+- [x] Update SRD [[cii-pbi55179-update-srd]]
+- [x] Create and send Pricing workflow diagram [[cii-pbi55179-pricing-workflow-diagram]]
 
 ## Notes
 - [[cii-pbi55179-webshop-order-import-process-flow]] — idea: process flow for web shop order importing
