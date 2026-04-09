@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: in-progress
 due: 2026-04-08
 tags:
   - cii
@@ -14,4 +14,4 @@ Investigate INC1029302 - Stuck order 2001184292.
 [[cii-incident-management]]
 
 ## Note
-Order not come through into Nav
+Order not come through into Nav - asked Stuart Simpson to have a look at this order
