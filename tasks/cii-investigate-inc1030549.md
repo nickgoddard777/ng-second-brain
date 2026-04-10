@@ -1,0 +1,16 @@
+---
+type: task
+status: pending
+due: 2026-04-10
+tags:
+  - cii
+  - incidents
+  - work
+title: Investigate INC1030549 Missing Invoice 2001185777
+project: "[[cii-incident-management]]"
+---
+Investigate INC1030549 - Missing invoice for order 2001185777.
+
+[[cii-incident-management]]
+
+## Notes
