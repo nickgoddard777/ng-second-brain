@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: in-progress
 due: 2026-04-10
 tags:
   - cii
