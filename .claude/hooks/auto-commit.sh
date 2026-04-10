@@ -73,4 +73,5 @@ else
 fi
 
 git commit -m "$MSG"
+git push
 exit 0
