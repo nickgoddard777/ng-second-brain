@@ -13,6 +13,7 @@ tags: [tag1, tag2]
 created: YYYY-MM-DDTHH:MM:SS
 project: link to project
 title: task title
+work-personal: work | personal
 ---
 
 # Task Title
@@ -39,6 +40,7 @@ type: project
 status: active | paused | complete | archived
 tags: [tag1, tag2]
 created: YYYY-MM-DD
+work-personal: work | personal
 ---
 
 # Project Name
@@ -103,13 +105,13 @@ date: YYYY-MM-DD
 # Day, Month DD
 
 ## Due Today
-- [ ] Task items
+- [ ] Task items [[linked-entity-slug]]
 
 ## Overdue
-- [ ] Carry-forward items (X days)
+- [ ] Carry-forward items (X days) [[linked-entity-slug]]
 
 ## Active Projects
-- Project (next: action)
+- Project (next: action) [[linked-entity-slug]]
 
 ## Review
 (Appended at end of day)
@@ -128,7 +130,7 @@ week: YYYY-WNN
 # Week NN, YYYY
 
 ## Completed
-- Summary of completed tasks
+- Summary of completed tasks [[linked-entity-slug]]
 
 ## In Progress
 - Ongoing work

@@ -79,8 +79,19 @@ type: task
 status: pending
 due: YYYY-MM-DD  # optional
 tags: []
+created: YYYY-MM-DDTHH:MM:SS
+project: [[linked-project-slug]]  # optional
+title: Task title (from input)
+work-personal: work | personal (from project if linked, else ask)
 ---
+
+# Task Title
+
 Description here.
+
+## Notes
+- Additional context
+-Related information
 ```
 
 **Project:**
@@ -89,12 +100,22 @@ Description here.
 type: project
 status: active
 tags: []
+created: YYYY-MM-DD
+work-personal: work | personal (ask if not clear)
 ---
+
+# Project Name
+
+Brief description here.
+
 ## Next Action
 - First task to do
 [[linked-task-slug]]
 
 ## Notes
+- Key dates
+- Stakeholders
+- Context
 ```
 
 **Person:**
@@ -104,11 +125,17 @@ type: person
 last-contact: YYYY-MM-DD
 tags: []
 ---
-## Context
-Who they are, relationship.
+
+# Person Name
+
+Role/relationship description here.
 
 ## Follow-ups
 - [ ] Pending items
+
+## Notes
+- Communication preferences
+- Important context
 ```
 
 **Idea:**
@@ -116,6 +143,13 @@ Who they are, relationship.
 ---
 type: idea
 tags: []
+created: YYYY-MM-DDTHH:MM:SS
 ---
+
+# Idea Title
+
 Description of the idea.
+
+## Related
+- [[linked-entity-slug]]
 ```

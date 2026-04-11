@@ -55,13 +55,13 @@ date: YYYY-MM-DD
 ---
 
 ## Due Today
-- [ ] Task items from tasks/ with today's due date
+- [ ] Task items from tasks/ with today's due date [[linked-entity-slug]]
 
 ## Overdue
-- [ ] Tasks past due (X days overdue)
+- [ ] Tasks past due (X days overdue) [[linked-entity-slug]]
 
 ## Active Projects
-- Project Name (next: next action from file)
+- Project Name (next: next action from file) [[linked-entity-slug]]
 
 ## Recent Activity
 - Items from git log

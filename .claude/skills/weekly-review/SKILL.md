@@ -103,11 +103,11 @@ date-range: YYYY-MM-DD to YYYY-MM-DD
 # Week NN, YYYY
 
 ## Completed Tasks
-- Task title (due: YYYY-MM-DD)
+- Task title (due: YYYY-MM-DD) [[linked-entity-slug]]
 - ...
 
 ## Project Updates
-- **Project Name** — what changed (status, next action)
+- **Project Name** — what changed (status, next action) [[linked-entity-slug]]
 - ...
 
 ## Activity by Day

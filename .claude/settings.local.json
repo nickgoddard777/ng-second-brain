@@ -71,7 +71,13 @@
       "Bash(printf '{\"tool_input\":{\"file_path\":\"C:\\\\\\\\\\\\\\\\Users\\\\\\\\\\\\\\\\test.md\"}}')",
       "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\).on\\('end',\\(\\)=>{process.stderr.write\\('RAW: '+d+'\\\\n'\\);try{const j=JSON.parse\\(d\\);console.log\\(j?.tool_input?.file_path||'EMPTY'\\);}catch\\(e\\){console.log\\('ERR:'+e.message\\);}}\\);\")",
       "Bash(env)",
-      "Bash(bash .claude/hooks/auto-commit.sh)"
+      "Bash(bash .claude/hooks/auto-commit.sh)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain log --since=\"2026-04-11 00:00\" --grep=\"cos:\" --oneline)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain log --since=\"midnight\" --oneline)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain status)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain log --oneline -5)",
+      "Bash(git rm:*)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain push)"
     ]
   }
 }
