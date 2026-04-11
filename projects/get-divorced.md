@@ -9,11 +9,17 @@ created: 2026-03-13
 
 ## Next Action
 
-[[tasks/wait-for-court-financial-order]]
+[[tasks/write-response-to-court-order]]
 
 ## Tasks
 
-- [ ] [[tasks/wait-for-court-financial-order]]
+- [ ] [[tasks/write-response-to-court-order]]
+- [ ] [[tasks/send-response-to-lisa]]
+- [ ] [[tasks/wait-for-lisas-response]]
+- [ ] [[tasks/obtain-envelope-for-letter]]
+- [ ] [[tasks/print-out-letter]]
+- [ ] [[tasks/post-the-letter]]
+- [x] [[tasks/wait-for-court-financial-order]]
 - [ ] [[tasks/ask-lisa-decree-absolute-timeline]]
 
 ## Notes

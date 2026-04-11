@@ -1,10 +1,12 @@
 ---
 type: task
-status: pending
-tags: [personal, legal]
+status: complete
+tags:
+  - personal
+  - legal
 created: 2026-03-13T00:00:00
 project: "[[get-divorced]]"
-title: "Wait for Court Financial Order"
+title: Wait for Court Financial Order
 ---
 
 # Wait for court financial order
