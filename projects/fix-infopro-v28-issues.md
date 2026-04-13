@@ -20,3 +20,6 @@ Address issues with Infopro extensions on Business Central v28.
 - [ ] [[fix-infopro-v28-plan-project]] (due: 2026-04-14)
 
 ## Notes
+
+[[v27-installing-dependencies-log]]
+[[v28-installing-dependencies-log]]
