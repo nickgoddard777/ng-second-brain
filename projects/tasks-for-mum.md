@@ -17,5 +17,6 @@ tags: [mum, family]
 - [x] [[check-referral-from-dr]]
 - [x] [[turn-contactless-on-bank-card]]
 - [ ] [[get-mum-bank-account]]
+- [ ] [[pay-cleaner-9th-apr]]
 
 ## Notes
