@@ -7,15 +7,15 @@ tags: [mum, family]
 - Pay papers
 
 ## Tasks
-[[take-mum-to-doctors]]
-[[pay-papers]]
-[[pay-cleaner]]
-[[asda-shop]]
-[[buy-photo-paper]]
-[[print-photo]]
-[[check-mum-got-home-from-hairdressers]]
-[[check-referral-from-dr]]
-[[turn-contactless-on-bank-card]]
-[[get-mum-bank-account]]
+- [x] [[take-mum-to-doctors]]
+- [x] [[pay-papers]]
+- [x] [[pay-cleaner]]
+- [x] [[asda-shop]]
+- [x] [[buy-photo-paper]]
+- [ ] [[print-photo]]
+- [x] [[check-mum-got-home-from-hairdressers]]
+- [x] [[check-referral-from-dr]]
+- [x] [[turn-contactless-on-bank-card]]
+- [ ] [[get-mum-bank-account]]
 
 ## Notes

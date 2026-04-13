@@ -24,3 +24,5 @@ Address issues with Infopro extensions on Business Central v28.
 
 [[v27-installing-dependencies-log]]
 [[v28-installing-dependencies-log]]
+[[acora-v27-installing-dependencies-log]]
+[[acora-v28-installing-dependencies-log]]

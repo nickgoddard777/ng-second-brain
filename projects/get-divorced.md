@@ -15,7 +15,7 @@ created: 2026-03-13
 
 - [x] [[tasks/write-response-to-court-order]]
 - [x] [[tasks/send-response-to-lisa]]
-- [ ] [[tasks/wait-for-lisas-response]]
+- [x] [[tasks/wait-for-lisas-response]]
 - [ ] [[tasks/obtain-envelope-for-letter]]
 - [ ] [[tasks/print-out-letter]]
 - [ ] [[tasks/post-the-letter]]
