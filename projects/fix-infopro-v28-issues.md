@@ -17,6 +17,7 @@ Address issues with Infopro extensions on Business Central v28.
 - [ ] Plan the project [[fix-infopro-v28-plan-project]]
 
 ## Tasks
+- [ ] [[fix-infopro-v28-raise-support-ticket]] (due: 2026-04-13)
 - [ ] [[fix-infopro-v28-plan-project]] (due: 2026-04-14)
 
 ## Notes
