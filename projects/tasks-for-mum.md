@@ -4,7 +4,7 @@ status: active
 tags: [mum, family]
 ---
 ## Next Action
-- Pay papers
+- Pay cleaner [[pay-cleaner-9th-apr]]
 
 ## Tasks
 - [x] [[take-mum-to-doctors]]
