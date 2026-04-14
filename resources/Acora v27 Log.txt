@@ -1,0 +1,620 @@
+  Missing App dependencies
+  - 8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196
+  Looking for NuGet package 8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 version 27.0.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search package using https://api.github.com/orgs/acoralimited/packages?package_type=nuget&per_page=50&page=1
+  50 packages found
+  Search package using https://api.github.com/orgs/acoralimited/packages?package_type=nuget&per_page=50&page=2
+  50 packages found
+  Search package using https://api.github.com/orgs/acoralimited/packages?package_type=nuget&per_page=50&page=3
+  2 packages found
+  Total of 102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196
+  PackageId: ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196
+  67 versions found
+  First version is 28.0.0.204337
+  Last version is 12.0.0.170586
+  Include 28.0.0.204337
+  Include 27.3.3.366256
+  Include 27.3.2.357351
+  Include 27.3.1.337512
+  Include 27.3.0.330832
+  Include 27.2.2.308617
+  Include 27.2.1.289431
+  Include 27.2.0.274809
+  Include 27.1.2.257436
+  Include 27.1.1.254354
+  Include 27.1.0.243490
+  Include 27.0.0.209461
+  Include 27.0.0.195518
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaExpenseManagement.symbols.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196
+  PackageId: ContiniaSoftware.ContiniaExpenseManagement.symbols.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196
+  43 versions found
+  First version is 28.0.0.204337
+  Last version is 25.0.0.193193
+  Include 28.0.0.204337
+  Include 27.3.3.366256
+  Include 27.3.2.357351
+  Include 27.3.1.337512
+  Include 27.3.0.330832
+  Include 27.2.2.308617
+  Include 27.2.1.289431
+  Include 27.2.0.274809
+  Include 27.1.2.257436
+  Include 27.1.1.254354
+  Include 27.1.0.243490
+  Include 27.0.0.209461
+  Include 27.0.0.195518
+  Best match for package name 8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 Version 27.0.0.0: ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 Version 28.0.0.204337 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 version 28.0.0.204337
+  NuGet package ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 (version 28.0.0.204337) requires application 28.0.0.0. You cannot install it on version 27.5.46862.48298
+  Best match for package name 8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 Version 27.0.0.0: ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 Version 27.3.3.366256 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 version 27.3.3.366256
+  Using cached package for ContiniaSoftware.ContiniaExpenseManagement.8d4eab29-8c7f-4b6c-be9a-b7fdfb9da196 version 27.3.3.366256
+  Downloading dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 version 27.3.0.0
+  Looking for NuGet package e4b442d0-e8e3-4210-bfca-f1e66686caa0 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=e4b442d0-e8e3-4210-bfca-f1e66686caa0&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0
+  PackageId: ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0
+  30 versions found
+  First version is 28.0.0.199501
+  Last version is 26.0.0.183456
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=e4b442d0-e8e3-4210-bfca-f1e66686caa0&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaSystemApplication.symbols.e4b442d0-e8e3-4210-bfca-f1e66686caa0
+  PackageId: ContiniaSoftware.ContiniaSystemApplication.symbols.e4b442d0-e8e3-4210-bfca-f1e66686caa0
+  30 versions found
+  First version is 28.0.0.199501
+  Last version is 26.0.0.183456
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name e4b442d0-e8e3-4210-bfca-f1e66686caa0 Version 27.3.0.0: ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0 version 28.0.0.199501
+  NuGet package ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0 (version 28.0.0.199501) requires application 28.0.0.0. You cannot install it on version 27.5.46862.48298
+  Best match for package name e4b442d0-e8e3-4210-bfca-f1e66686caa0 Version 27.3.0.0: ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaSystemApplication.e4b442d0-e8e3-4210-bfca-f1e66686caa0 version 27.3.0.330477
+  Found app file for package Continia System Application
+  Copying Continia Software_Continia System Application_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Downloading dependency d90c350c-df9b-4d16-8871-6f8d7b102f98 version 27.3.0.0
+  Looking for NuGet package d90c350c-df9b-4d16-8871-6f8d7b102f98 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=d90c350c-df9b-4d16-8871-6f8d7b102f98&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98
+  PackageId: ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98
+  15 versions found
+  First version is 28.0.0.199501
+  Last version is 27.0.0.196481
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=d90c350c-df9b-4d16-8871-6f8d7b102f98&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaOnlineConnector.symbols.d90c350c-df9b-4d16-8871-6f8d7b102f98
+  PackageId: ContiniaSoftware.ContiniaOnlineConnector.symbols.d90c350c-df9b-4d16-8871-6f8d7b102f98
+  15 versions found
+  First version is 28.0.0.199501
+  Last version is 27.0.0.196481
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name d90c350c-df9b-4d16-8871-6f8d7b102f98 Version 27.3.0.0: ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98 version 28.0.0.199501
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98 (version 28.0.0.199501))
+  Best match for package name d90c350c-df9b-4d16-8871-6f8d7b102f98 Version 27.3.0.0: ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaOnlineConnector.d90c350c-df9b-4d16-8871-6f8d7b102f98 version 27.3.0.330477
+  Downloading dependency 4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.0.0
+  Looking for NuGet package 4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=4b915d7e-c02a-435f-85ab-649086c1e002&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002
+  PackageId: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002
+  126 versions found
+  First version is 28.0.0.203532
+  Last version is 5.2.0
+  Include 28.0.0.203532
+  Include 28.0.0.200570
+  Include 27.3.3.382864
+  Include 27.3.2.344416
+  Include 27.3.1.341691
+  Include 27.3.0.330522
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=4b915d7e-c02a-435f-85ab-649086c1e002&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaCore.symbols.4b915d7e-c02a-435f-85ab-649086c1e002
+  PackageId: ContiniaSoftware.ContiniaCore.symbols.4b915d7e-c02a-435f-85ab-649086c1e002
+  44 versions found
+  First version is 28.0.0.203532
+  Last version is 25.0.0.196196
+  Include 28.0.0.203532
+  Include 28.0.0.200570
+  Include 27.3.3.382864
+  Include 27.3.2.344416
+  Include 27.3.1.341691
+  Include 27.3.0.330522
+  Best match for package name 4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.0.0: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 Version 28.0.0.203532 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 28.0.0.203532
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 (version 28.0.0.203532))
+  Best match for package name 4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.0.0: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 Version 28.0.0.200570 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 28.0.0.200570
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 (version 28.0.0.200570))
+  Best match for package name 4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.0.0: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.3.382864 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.3.382864
+  Using cached package for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.3.382864
+  Found app file for package Continia Core
+  Copying Continia Software_Continia Core_27.3.3.382864 to C:\Users\ACORADEV\AppData\Local\Temp\8415dd81-5202-4737-beb7-529acf349a06
+  Downloading dependency bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.0
+  Looking for NuGet package bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=bbb72c8a-3abf-478f-9239-a34dbc252d07&take=50
+  2 matching packages found
+  - ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  - ContiniaSoftware.ContiniaConnectivityApp.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  PackageId: ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  42 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.564550
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  PackageId: ContiniaSoftware.ContiniaConnectivityApp.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  1 versions found
+  First version is 2.0.0.356383
+  Last version is 2.0.0.356383
+  No package found matching version '27.3.0.0' for package id ContiniaSoftware.ContiniaConnectivityApp.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=bbb72c8a-3abf-478f-9239-a34dbc252d07&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaBusinessFoundation.symbols.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  PackageId: ContiniaSoftware.ContiniaBusinessFoundation.symbols.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  34 versions found
+  First version is 28.0.0.199501
+  Last version is 25.0.0.183459
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 27.3.0.0: ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 version 28.0.0.199501
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 (version 28.0.0.199501))
+  Best match for package name bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 27.3.0.0: ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.330477
+  Downloading dependency 2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.0
+  Looking for NuGet package 2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=2b9992c2-5eaf-4cdc-b33b-592d917780d2&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  PackageId: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  39 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.712779
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=2b9992c2-5eaf-4cdc-b33b-592d917780d2&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaConnectorApp.symbols.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  PackageId: ContiniaSoftware.ContiniaConnectorApp.symbols.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  35 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.732612
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name 2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.0: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 28.0.0.199501
+  Dependency 4b915d7e-c02a-435f-85ab-649086c1e002 is already installed with version 27.3.3.382864, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 (version 28.0.0.199501))
+  Best match for package name 2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.0: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.330477
+  Found app file for package Continia Connector App
+  Copying Continia Software_Continia Connector App_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\42342485-5729-4298-af92-c2539089be3a
+  Found app file for package Continia Business Foundation
+  Copying Continia Software_Continia Business Foundation_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\8415dd81-5202-4737-beb7-529acf349a06
+  Found app file for package Continia Connector App
+  Copying Continia Software_Continia Connector App_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\8415dd81-5202-4737-beb7-529acf349a06
+  Downloading dependency 2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.0
+  Looking for NuGet package 2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search package using cache
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  PackageId: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  39 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.712779
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaConnectorApp.symbols.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  PackageId: ContiniaSoftware.ContiniaConnectorApp.symbols.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  35 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.732612
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name 2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.0: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 28.0.0.199501
+  Dependency 4b915d7e-c02a-435f-85ab-649086c1e002 is already installed with version 27.3.3.382864, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 (version 28.0.0.199501))
+  Best match for package name 2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.0: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.330477
+  Found app file for package Continia Connector App
+  Copying Continia Software_Continia Connector App_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\8415dd81-5202-4737-beb7-529acf349a06
+  Downloading dependency 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.0
+  Looking for NuGet package 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=4ec0dd0d-89ca-4266-bdec-c0bdacf923e3&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  PackageId: ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  15 versions found
+  First version is 28.0.0.199501
+  Last version is 27.0.0.196481
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=4ec0dd0d-89ca-4266-bdec-c0bdacf923e3&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaApprovals.symbols.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  PackageId: ContiniaSoftware.ContiniaApprovals.symbols.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  15 versions found
+  First version is 28.0.0.199501
+  Last version is 27.0.0.196481
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 27.3.0.0: ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 28.0.0.199501
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 (version 28.0.0.199501))
+  Best match for package name 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 27.3.0.0: ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.330477
+  Found app file for package Continia Approvals
+  Copying Continia Software_Continia Approvals_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\8415dd81-5202-4737-beb7-529acf349a06
+  Found app file for package Continia Approvals
+  Copying Continia Software_Continia Approvals_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Found app file for package Continia Business Foundation
+  Copying Continia Software_Continia Business Foundation_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Found app file for package Continia Connector App
+  Copying Continia Software_Continia Connector App_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Found app file for package Continia Core
+  Copying Continia Software_Continia Core_27.3.3.382864 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Found app file for package Continia Online Connector
+  Copying Continia Software_Continia Online Connector_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Downloading dependency bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.0
+  Looking for NuGet package bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search package using cache
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using cache
+  2 matching packages found
+  - ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  - ContiniaSoftware.ContiniaConnectivityApp.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  PackageId: ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  42 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.564550
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  PackageId: ContiniaSoftware.ContiniaConnectivityApp.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  1 versions found
+  First version is 2.0.0.356383
+  Last version is 2.0.0.356383
+  No package found matching version '27.3.0.0' for package id ContiniaSoftware.ContiniaConnectivityApp.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaBusinessFoundation.symbols.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  PackageId: ContiniaSoftware.ContiniaBusinessFoundation.symbols.bbb72c8a-3abf-478f-9239-a34dbc252d07
+  34 versions found
+  First version is 28.0.0.199501
+  Last version is 25.0.0.183459
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 27.3.0.0: ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 version 28.0.0.199501
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 (version 28.0.0.199501))
+  Best match for package name bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 27.3.0.0: ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaBusinessFoundation.bbb72c8a-3abf-478f-9239-a34dbc252d07 version 27.3.0.330477
+  Found app file for package Continia Business Foundation
+  Copying Continia Software_Continia Business Foundation_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Downloading dependency 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.0
+  Looking for NuGet package 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search package using cache
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  PackageId: ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  15 versions found
+  First version is 28.0.0.199501
+  Last version is 27.0.0.196481
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaApprovals.symbols.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  PackageId: ContiniaSoftware.ContiniaApprovals.symbols.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3
+  15 versions found
+  First version is 28.0.0.199501
+  Last version is 27.0.0.196481
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 27.3.0.0: ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 28.0.0.199501
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 (version 28.0.0.199501))
+  Best match for package name 4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 27.3.0.0: ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaApprovals.4ec0dd0d-89ca-4266-bdec-c0bdacf923e3 version 27.3.0.330477
+  Found app file for package Continia Approvals
+  Copying Continia Software_Continia Approvals_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Downloading dependency 2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.0
+  Looking for NuGet package 2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search package using cache
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  PackageId: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  39 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.712779
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaConnectorApp.symbols.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  PackageId: ContiniaSoftware.ContiniaConnectorApp.symbols.2b9992c2-5eaf-4cdc-b33b-592d917780d2
+  35 versions found
+  First version is 28.0.0.199501
+  Last version is 24.0.0.732612
+  Include 28.0.0.199501
+  Include 27.3.0.330477
+  Best match for package name 2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.0: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 28.0.0.199501 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 28.0.0.199501
+  Dependency 4b915d7e-c02a-435f-85ab-649086c1e002 is already installed with version 27.3.3.382864, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 (version 28.0.0.199501))
+  Best match for package name 2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.0: ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 Version 27.3.0.330477 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.330477
+  Using cached package for ContiniaSoftware.ContiniaConnectorApp.2b9992c2-5eaf-4cdc-b33b-592d917780d2 version 27.3.0.330477
+  Found app file for package Continia Connector App
+  Copying Continia Software_Continia Connector App_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Downloading dependency 4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.0.0
+  Looking for NuGet package 4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search package using cache
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002
+  PackageId: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002
+  126 versions found
+  First version is 28.0.0.203532
+  Last version is 5.2.0
+  Include 28.0.0.203532
+  Include 28.0.0.200570
+  Include 27.3.3.382864
+  Include 27.3.2.344416
+  Include 27.3.1.341691
+  Include 27.3.0.330522
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using cache
+  1 matching packages found
+  - ContiniaSoftware.ContiniaCore.symbols.4b915d7e-c02a-435f-85ab-649086c1e002
+  PackageId: ContiniaSoftware.ContiniaCore.symbols.4b915d7e-c02a-435f-85ab-649086c1e002
+  44 versions found
+  First version is 28.0.0.203532
+  Last version is 25.0.0.196196
+  Include 28.0.0.203532
+  Include 28.0.0.200570
+  Include 27.3.3.382864
+  Include 27.3.2.344416
+  Include 27.3.1.341691
+  Include 27.3.0.330522
+  Best match for package name 4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.0.0: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 Version 28.0.0.203532 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 28.0.0.203532
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 (version 28.0.0.203532))
+  Best match for package name 4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.0.0: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 Version 28.0.0.200570 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 28.0.0.200570
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 (version 28.0.0.200570))
+  Best match for package name 4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.0.0: ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 Version 27.3.3.382864 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.3.382864
+  Using cached package for ContiniaSoftware.ContiniaCore.4b915d7e-c02a-435f-85ab-649086c1e002 version 27.3.3.382864
+  Found app file for package Continia Core
+  Copying Continia Software_Continia Core_27.3.3.382864 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Downloading dependency 0745e76d-0b72-4641-87c2-ee45db5d2c32 version 27.3.0.0
+  Looking for NuGet package 0745e76d-0b72-4641-87c2-ee45db5d2c32 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=0745e76d-0b72-4641-87c2-ee45db5d2c32&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32
+  PackageId: ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32
+  75 versions found
+  First version is 28.0.0.207389
+  Last version is 6.0.0.170387
+  Include 28.0.0.207389
+  Include 28.0.0.199693
+  Include 27.3.4.378556
+  Include 27.3.3.359735
+  Include 27.3.2.341633
+  Include 27.3.1.331496
+  Include 27.3.0.330582
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=0745e76d-0b72-4641-87c2-ee45db5d2c32&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaDeliveryNetwork.symbols.0745e76d-0b72-4641-87c2-ee45db5d2c32
+  PackageId: ContiniaSoftware.ContiniaDeliveryNetwork.symbols.0745e76d-0b72-4641-87c2-ee45db5d2c32
+  48 versions found
+  First version is 28.0.0.207389
+  Last version is 24.2.2.375450
+  Include 28.0.0.207389
+  Include 28.0.0.199693
+  Include 27.3.4.378556
+  Include 27.3.3.359735
+  Include 27.3.2.341633
+  Include 27.3.1.331496
+  Include 27.3.0.330582
+  Best match for package name 0745e76d-0b72-4641-87c2-ee45db5d2c32 Version 27.3.0.0: ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 Version 28.0.0.207389 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 version 28.0.0.207389
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 (version 28.0.0.207389))
+  Best match for package name 0745e76d-0b72-4641-87c2-ee45db5d2c32 Version 27.3.0.0: ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 Version 28.0.0.199693 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 version 28.0.0.199693
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 (version 28.0.0.199693))
+  Best match for package name 0745e76d-0b72-4641-87c2-ee45db5d2c32 Version 27.3.0.0: ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 Version 27.3.4.378556 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 version 27.3.4.378556
+  Using cached package for ContiniaSoftware.ContiniaDeliveryNetwork.0745e76d-0b72-4641-87c2-ee45db5d2c32 version 27.3.4.378556
+  Found app file for package Continia Delivery Network
+  Copying Continia Software_Continia Delivery Network_27.3.4.378556 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Downloading dependency 6da8dd2f-e698-461f-9147-8e404244dd85 version 27.3.0.0
+  Looking for NuGet package 6da8dd2f-e698-461f-9147-8e404244dd85 version 27.3.0.0 (LatestMatching match)
+  Search NuGetFeed https://nuget.pkg.github.com/acoralimited/index.json
+  Search available packages using cache GitHubPackages:orgs/acoralimited
+  102 packages found
+  0 matching packages found
+  Search NuGetFeed https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Search package using https://pkgs.dev.azure.com/continia-repository/1142b3fe-e2f6-4f1e-a391-70e5f8811ae4/_packaging/4833f7f9-57c9-441b-ab84-7e046a2c55f2/nuget/v3/query2/?q=6da8dd2f-e698-461f-9147-8e404244dd85&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85
+  PackageId: ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85
+  94 versions found
+  First version is 28.0.0.203638
+  Last version is 12.0.0.170384
+  Include 28.0.0.203638
+  Include 27.3.1.382859
+  Include 27.3.0.330595
+  Search NuGetFeed https://dynamicssmb2.pkgs.visualstudio.com/DynamicsBCPublicFeeds/_packaging/AppSourceSymbols/nuget/v3/index.json
+  Search package using https://dynamicssmb2.pkgs.visualstudio.com/571e802d-b44b-45fc-bd41-4cfddec73b44/_packaging/3f253fc9-be40-4eb5-b0e5-1a277ee0ed60/nuget/v3/query2/?q=6da8dd2f-e698-461f-9147-8e404244dd85&take=50
+  1 matching packages found
+  - ContiniaSoftware.ContiniaDocumentCapture.symbols.6da8dd2f-e698-461f-9147-8e404244dd85
+  PackageId: ContiniaSoftware.ContiniaDocumentCapture.symbols.6da8dd2f-e698-461f-9147-8e404244dd85
+  54 versions found
+  First version is 28.0.0.203638
+  Last version is 25.0.0.193193
+  Include 28.0.0.203638
+  Include 27.3.1.382859
+  Include 27.3.0.330595
+  Best match for package name 6da8dd2f-e698-461f-9147-8e404244dd85 Version 27.3.0.0: ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85 Version 28.0.0.203638 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85 version 28.0.0.203638
+  Dependency e4b442d0-e8e3-4210-bfca-f1e66686caa0 is already installed with version 27.3.0.330477, which is not compatible with the version 28.0.0.0 required by the NuGet package ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85 (version 28.0.0.203638))
+  Best match for package name 6da8dd2f-e698-461f-9147-8e404244dd85 Version 27.3.0.0: ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85 Version 27.3.1.382859 from https://pkgs.dev.azure.com/continia-repository/ContiniaBCPublicFeeds/_packaging/AppSourceApps/nuget/v3/index.json
+  Using cached nuspec for ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85 version 27.3.1.382859
+  Using cached package for ContiniaSoftware.ContiniaDocumentCapture.6da8dd2f-e698-461f-9147-8e404244dd85 version 27.3.1.382859
+  Found app file for package Continia Document Capture
+  Copying Continia Software_Continia Document Capture_27.3.1.382859 to C:\Users\ACORADEV\AppData\Local\Temp\a3f46e9b-b31b-4322-9b61-7aa12b6e5ed3
+  Found app file for package Continia Approvals
+  Copying Continia Software_Continia Approvals_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia Business Foundation
+  Copying Continia Software_Continia Business Foundation_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia Connector App
+  Copying Continia Software_Continia Connector App_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia Core
+  Copying Continia Software_Continia Core_27.3.3.382864 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia Delivery Network
+  Copying Continia Software_Continia Delivery Network_27.3.4.378556 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia Document Capture
+  Copying Continia Software_Continia Document Capture_27.3.1.382859 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia Expense Management
+  Copying Continia Software_Continia Expense Management_27.3.3.366256 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia Online Connector
+  Copying Continia Software_Continia Online Connector_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Found app file for package Continia System Application
+  Copying Continia Software_Continia System Application_27.3.0.330477 to C:\Users\ACORADEV\AppData\Local\Temp\2d92daf6-7ad2-4388-8ea6-6b23f07a9037
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia System Application_27.3.0.330477.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia System Application_27.3.0.330477.app
+  Synchronizing Continia System Application on tenant default
+  Installing Continia System Application on tenant default
+  App Continia Software_Continia System Application_27.3.0.330477.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Core_27.3.3.382864.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Core_27.3.3.382864.app
+  Synchronizing Continia Core on tenant default
+  Installing Continia Core on tenant default
+  App Continia Software_Continia Core_27.3.3.382864.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Connector App_27.3.0.330477.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Connector App_27.3.0.330477.app
+  Synchronizing Continia Connector App on tenant default
+  Installing Continia Connector App on tenant default
+  App Continia Software_Continia Connector App_27.3.0.330477.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Business Foundation_27.3.0.330477.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Business Foundation_27.3.0.330477.app
+  Synchronizing Continia Business Foundation on tenant default
+  Installing Continia Business Foundation on tenant default
+  App Continia Software_Continia Business Foundation_27.3.0.330477.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Approvals_27.3.0.330477.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Approvals_27.3.0.330477.app
+  Synchronizing Continia Approvals on tenant default
+  Installing Continia Approvals on tenant default
+  App Continia Software_Continia Approvals_27.3.0.330477.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Delivery Network_27.3.4.378556.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Delivery Network_27.3.4.378556.app
+  Synchronizing Continia Delivery Network on tenant default
+  Installing Continia Delivery Network on tenant default
+  App Continia Software_Continia Delivery Network_27.3.4.378556.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Online Connector_27.3.0.330477.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Online Connector_27.3.0.330477.app
+  Synchronizing Continia Online Connector on tenant default
+  Installing Continia Online Connector on tenant default
+  App Continia Software_Continia Online Connector_27.3.0.330477.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Document Capture_27.3.1.382859.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Document Capture_27.3.1.382859.app
+  Synchronizing Continia Document Capture on tenant default
+  Installing Continia Document Capture on tenant default
+  App Continia Software_Continia Document Capture_27.3.1.382859.app successfully published
+  Copy c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Expense Management_27.3.3.366256.app to M:\actions-runner-nextmajor\_work\A0055\A0055\.buildartifacts\Dependencies
+  Publishing c:\programdata\navcontainerhelper\Extensions\bc23823732135\253dcec7-354e-4bdc-ac51-d89b48bd2291\Continia Software_Continia Expense Management_27.3.3.366256.app
+  Synchronizing Continia Expense Management on tenant default
+  Installing Continia Expense Management on tenant default
+  App Continia Software_Continia Expense Management_27.3.3.366256.app successfully published
+  Publish-BcContainerApp Telemetry Correlation Id: ce008e87-9a50-4a2f-ae71-de5f050fe036

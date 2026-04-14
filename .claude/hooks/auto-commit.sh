@@ -8,7 +8,7 @@ VAULT_ROOT=$(cd "$SCRIPT_DIR/../.." && pwd)
 cd "$VAULT_ROOT" || exit 0
 
 # Vault content directories to auto-commit
-DIRS="tasks projects people ideas daily weekly"
+DIRS="tasks projects people ideas daily weekly outputs"
 
 # Collect all changed/new files in vault content directories
 CHANGED_FILES=()
@@ -52,6 +52,7 @@ if [ ${#UNIQUE_FILES[@]} -eq 1 ]; then
     ideas) TYPE="idea" ;;
     daily) TYPE="daily plan" ;;
     weekly) TYPE="weekly summary" ;;
+    outputs) TYPE="output" ;;
     *) TYPE="$FOLDER" ;;
   esac
 
