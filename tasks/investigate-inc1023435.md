@@ -12,3 +12,12 @@ project: "[[cii-incident-management]]"
 Investigate INC1023435 - Customer Bank Account Issues.
 
 Part of [[cii-incident-management]].
+
+## Notes
+ - CU50011 - proc CreateDirectDebitMandatSchedule this set the SEPADirectDebitMandat."Customer Bank Account Code" := Customer."Preferred Bank Account Code", The orders that are erroring the customer has a none existing Preferred Bank Account Code. 
+ - "Preferred Bank Account Code" set in the following bits of code
+	 - CU50121 CreateOrUpdateNavCustomerFromWebShop
+
+
+CBA-002624
+779146
