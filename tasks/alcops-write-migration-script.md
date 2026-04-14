@@ -18,3 +18,4 @@ Write the script to migrate from BCLinterCop to ALCops.
 
 ## Notes
 - Blocks: [[alcops-record-video]]
+- Script: [[]]
