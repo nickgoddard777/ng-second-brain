@@ -43,7 +43,7 @@ The extension auto-downloads the analyzer DLLs on first use.
 
 ## Step 2 — Update VSCode workspace settings
 
-Open the workspace `.vscode/settings.json`.
+Open the workspace settings file (file with code-workspace extension)  `Ctrl+,` → Workspace → file icon in top right.
 
 ### Remove the old LinterCop analyzer entry
 
@@ -53,22 +53,25 @@ Look for any line referencing `BusinessCentral.LinterCop.dll` inside `al.codeAna
 
 If you used the ALCops extension install (Step 1), you do **not** need to list the DLLs manually — the extension injects them. Skip to Step 3.
 
-For manual / CLI / build-server setups, add the following (keep `${CodeCop}` / `${UICop}` if you already used them):
+For manual / CLI / build-server setups, add the following (keep `${CodeCop}` / `${UICop}` / `{PerTenantExtensionCop}` if you already used them):
 
 ```json
 "al.codeAnalyzers": [
     "${CodeCop}",
     "${UICop}",
+	"${PerTenantExtensionCop}",
     "${analyzerFolder}ALCops.ApplicationCop.dll",
     "${analyzerFolder}ALCops.DocumentationCop.dll",
     "${analyzerFolder}ALCops.FormattingCop.dll",
     "${analyzerFolder}ALCops.LinterCop.dll",
     "${analyzerFolder}ALCops.PlatformCop.dll",
+	"${analyzerFolder}ALCops.TestAutomationCop.dll",
     "${analyzerFolder}ALCops.Common.dll"
 ]
 ```
 
 **`ALCops.Common.dll` is mandatory** — it is a shared dependency of every cop. Builds fail silently or produce missing-type errors without it.
+Make sure that if there are also folder level settings these don't also define the codeAnalyzers, if they do remove them. 
 
 ### Remove LinterCop-specific VSCode settings
 
