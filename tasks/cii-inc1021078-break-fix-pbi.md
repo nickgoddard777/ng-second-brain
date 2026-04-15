@@ -31,4 +31,6 @@ if SalesInvHeader.ACO_ChannelType in [SalesInvHeader.ACO_ChannelType::"Customer 
 end;
 ```
 
-If an External Doc No doesn't exist
+- If an External Doc No doesn't exist on a prepayment invoice then an error should be raised so that the external doc id can be filled in. 
+- Question: Should the Prepayment Invoice be raised if the Sales Order doesn't have an External Doc No?
+- 

@@ -17,3 +17,7 @@ work-personal: work
 # Create PBI to Fix Create Comms Entry When One Already Exists
 
 Raise a DevOps PBI to fix the Create Comms Entry logic so it correctly handles the case where a comms entry already exists.
+
+## Notes
+
+- 
