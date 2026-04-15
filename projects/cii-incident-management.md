@@ -26,6 +26,8 @@ tags:
 - [ ] [[cii-investigate-inc1030549]]
 - [ ] [[cii-investigate-inc1032468]]
 - [ ] [[cii-investigate-inc1021078]]
+- [ ] [[cii-inc1021078-support-data-fix]]
+- [ ] [[cii-inc1021078-break-fix-pbi]]
 
 ## Notes
 Managing CII incidents.
