@@ -20,3 +20,15 @@ Create the DevOps PBI for the break fix relating to INC1021078 (Pro-Forma Invoic
 ## Notes
 - Follows investigation: [[cii-investigate-inc1021078]]
 - Pair with: [[cii-inc1021078-support-data-fix]]
+
+- Code in CU 50162
+``` al
+if SalesInvHeader.ACO_ChannelType in [SalesInvHeader.ACO_ChannelType::"Customer Service",SalesInvHeader.ACO_ChannelType::Web] then begin
+	if SalesInvHeader."External Document No." <> '' then
+		OrderNo := SalesInvHeader."External Document No."
+	else
+		OrderNo := SalesInvHeader."No.";
+end;
+```
+
+If an External Doc No doesn't exist
