@@ -4,7 +4,10 @@ status: pending
 tags:
   - home
 project: "[[sort-out-bedroom]]"
-due: 2026-04-03
+due:
 title: Put Things Away
 ---
 Put things away.
+
+## Notes
+- blocked by [[buy-extra-storage-solutions]]

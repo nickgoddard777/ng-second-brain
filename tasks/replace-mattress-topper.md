@@ -4,7 +4,7 @@ status: pending
 tags:
   - home
 project: "[[sort-out-bedroom]]"
-due: 2026-04-03
+due: 2026-04-25
 title: Replace Mattress Topper
 ---
 Replace the mattress topper.

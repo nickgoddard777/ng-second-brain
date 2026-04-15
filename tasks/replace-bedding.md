@@ -1,6 +1,6 @@
 ---
 type: task
-due: 2026-04-03
+due: 2026-04-25
 status: pending
 tags:
   - home

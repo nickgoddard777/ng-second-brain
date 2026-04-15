@@ -15,6 +15,7 @@ Migrate all BC (Business Central) repositories over to AL-Go for GitHub.
 - [ ] [[al-go-migration-meeting]] - Schedule and record demo meeting (due: 2026-03-31)
 - [ ] [[al-go-migration-plan]] - Build plan for remaining repos
 - [ ] [[al-go-execute-migration]] - Execute migration plan
+- [ ] [[research-alcops-al-go-integration]] - Research ALCops AL-Go Integration
 
 ## Notes
 Sequential process: script → demo → plan → execute.

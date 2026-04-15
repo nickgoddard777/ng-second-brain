@@ -4,7 +4,10 @@ status: pending
 tags:
   - home
 project: "[[sort-out-bedroom]]"
-due: 2026-04-03
+due:
 title: Work Out Places to Store Everything
 ---
 Work out places to store everything.
+
+## Notes
+- blocked by [[sort-into-categories-floor-and-wardrobes]]

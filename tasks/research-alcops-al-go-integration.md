@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-03-31
+due: 2026-04-16
 tags:
   - al-go
   - alcops
@@ -18,3 +18,4 @@ Research how the new ALCops works and investigate how it can be incorporated int
 - Understand ALCops feature set and workflow
 - Identify integration points with AL-Go for GitHub
 - Related: [[bc-repos-al-go-migration]]
+- Related: [[migrate-bclintercop-to-alcops]]
