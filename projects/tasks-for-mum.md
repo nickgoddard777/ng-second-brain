@@ -18,5 +18,6 @@ tags: [mum, family]
 - [x] [[turn-contactless-on-bank-card]]
 - [ ] [[get-mum-bank-account]]
 - [x] [[pay-cleaner-9th-apr]]
+- [ ] [[take-mum-to-hospital-hearing-aid]]
 
 ## Notes
