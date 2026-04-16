@@ -18,7 +18,7 @@ created: 2026-03-13
 - [x] [[tasks/wait-for-lisas-response]]
 - [x] [[tasks/obtain-envelope-for-letter]]
 - [x] [[tasks/print-out-letter]]
-- [ ] [[tasks/post-the-letter]]
+- [x] [[tasks/post-the-letter]]
 - [x] [[tasks/wait-for-court-financial-order]]
 - [x] [[tasks/ask-lisa-decree-absolute-timeline]]
 
