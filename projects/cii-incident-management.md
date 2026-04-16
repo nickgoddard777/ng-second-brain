@@ -27,9 +27,9 @@ tags:
 - [ ] [[cii-investigate-inc1032468]]
 - [ ] [[cii-investigate-inc10319920]]
 - [ ] [[cii-investigate-inc1021078]]
-- [ ] [[cii-inc1021078-support-data-fix]]
-- [ ] [[cii-inc1021078-break-fix-pbi]]
-- [ ] [[cii-pbi-fix-create-comms-entry-duplicate]]
+- [x] [[cii-inc1021078-support-data-fix]]
+- [x] [[cii-inc1021078-break-fix-pbi]]
+- [x] [[cii-pbi-fix-create-comms-entry-duplicate]]
 
 ## Notes
 Managing CII incidents.
