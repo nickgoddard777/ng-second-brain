@@ -26,5 +26,8 @@ Sell the Seat Exeo via webuyanycar.
 
 ## Notes
 
-- Target: sold by end of March 2026
+- Target: sold this weekend (Sat 2026-04-18 / Sun 2026-04-19)
 - Buyer: webuyanycar
+- Schedule:
+  - Sat 18th: find V5 logbook, clean car, book webuyanycar appointment
+  - Sun 19th: take car to webuyanycar, swap insurance to Golf
