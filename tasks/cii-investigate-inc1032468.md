@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-04-14
+due: 2026-04-16
 tags:
   - work
   - cii
@@ -15,6 +15,9 @@ work-personal: work
 
 # Investigate INC1032468 Order 2001182293
 
-Investigate ServiceNow incident INC1032468 relating to Order 2001182293.
+Investigate ServiceNow incident INC1032468 relating to Order 2001182293 — order not showing in NAV.
 
 ## Notes
+- Order: 2001182293
+- Customer: 01620638B
+- Issue: Order not showing in NAV
