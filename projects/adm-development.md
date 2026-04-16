@@ -7,9 +7,10 @@ tags:
 ---
 
 ## Next Action
-- [x] Meeting D365 Instance Setup
+- [ ] Meeting - Barista BC Instance Setup & Delivery [[meeting-barista-bc-instance-setup]]
 
 ## Tasks
 - [x] [[meeting-d365-instance-setup]]
+- [ ] [[meeting-barista-bc-instance-setup]]
 
 ## Notes
