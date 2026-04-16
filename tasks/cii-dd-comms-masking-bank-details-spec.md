@@ -18,3 +18,4 @@ Write the specification for the DD Comms masking bank details bug PBI.
 
 ## Notes
 - Blocks: [[cii-dd-comms-masking-bank-details-devops-pbi]]
+- This is PBI [56292](https://dev.azure.com/thecii/Development/_workitems/edit/56292)
