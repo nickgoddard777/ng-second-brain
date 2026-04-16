@@ -4,7 +4,7 @@ status: active
 tags: [mum, family]
 ---
 ## Next Action
-- Pay cleaner [[pay-cleaner-9th-apr]]
+- Print photo [[pay-cleaner-9th-apr]]
 
 ## Tasks
 - [x] [[take-mum-to-doctors]]
@@ -17,6 +17,6 @@ tags: [mum, family]
 - [x] [[check-referral-from-dr]]
 - [x] [[turn-contactless-on-bank-card]]
 - [ ] [[get-mum-bank-account]]
-- [ ] [[pay-cleaner-9th-apr]]
+- [x] [[pay-cleaner-9th-apr]]
 
 ## Notes
