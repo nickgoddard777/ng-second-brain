@@ -9,8 +9,8 @@ tags:
 - [x] Sign documents [[sign-arkell-way-documents]] (due: 2026-03-25)
 - [x] Post documents [[post-arkell-way-documents]] (due: 2026-03-26)
 - [x] [[get-rus-keys]] (due: 2026-03-26)
-- [ ] Post mine and Ru's keys to Lisa [[take-mine-and-rus-keys]] (due: 2026-03-30)
-- [ ] Contact surveyors for new RICS valuation [[contact-surveyors-rics-valuation]] (due: 2026-03-31)
+- [ ] Take mine and Ru's keys to Lisa [[take-mine-and-rus-keys]] (due: 2026-04-23)
+- [x] Contact surveyors for new RICS valuation [[contact-surveyors-rics-valuation]] (due: 2026-03-31)
 
 ## Tasks - Conveyancing Documents
 - [x] [[print-arkell-way-documents]] (due: 2026-03-25)
