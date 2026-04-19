@@ -14,11 +14,13 @@ work-personal: work
 Investigate why Continia Expenses is not compatible with BC 28 and work with Continia Support to reach a resolution.
 
 ## Next Action
-Await resolution from Continia Support (Case 262399).
+[[continia-speak-to-stu-allen-licence]]
 
 ## Tasks
 - [x] [[tasks/archive/continia-expenses-raise-support-call]] - Raise call with Continia Support
 - [x] [[tasks/archive/continia-expenses-await-response]] - Await and action Continia Support response
+- [ ] [[continia-speak-to-stu-allen-licence]] - Speak to Stu Allen re cutting a working licence (due: 2026-04-20)
+- [ ] [[continia-cut-licence-al-go]] - Cut new licence and set up for AL-Go (dependent on Stu conversation)
 
 ## Notes
 - Original task captured 2026-03-17
