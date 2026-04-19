@@ -1,7 +1,6 @@
 ---
 type: context
 ---
-
 # Writing Style
 
 ## Voice

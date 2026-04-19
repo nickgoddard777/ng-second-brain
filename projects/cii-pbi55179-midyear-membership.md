@@ -6,6 +6,7 @@ tags:
   - membership
   - webshop
   - work
+work-personal: work
 ---
 ## PBI 55179 Midyear Membership Renewal Issue
 Feature to handle midyear membership updates for CII. Reference: [PBI55179](https://dev.azure.com/thecii/Development/_workitems/edit/55179).

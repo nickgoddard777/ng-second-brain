@@ -6,6 +6,7 @@ tags:
   - infrastructure
   - it
   - work
+work-personal: work
 ---
 # BC Dev Infrastructure Replacement
 Replace the internal Business Central Development Infrastructure. Involves writing requirements, team review, and IT sign-off.

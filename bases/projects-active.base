@@ -6,7 +6,11 @@ views:
         - file.path != this.file.path
         - type == "project"
         - status == "active"
+    groupBy:
+      property: work-personal
+      direction: ASC
     order:
+      - work-personal
       - file.name
       - status
       - tags

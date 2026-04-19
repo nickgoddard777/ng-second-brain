@@ -1,8 +1,12 @@
 ---
 type: project
 status: active
-tags: [tooling, dev-team, bc-development]
+tags:
+  - tooling
+  - dev-team
+  - bc-development
 created: 2026-03-17
+work-personal: work
 ---
 
 # AL Object ID Ninja Rollout

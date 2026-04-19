@@ -6,6 +6,7 @@ tags:
   - admin
   - personal
 created: 2026-03-12
+work-personal: personal
 ---
 # Sell Seat Exeo
 

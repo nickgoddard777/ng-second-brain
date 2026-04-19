@@ -1,7 +1,11 @@
 ---
 type: project
 status: active
-tags: [al-go, business-central, devops]
+tags:
+  - al-go
+  - business-central
+  - devops
+work-personal: work
 ---
 
 ## Goal

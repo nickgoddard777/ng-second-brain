@@ -1,7 +1,6 @@
 ---
 type: context
 ---
-
 # Business Profile
 
 ## Role
@@ -28,13 +27,13 @@ type: context
 - Dan Townsend — Application Operations Manager
 - Jiten Parekh - Applications Quality & Release Manager
 - Kevin Portellas — BC Developer
-- Stu Alllen — Enterprise Architect 
+- Stu Allen — Enterprise Architect 
 
 ## Tools & Systems
 
 - VS Code — AL Development
 - GitHub — Source Control and CI/CD Pipelines
-- Azure DevOps — PBI management and Source Control
+- Azure DevOps — PBI management and CII Source Control
 
 ## Priorities This Quarter
 
@@ -44,4 +43,4 @@ type: context
 
 ## Notes
 
-I manage a team of 5 developers, this includes line management and process improvement. I am also a hands on AL developer.
+I manage a team of 5 developers, which includes line management and process improvement. I am also a hands-on AL developer.

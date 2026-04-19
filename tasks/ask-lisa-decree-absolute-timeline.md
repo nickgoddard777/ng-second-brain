@@ -7,12 +7,12 @@ project: "[[get-divorced]]"
 title: "Ask Lisa Decree Absolute Timeline"
 ---
 
-# Ask Lisa when decree absolute will go through court
+# Ask Lisa when the decree absolute will go through the court
 
 Ask Lisa when the decree absolute will go through the court once the financial order has been completed.
 
 ## Notes
 
 - Part of [[projects/get-divorced]]
-- Depends on [[tasks/wait-for-court-financial-order]] completing first
-- Contact: [[people/lisa]]
+- Depends on [[tasks/archive/wait-for-court-financial-order]] completing first
+- Contact: [[lisa-vickerage]]

@@ -1,7 +1,9 @@
 ---
 type: project
 status: active
-tags: [home]
+tags:
+  - home
+work-personal: personal
 ---
 ## Next Action
 - Replace bedding

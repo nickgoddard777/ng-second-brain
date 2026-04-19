@@ -4,6 +4,7 @@ status: active
 tags:
   - work
   - d365
+work-personal: work
 ---
 
 ## Next Action

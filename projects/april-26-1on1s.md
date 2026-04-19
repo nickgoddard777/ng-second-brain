@@ -42,8 +42,7 @@ Carry out this month's 1:1s with direct reports. Originally scheduled around Apr
 [[1on1-writeup-yevgen-bukar]]
 
 ### Jiten Parekh (28 Apr)
-[[1on1-perform-jiten]]
-[[1on1-writeup-jiten]]
+[[1on1-have-jiten]]
 
 ## Notes
 - Perform/write-up due dates for Lukasz, Kevin, Pitso, Zeph, Yevgen to be set after rescheduling

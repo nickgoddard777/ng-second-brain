@@ -1,8 +1,12 @@
 ---
 type: project
 status: active
-tags: [continia, business-central, acora]
+tags:
+  - continia
+  - business-central
+  - acora
 created: 2026-03-17
+work-personal: work
 ---
 
 # Continia Expenses BC28 Compatibility

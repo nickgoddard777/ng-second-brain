@@ -6,6 +6,7 @@ tags:
   - al-go
   - azure
   - support
+work-personal: work
 ---
 # AL-Go Support Email Notifications
 

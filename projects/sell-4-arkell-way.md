@@ -3,8 +3,17 @@ type: project
 status: active
 tags:
   - personal
+work-personal: personal
 ---
 ## Next Action
+- [ ] [[ring-countrywide-survey-update]] (due: 2026-04-20)
+- [ ] [[ring-pete-arkell-update-apr20]] (due: 2026-04-20)
+
+## Tasks - Active
+- [ ] [[ring-countrywide-survey-update]] (due: 2026-04-20)
+- [ ] [[ring-pete-arkell-update-apr20]] (due: 2026-04-20)
+
+## Completed
 - [x] Print documents [[print-arkell-way-documents]] (due: 2026-03-25)
 - [x] Sign documents [[sign-arkell-way-documents]] (due: 2026-03-25)
 - [x] Post documents [[post-arkell-way-documents]] (due: 2026-03-26)

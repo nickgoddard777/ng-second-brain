@@ -10,7 +10,13 @@ views:
       property: project
       direction: ASC
     order:
-      - project
       - file.name
+      - due
       - status
       - tags
+      - work-personal
+      - file.mtime
+      - created
+    sort:
+      - property: due
+        direction: ASC

@@ -1,15 +1,18 @@
 ---
 type: project
 status: active
-tags: [personal, legal]
+tags:
+  - personal
+  - legal
 created: 2026-03-13
+work-personal: personal
 ---
 
 # Get Divorced
 
 ## Next Action
 
-[[tasks/write-response-to-court-order]]
+[[tasks/ring-po-change-cruise-details]]
 
 ## Tasks
 
@@ -21,7 +24,8 @@ created: 2026-03-13
 - [x] [[tasks/post-the-letter]]
 - [x] [[tasks/wait-for-court-financial-order]]
 - [x] [[tasks/ask-lisa-decree-absolute-timeline]]
+- [ ] [[tasks/ring-po-change-cruise-details]]
 
 ## Notes
 
-- [[people/lisa]]
+- [[lisa-vickerage]]

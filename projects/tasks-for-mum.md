@@ -1,7 +1,10 @@
 ---
 type: project
 status: active
-tags: [mum, family]
+tags:
+  - mum
+  - family
+work-personal: personal
 ---
 ## Next Action
 - Print photo [[print-photo]]
