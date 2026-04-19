@@ -16,10 +16,11 @@ Compare planned vs actual for today.
    - Search for tasks due today: `grep -l "due: YYYY-MM-DD" task/*.md`
    - Find task files modified today: `git diff --name-only HEAD@{8am}..HEAD -- task/`
 4. Read only the relevant task files identified above
-5. Update task statuses (`status: done` for completed items)
-6. Move all completed tasks to tasks/archive, and move all completed projects to projects/archive
-7. Append review section to daily note
-8. Commit: `cos: daily review for YYYY-MM-DD`
+5. Update task statuses (`status: complete` for completed items)
+6. Append review section to daily note
+7. Commit: `cos: daily review for YYYY-MM-DD`
+
+> **Archiving happens at the weekly review, not here.** Do not move tasks or projects to archive during the daily review.
 
 ## Append to Daily Note
 

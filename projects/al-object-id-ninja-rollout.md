@@ -14,7 +14,7 @@ work-personal: work
 Roll out the AL Object ID Ninja VS Code extension across all BC development projects and the Dev Team. Requires pricing research, a short proposal, sign-off from Matt and Jiten, then full deployment.
 
 ## Next Action
-Send proposal to Matt Hollins and Jiten for sign-off.
+Wait for Matt & Jiten to sign off [[tasks/al-object-id-ninja-wait-for-sign-off]]
 
 ## Tasks
 - [x] [[tasks/al-object-id-ninja-sort-access]] - Sort out access

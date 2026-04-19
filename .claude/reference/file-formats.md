@@ -129,12 +129,12 @@ week: YYYY-WNN
 
 # Week NN, YYYY
 
+## Planned for this Week
+- Upcoming priorities
+
 ## Completed
 - Summary of completed tasks [[linked-entity-slug]]
 
 ## In Progress
 - Ongoing work
-
-## Planned for Next Week
-- Upcoming priorities
 ```

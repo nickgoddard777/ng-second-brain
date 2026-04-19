@@ -14,7 +14,7 @@ work-personal: work
 Migrate the BC development linting tooling from BCLinterCop to ALCops.
 
 ## Next Action
-- [x] Write migration script [[alcops-write-migration-script]]
+- [ ] Record video [[alcops-record-video]] (overdue: due 2026-04-15)
 
 ## Tasks
 - [x] Write migration script [[alcops-write-migration-script]] (due: 2026-04-14)

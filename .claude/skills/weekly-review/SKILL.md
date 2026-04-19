@@ -1,97 +1,139 @@
 ---
 name: weekly-review
-description: Generate weekly review from completed tasks, project changes, and git activity. Stores in weekly/YYYY-WNN.md. Part of chief-of-staff system.
-allowed-tools: Read, Glob, Grep, Bash, Write, Edit
+description: Weekly review — archives completed tasks, updates projects, writes this week's record and next week's plan. Part of chief-of-staff system.
+allowed-tools: Read, Glob, Grep, Bash, Write, Edit, AskUserQuestion
 ---
 
 # /weekly-review - Weekly Review
 
-Summarise the past week and preview the next.
+End-of-week review: archive tasks, update projects, write this week's record, plan next week.
 
-## Steps
-
-1. Determine the current ISO week number and date range (Monday–Sunday)
-2. Gather completed tasks for the week
-3. Gather project changes for the week
-4. Pull git commit activity for the week
-5. Find tasks due next week
-6. Write `weekly/YYYY-WNN.md`
+> **Do NOT commit manually.** The PostToolUse hook auto-commits after Write/Edit operations.
 
 ---
 
-## Step 1 — Dates
+## Phase 1 — Get Review Date
 
-```bash
-# Current week identifier
-date +"%G-W%V"          # e.g. 2026-W14
+Use AskUserQuestion to ask for the review date:
 
-# Week start (Monday) and end (Sunday)
-date -v-weekday=1 +"%Y-%m-%d"   # Monday (macOS)
-date -v-weekday=0 +"%Y-%m-%d"   # Sunday (macOS)
-
-# Next week date range
-date -v+7d -v-weekday=1 +"%Y-%m-%d"   # next Monday
-date -v+7d -v-weekday=0 +"%Y-%m-%d"   # next Sunday
+```
+Question: "Which Sunday are you reviewing?"
+Header: "Review date"
+Options:
+  - "This Sunday" → compute the most recent Sunday (or today if today is Sunday)
+  - "Last Sunday" → compute the Sunday before this Sunday
+  - (Other: allow custom entry as YYYY-MM-DD)
 ```
 
-If `weekly/YYYY-WNN.md` already exists, read it first so existing content is preserved and only updated.
+From the chosen Sunday date (`REVIEW_DATE`):
+
+```bash
+# Derive dates — macOS date syntax
+REVIEW_DATE="2026-04-20"   # the chosen Sunday
+
+# Week start (Monday = Sunday - 6 days)
+date -j -f "%Y-%m-%d" -v-6d "$REVIEW_DATE" +"%Y-%m-%d"
+
+# ISO week identifier
+date -j -f "%Y-%m-%d" "$REVIEW_DATE" +"%G-W%V"
+
+# Previous week identifier (for project archiving)
+date -j -f "%Y-%m-%d" -v-7d "$REVIEW_DATE" +"%G-W%V"
+
+# Next week Monday
+date -j -f "%Y-%m-%d" -v+1d "$REVIEW_DATE" +"%Y-%m-%d"
+
+# Next week Sunday
+date -j -f "%Y-%m-%d" -v+7d "$REVIEW_DATE" +"%Y-%m-%d"
+```
+
+Store: `WEEK_START` (Monday), `WEEK_END` (Sunday = REVIEW_DATE), `WEEK_ID` (e.g. `2026-W16`), `PREV_WEEK_ID`, `NEXT_WEEK_START`, `NEXT_WEEK_END`.
+
+If `weekly/WEEK_ID.md` already exists, read it first so existing content is preserved.
 
 ---
 
-## Step 2 — Completed Tasks
+## Phase 2 — Find Completed Tasks for the Week
 
-Find tasks completed this week using git history (most reliable) AND frontmatter status:
+Find tasks completed during `WEEK_START` to `WEEK_END`:
 
 ```bash
-# Files changed this week
-git log --since="last Monday" --until="now" --name-only --pretty="" -- tasks/ | sort -u
+# Task files modified this week
+git log --after="WEEK_START 00:00" --before="WEEK_END 23:59" \
+  --name-only --pretty="" -- tasks/ | sort -u
 
-# Tasks with status: complete
+# All tasks currently showing status: complete (not yet archived)
 grep -rl "status: complete" tasks/
-grep -rl "status: complete" tasks/archive/
 ```
 
-Read the identified task files. Include tasks that:
-- Have `status: complete` AND were modified this week (from git log)
-- Or were moved to `tasks/archive/` this week
+Read each identified task file. A task counts as **completed this week** if:
+- `status: complete` AND it appears in the git log for this week's date range
+- OR it was moved to `tasks/archive/` this week (check git log for renames)
+
+Build a list of completed tasks with: title, due date, project link.
 
 ---
 
-## Step 3 — Project Changes
+## Phase 3 — Archive Completed Tasks
+
+For each completed task identified in Phase 2:
+
+1. Read the task file from `tasks/`
+2. Write it to `tasks/archive/<filename>` (same content)
+3. Delete the original from `tasks/` using Bash: `rm tasks/<filename>`
+4. For any project that references the task, update the project file:
+   - Find the task link in the project's Tasks list
+   - Mark it `[x]` if not already marked
+
+---
+
+## Phase 4 — Archive Projects Completed in the Previous Week
+
+Find projects with `status: complete` that are NOT yet in `projects/archive/`:
 
 ```bash
-# Project files touched this week
-git log --since="last Monday" --until="now" --name-only --pretty="" -- projects/ | sort -u
+grep -rl "status: complete" projects/
 ```
 
-Read those files. Note status changes, next-action updates, new projects, or archived projects.
+Read each. Check the previous week's weekly record (`weekly/PREV_WEEK_ID.md`) — if the project was listed as complete there (or it has `status: complete` set before this week), archive it now:
+
+1. Read the project file
+2. Write it to `projects/archive/<filename>`
+3. Delete the original: `rm projects/<filename>`
 
 ---
 
-## Step 4 — Git Activity Summary
+## Phase 5 — Update Project Records
+
+Read all active and paused projects from `projects/` (not archive):
 
 ```bash
-git log --since="last Monday" --until="now" --grep="cos:" --format="%ad %s" --date=short
+grep -rl "status: active\|status: paused" projects/
 ```
 
-Group by day. Identify patterns: heavy task days, project focus areas, quiet days.
+For each project:
+
+1. **Check outstanding tasks** — look at the Tasks list in the project body. For each `[ ]` item, check if the linked task file exists in `tasks/` and what its status is.
+2. **Update task checkboxes** — mark `[x]` for any tasks now complete/archived.
+3. **Update Next Action** — set it to the first remaining `[ ]` task. If none remain, clear it.
+4. **No outstanding tasks** — use AskUserQuestion:
+   ```
+   Question: "No outstanding tasks remain for [Project Name]. Mark it as?"
+   Header: "Project status"
+   Options:
+     - "Complete" → set status: complete in frontmatter
+     - "Paused" → set status: paused in frontmatter
+     - "Keep active" → leave as-is
+   ```
+5. Write the updated project file.
 
 ---
 
-## Step 5 — Tasks Due Next Week
+## Phase 6 — Write This Week's Record
 
-```bash
-# Calculate next week's Monday and Sunday dates, then grep
-grep -rl "due: NEXT-WEEK-DATE" tasks/
-```
+File: `weekly/WEEK_ID.md` (e.g. `weekly/2026-W16.md`)
 
-Build a date pattern covering Mon–Sun of next week. Read those files for title and due date. Exclude tasks with `status: complete` or `status: cancelled`.
-
----
-
-## Step 6 — Write Weekly File
-
-File path: `weekly/YYYY-WNN.md` (e.g. `weekly/2026-W14.md`)
+If the file already exists, update it in place; otherwise create it.
 
 ```markdown
 ---
@@ -103,37 +145,80 @@ date-range: YYYY-MM-DD to YYYY-MM-DD
 # Week NN, YYYY
 
 ## Completed Tasks
-- Task title (due: YYYY-MM-DD) [[linked-entity-slug]]
+- Task title (due: YYYY-MM-DD) [[task-slug]]
 - ...
 
 ## Project Updates
-- **Project Name** — what changed (status, next action) [[linked-entity-slug]]
+- **Project Name** — what changed (tasks completed, next action updated, status change) [[project-slug]]
 - ...
 
 ## Activity by Day
 - Mon YYYY-MM-DD: summary of cos: commits
 - Tue YYYY-MM-DD: ...
-- ...
-
-## Next Week
-### Due
-- [ ] Task title (due: YYYY-MM-DD)
-- ...
-
-### Active Projects — Next Actions
-- **Project Name** — next action
-- ...
+- Wed YYYY-MM-DD: ...
+- Thu YYYY-MM-DD: ...
+- Fri YYYY-MM-DD: ...
+- Sat YYYY-MM-DD: ...
+- Sun YYYY-MM-DD: ...
 
 ## Observations
-One or two sentences on patterns, blockers, or themes from the week.
+Two or three sentences on themes, blockers, wins, or patterns from the week.
 ```
+
+Pull Activity by Day from git:
+
+```bash
+git log --after="WEEK_START 00:00" --before="WEEK_END 23:59" \
+  --grep="cos:" --format="%ad %s" --date=short
+```
+
+Group commits by date. Write a one-line summary per day (omit days with no activity).
+
+For Observations: synthesise what the completed tasks and project updates reveal — recurring themes, anything blocked or unblocked, notable progress.
 
 ---
 
-## Commit
+## Phase 7 — Create Next Week's Record
 
-After writing the file:
+File: `weekly/NEXT_WEEK_ID.md`
 
+Only create this if it does not already exist.
+
+**Tasks due next week** — search for all tasks with `due:` between `NEXT_WEEK_START` and `NEXT_WEEK_END`:
+
+```bash
+# Generate each date in next week's range and grep
+for d in $(seq 0 6); do
+  date -j -f "%Y-%m-%d" -v+${d}d "$NEXT_WEEK_START" +"%Y-%m-%d"
+done
+# Then grep tasks/ for each date
+grep -rl "due: <date>" tasks/
 ```
-cos: weekly review for YYYY-WNN
+
+Read each matching task file. Exclude `status: complete` and `status: cancelled`.
+
+**Active projects** — read all projects with `status: active`. Extract the Next Action line.
+
+**Paused projects** — read all projects with `status: paused`.
+
+```markdown
+---
+type: weekly
+week: YYYY-WNN
+date-range: YYYY-MM-DD to YYYY-MM-DD
+---
+
+# Week NN, YYYY
+
+## Due This Week
+- [ ] Task title (due: YYYY-MM-DD) [[task-slug]]
+- ...
+
+## Active Projects — Next Actions
+- **Project Name** — next action [[project-slug]]
+- ...
+
+## Paused Projects
+- **Project Name** [[project-slug]]
+- ...
 ```

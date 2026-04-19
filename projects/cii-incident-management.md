@@ -8,6 +8,9 @@ tags:
 work-personal: work
 ---
 ## Next Action
+- [ ] [[investigate-inc1023435]]
+
+## Tasks
 - [x] [[review-inc1014760]]
 - [x] [[review-inc1015406]]
 - [x] [[review-inc1015233]]

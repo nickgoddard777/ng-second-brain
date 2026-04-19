@@ -14,11 +14,11 @@ work-personal: work
 Investigate why Continia Expenses is not compatible with BC 28 and work with Continia Support to reach a resolution.
 
 ## Next Action
-Raise a support call with Continia Support regarding BC 28 incompatibility.
+Await resolution from Continia Support (Case 262399).
 
 ## Tasks
-- [x] [[tasks/continia-expenses-raise-support-call]] - Raise call with Continia Support
-- [x] [[tasks/continia-expenses-await-response]] - Await and action Continia Support response
+- [x] [[tasks/archive/continia-expenses-raise-support-call]] - Raise call with Continia Support
+- [x] [[tasks/archive/continia-expenses-await-response]] - Await and action Continia Support response
 
 ## Notes
 - Original task captured 2026-03-17
