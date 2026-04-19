@@ -8,12 +8,12 @@ work-personal: work
 ---
 
 ## Next Action
-- [ ] Meeting - Barista BC Instance Setup & Delivery [[meeting-barista-bc-instance-setup]]
+- [ ] [[adm-sort-fdl-v28-compatibility]]
 
 ## Tasks
 - [x] [[meeting-d365-instance-setup]]
-- [ ] [[meeting-barista-bc-instance-setup]]
-- [ ] [[adm-update-fdl-repo-to-al-go]]
+- [x] [[meeting-barista-bc-instance-setup]]
+- [x] [[adm-update-fdl-repo-to-al-go]]
 - [ ] [[adm-sort-fdl-v28-compatibility]]
 - [ ] [[adm-zip-code-repo-for-adm]]
 - [ ] [[adm-draft-email-al-go-guide]]
