@@ -17,6 +17,7 @@ Carry out the HSL handover — remove telemetry, archive repos, publish updated 
 
 ## Tasks
 - [x] [[hsl-handover-remove-telemetry]] — Remove telemetry from 01 and 05 apps
+- [ ] [[hsl-handover-remove-telemetry-admin-centre]] — Remove telemetry from admin centre (due: 2026-04-19)
 - [x] [[hsl-handover-download-zips]] — Download zips of all 4 repos
 - [x] [[hsl-handover-publish-01-uat]] — Publish updated 01 app to UAT
 - [x] [[hsl-handover-publish-fat]] — Publish updated app to FAT environments
