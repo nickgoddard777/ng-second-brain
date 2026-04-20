@@ -21,7 +21,7 @@ Carry out the HSL handover — remove telemetry, archive repos, publish updated 
 - [x] [[hsl-handover-download-zips]] — Download zips of all 4 repos
 - [x] [[hsl-handover-publish-01-uat]] — Publish updated 01 app to UAT
 - [x] [[hsl-handover-publish-fat]] — Publish updated app to FAT environments
-- [ ] [[hsl-handover-speak-to-josh]] — Speak to Josh re handover (due: 2026-04-20)
+- [x] [[hsl-handover-speak-to-josh]] — Speak to Josh re handover (due: 2026-04-20)
 - [x] [[hsl-handover-publish-prod]] — Publish updated app to PROD
 - [ ] [[hsl-handover-investigate-ado-move]] — Investigate how to move the Azure DevOps project
 
