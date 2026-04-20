@@ -24,7 +24,7 @@ work-personal: personal
 - [x] [[tasks/post-the-letter]]
 - [x] [[tasks/wait-for-court-financial-order]]
 - [x] [[tasks/ask-lisa-decree-absolute-timeline]]
-- [x] [[tasks/ring-po-change-cruise-details]]
+- [x] [[tasks/archive/ring-po-change-cruise-details]]
 - [ ] [[tasks/po-cruise-follow-up]]
 
 ## Notes
