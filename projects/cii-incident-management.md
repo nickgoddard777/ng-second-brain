@@ -30,6 +30,8 @@ work-personal: work
 - [ ] [[cii-investigate-inc1030549]]
 - [ ] [[cii-investigate-inc1032468]]
 - [ ] [[cii-investigate-inc1031920]]
+- [ ] [[cii-investigate-inc1034613]]
+- [ ] [[cii-investigate-inc1033999]]
 - [x] [[cii-investigate-inc1021078]]
 - [x] [[cii-inc1021078-support-data-fix]]
 - [x] [[cii-inc1021078-break-fix-pbi]]
