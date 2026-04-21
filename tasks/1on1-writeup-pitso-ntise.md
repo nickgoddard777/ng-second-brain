@@ -9,6 +9,7 @@ created: 2026-04-19T00:00:00
 project: "[[april-26-1on1s]]"
 title: Write Up 1:1 - Pitso Ntise
 work-personal: work
+due: 2026-04-27
 ---
 
 # Write Up 1:1 - Pitso Ntise

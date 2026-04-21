@@ -9,6 +9,7 @@ created: 2026-04-19T00:00:00
 project: "[[april-26-1on1s]]"
 title: Perform 1:1 - Kevin Portellas
 work-personal: work
+due: 2026-04-28
 ---
 
 # Perform 1:1 - Kevin Portellas
