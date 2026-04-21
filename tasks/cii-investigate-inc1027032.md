@@ -17,3 +17,5 @@ work-personal: work
 Adyen and MOTO Card payments — bank side of transaction is not posted to the ledger.
 
 ## Notes
+
+- 2026-04-21: Waiting for Dan to confirm config change can proceed.
