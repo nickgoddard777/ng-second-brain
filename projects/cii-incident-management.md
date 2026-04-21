@@ -42,3 +42,5 @@ work-personal: work
 
 ## Notes
 Managing CII incidents.
+
+- CRM - Smart Impact
