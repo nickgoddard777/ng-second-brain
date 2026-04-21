@@ -1,7 +1,7 @@
 ---
 type: task
-status: complete
-due: 2026-04-07
+status: in-progress
+due:
 tags:
   - cii
   - incidents
@@ -19,3 +19,6 @@ This is called in 3 Places
 - OnAfterReopenSalesDoc - checks if ACO_PublishToMagento
 - OnAfterReopenSalesDoc - if Return Order and ACO_PublishToMagento and OrderType = Standard and ChannelType = Customer Service
 - ValidateReturnOrder - if not CorporateAcct and ACO_PublishToMagento
+
+
+Created a PBI for this.
