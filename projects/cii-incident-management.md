@@ -10,7 +10,8 @@ work-personal: work
 ## Next Action
 - [ ] [[cii-investigate-inc1038074]]
 - [ ] [[cii-investigate-inc1038308]]
-- [ ] [[cii-investigate-inc1036434]]
+- [x] [[cii-investigate-inc1036434]]
+- [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
 - [ ] [[cii-investigate-inc1038768]]
 - [ ] [[cii-investigate-inc1033419]]
 
@@ -46,7 +47,8 @@ work-personal: work
 - [x] [[cii-pbi-fix-create-comms-entry-duplicate]]
 - [ ] [[cii-investigate-inc1038074]]
 - [ ] [[cii-investigate-inc1038308]]
-- [ ] [[cii-investigate-inc1036434]]
+- [x] [[cii-investigate-inc1036434]]
+- [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
 - [ ] [[cii-investigate-inc1038768]]
 - [ ] [[cii-investigate-inc1033419]]
 
