@@ -21,7 +21,7 @@ Build Amazon and eBay integrations for Haynes.
 ## Tasks
 
 ### Meeting
-- [ ] [[haynes-integrations-stakeholder-meeting]]
+- [x] [[haynes-integrations-stakeholder-meeting]]
 
 ### eBay - Sales Invoice / Credits
 - [ ] [[haynes-ebay-si-variant-code-mapping]]

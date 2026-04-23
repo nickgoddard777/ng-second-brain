@@ -16,12 +16,12 @@ Reinstate the GenerateAPIToken function into the CII API calls to restore proper
 
 ## Next Action
 
-- [ ] Swarm call [[cii-generate-api-token-swarm-call]]
+- [ ] Write the code to reinstate GenerateAPIToken [[cii-write-generate-api-token-code]]
 
 ## Tasks
 
-- [ ] Swarm call [[cii-generate-api-token-swarm-call]]
-- [ ] Create PBI for INC1037720 [[cii-create-pbi-inc1037720]]
+- [x] Swarm call [[cii-generate-api-token-swarm-call]]
+- [x] Create PBI for INC1037720 [[cii-create-pbi-inc1037720]]
 - [ ] Write the code to reinstate GenerateAPIToken [[cii-write-generate-api-token-code]]
 - [ ] Apply fix to UAT and test [[cii-apply-generate-api-token-fix-uat]]
 

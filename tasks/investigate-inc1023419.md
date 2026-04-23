@@ -1,7 +1,7 @@
 ---
 type: task
-status: in-progress
-due:
+status: complete
+due: 2026-04-23
 tags:
   - cii
   - incidents
