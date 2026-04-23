@@ -10,6 +10,8 @@ work-personal: work
 ## Next Action
 - [ ] [[cii-investigate-inc1038074]]
 - [ ] [[cii-investigate-inc1038308]]
+- [ ] [[cii-investigate-inc1036434]]
+- [ ] [[cii-investigate-inc1038768]]
 
 ## Tasks
 - [x] [[review-inc1014760]]
