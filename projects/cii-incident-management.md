@@ -41,6 +41,8 @@ work-personal: work
 - [x] [[cii-inc1021078-support-data-fix]]
 - [x] [[cii-inc1021078-break-fix-pbi]]
 - [x] [[cii-pbi-fix-create-comms-entry-duplicate]]
+- [ ] [[cii-investigate-inc1038074]]
+- [ ] [[cii-investigate-inc1038308]]
 
 ## Notes
 Managing CII incidents.
