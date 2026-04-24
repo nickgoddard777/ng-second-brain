@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-04-21
+due: 2026-04-26
 tags:
   - work
   - d365
