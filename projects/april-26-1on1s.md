@@ -14,7 +14,7 @@ work-personal: work
 Carry out this month's 1:1s with direct reports. Originally scheduled around April 26 — rescheduling underway.
 
 ## Next Action
-- Reschedule this month's 1:1 dates [[reschedule-april-1on1s]]
+- Perform Zephs 1:1 [[1on1-perform-zeph-lakota]]
 
 ## Tasks
 
