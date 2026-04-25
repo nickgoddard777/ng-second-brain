@@ -14,11 +14,13 @@ work-personal: work
 Address issues with Infopro extensions on Business Central v28.
 
 ## Next Action
-- [ ] Plan the project [[fix-infopro-v28-plan-project]]
+- [ ] Fix deferral schedule tests [[fix-infopro-v28-deferral-schedule-tests]]
 
 ## Tasks
 - [x] [[fix-infopro-v28-raise-support-ticket]] (due: 2026-04-13)
-- [ ] [[fix-infopro-v28-plan-project]] (due: 2026-04-14)
+- [x] [[fix-infopro-v28-plan-project]] (due: 2026-04-14)
+- [ ] [[fix-infopro-v28-deferral-schedule-tests]] (due: 2026-04-26)
+- [ ] [[fix-infopro-v28-salesforce-inbound-tests]] (due: 2026-04-26)
 
 ## Notes
 
