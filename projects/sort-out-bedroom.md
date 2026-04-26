@@ -6,13 +6,13 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- Replace bedding
+- Replace mattress topper [[replace-mattress-topper]]
 
 ## Tasks
-[[replace-bedding]]
+[x] [[replace-bedding]]
+[x] [[sort-top-of-wooden-chest]]
 [[replace-mattress-topper]]
 [[wash-clothes]]
-[[sort-top-of-wooden-chest]]
 [[sort-into-categories-floor-and-wardrobes]]
 [[work-out-places-to-store-everything]]
 [[work-out-if-more-storage-needed]]
