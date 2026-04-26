@@ -10,6 +10,7 @@ work-personal: personal
 - Print photo [[print-photo]]
 
 ## Tasks
+- [ ] [[order-chippings]]
 - [ ] [[find-my-labeller]]
 - [ ] [[put-impact-driver-in-car]]
 - [ ] [[label-cupboard-doors]]
