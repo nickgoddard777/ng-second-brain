@@ -24,6 +24,6 @@ Organise upcoming gigs — Nirvana tribute and/or Surrender Dorothy next weekend
 - [ ] [[book-nirvana-tickets]]
 
 ## People
-- [[dave]]
-- [[kate]]
+- [[dave-marriott]]
+- [[kate-devaney]]
 - [[melissa-vickerage]]
