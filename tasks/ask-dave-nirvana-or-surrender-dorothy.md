@@ -15,4 +15,4 @@ work-personal: personal
 
 Ask Dave if he wants to come to the Nirvana tribute or Surrender Dorothy next weekend.
 
-[[dave]]
+[[dave-marriott]]
