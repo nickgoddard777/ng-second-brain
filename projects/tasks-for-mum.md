@@ -28,6 +28,6 @@ work-personal: personal
 - [ ] [[get-mum-bank-account]]
 - [x] [[pay-cleaner-9th-apr]]
 - [ ] [[take-mum-to-hospital-hearing-aid]]
-- [ ] [[order-birthday-card-poppie]]
+- [x] [[order-birthday-card-poppie]]
 
 ## Notes
