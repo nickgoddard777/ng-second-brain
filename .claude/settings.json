@@ -13,7 +13,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "if [ \"$(uname)\" = \"Darwin\" ]; then \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/auto-commit-macos.sh; else bash \"C:/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/.claude/hooks/auto-commit.sh\"; fi",
+            "command": "if [ \"$(uname)\" = \"Darwin\" ]; then bash \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/auto-commit-macos.sh; else bash \"C:/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain/.claude/hooks/auto-commit.sh\"; fi",
             "timeout": 30
           }
         ]
