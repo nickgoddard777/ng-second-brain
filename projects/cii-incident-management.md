@@ -8,12 +8,7 @@ tags:
 work-personal: work
 ---
 ## Next Action
-- [ ] [[cii-investigate-inc1038074]]
-- [ ] [[cii-investigate-inc1038308]]
-- [x] [[cii-investigate-inc1036434]]
 - [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
-- [ ] [[cii-investigate-inc1038768]]
-- [ ] [[cii-investigate-inc1033419]]
 
 ## Tasks
 - [x] [[review-inc1014760]]
