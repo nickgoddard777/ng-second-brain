@@ -15,4 +15,4 @@ work-personal: personal
 
 Ask Kate if she wants to come to the Nirvana tribute or Surrender Dorothy next weekend.
 
-[[kate]]
+[[kate-devaney]]
