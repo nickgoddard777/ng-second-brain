@@ -19,7 +19,7 @@ Carry out this month's 1:1s with direct reports. Originally scheduled around Apr
 ## Tasks
 
 ### Reschedule
-[[reschedule-april-1on1s]]
+[x] [[reschedule-april-1on1s]]
 
 ### Lukasz Rodewald
 [[1on1-perform-lukasz-rodewald]]
