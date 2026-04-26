@@ -40,12 +40,12 @@ work-personal: work
 - [x] [[cii-inc1021078-support-data-fix]]
 - [x] [[cii-inc1021078-break-fix-pbi]]
 - [x] [[cii-pbi-fix-create-comms-entry-duplicate]]
-- [ ] [[cii-investigate-inc1038074]]
-- [ ] [[cii-investigate-inc1038308]]
+- [x] [[cii-investigate-inc1038074]]
+- [x] [[cii-investigate-inc1038308]]
 - [x] [[cii-investigate-inc1036434]]
 - [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
-- [ ] [[cii-investigate-inc1038768]]
-- [ ] [[cii-investigate-inc1033419]]
+- [x] [[cii-investigate-inc1038768]]
+- [x] [[cii-investigate-inc1033419]]
 
 ## Notes
 Managing CII incidents.
