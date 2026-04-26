@@ -1,7 +1,7 @@
 ---
 type: task
 due: 2026-04-26
-status: pending
+status: complete
 tags:
   - home
 project: "[[sort-out-bedroom]]"
