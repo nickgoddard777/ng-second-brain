@@ -10,7 +10,9 @@ work-personal: work
 ## Next Action
 
 - [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
-- [ ] [[cii-inc1036434-second-data-import]]
+- [x] [[cii-inc1036434-second-data-import]]
+- [ ] [[cii-rerun-0-payments-2026-04-27]]
+- [ ] [[cii-fix-sepa-bank-accounts-2026-04-27]]
 
 ## Tasks
 
