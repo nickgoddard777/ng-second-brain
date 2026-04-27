@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-04-29
+due: 2026-04-30
 tags:
   - business-central
   - infrastructure

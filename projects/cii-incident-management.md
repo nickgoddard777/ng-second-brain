@@ -8,15 +8,12 @@ tags:
 work-personal: work
 ---
 ## Next Action
-- [ ] [[cii-investigate-inc1038074]]
-- [ ] [[cii-investigate-inc1038308]]
-- [x] [[cii-investigate-inc1036434]]
+
 - [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
 - [ ] [[cii-inc1036434-second-data-import]]
-- [ ] [[cii-investigate-inc1038768]]
-- [ ] [[cii-investigate-inc1033419]]
 
 ## Tasks
+
 - [x] [[review-inc1014760]]
 - [x] [[review-inc1015406]]
 - [x] [[review-inc1015233]]
@@ -46,14 +43,16 @@ work-personal: work
 - [x] [[cii-inc1021078-support-data-fix]]
 - [x] [[cii-inc1021078-break-fix-pbi]]
 - [x] [[cii-pbi-fix-create-comms-entry-duplicate]]
-- [ ] [[cii-investigate-inc1038074]]
-- [ ] [[cii-investigate-inc1038308]]
+- [x] [[cii-investigate-inc1038074]]
+- [x] [[cii-investigate-inc1038308]]
 - [x] [[cii-investigate-inc1036434]]
 - [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
-- [ ] [[cii-investigate-inc1038768]]
-- [ ] [[cii-investigate-inc1033419]]
+- [x] [[cii-investigate-inc1038768]]
+- [x] [[cii-investigate-inc1033419]]
+- [ ] [[cii-inc1036434-second-data-import]]
 
 ## Notes
+
 Managing CII incidents.
 
 - CRM - Smart Impact

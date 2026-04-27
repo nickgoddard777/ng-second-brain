@@ -83,7 +83,17 @@
       "Bash(git -C \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain\" log --since=\"midnight\" --grep=\"cos:\" --oneline)",
       "Bash(git -C \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain\" status)",
       "Bash(git -C \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain\" diff --stat HEAD)",
-      "Bash(git -C \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain\" diff .claude/settings.local.json)"
+      "Bash(git -C \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain\" diff .claude/settings.local.json)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain diff HEAD)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain add daily/2026-04-25.md projects/fix-infopro-v28-issues.md tasks/fix-infopro-v28-plan-project.md tasks/fix-infopro-v28-deferral-schedule-tests.md tasks/fix-infopro-v28-salesforce-inbound-tests.md tasks/po-cruise-follow-up.md tasks/replace-bedding.md tasks/take-mine-and-rus-keys.md .claude/settings.json .claude/settings.local.json)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain commit -m ' *)",
+      "Bash(chmod +x /Users/nickgoddard/Documents/GitHub/ng-second-brain/.claude/hooks/auto-commit-macos.sh)",
+      "Bash(bash /Users/nickgoddard/Documents/GitHub/ng-second-brain/.claude/hooks/auto-commit-macos.sh)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain add .claude/settings.json)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\('hooks', {}\\), indent=2\\)\\)\")",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain status --short)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain add daily/2026-04-25.md tasks/adm-sort-fdl-v28-compatibility.md tasks/find-v5-logbook.md tasks/sort-top-of-wooden-chest.md tasks/swap-insurance-to-vw-golf.md)",
+      "Bash(git -C /Users/nickgoddard/Documents/GitHub/ng-second-brain commit -m \"cos: batch commit - sync Obsidian edits \\(daily 2026-04-25, adm-sort-fdl-v28-compatibility, find-v5-logbook, sort-top-of-wooden-chest, swap-insurance-to-vw-golf\\)\")"
     ]
   }
 }

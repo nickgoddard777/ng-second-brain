@@ -1,11 +1,12 @@
 ---
 type: task
 status: pending
-due: 2026-04-22
+due: 2026-04-26
 tags:
   - personal
 created: 2026-04-19T00:00:00
-project: [[projects/get-divorced]]
+project:
+  - - projects/get-divorced
 title: Follow up with P&O re cruise booking changes
 work-personal: personal
 ---

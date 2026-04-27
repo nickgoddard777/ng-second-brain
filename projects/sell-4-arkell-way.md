@@ -6,19 +6,19 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- [ ] [[ring-countrywide-survey-update]] (due: 2026-04-20)
-- [ ] [[ring-pete-arkell-update-apr20]] (due: 2026-04-20)
+- [ ] [[arkell-way-wait-to-hear-from-buyer]] (due: 2026-05-06)
 
 ## Tasks - Active
-- [ ] [[ring-countrywide-survey-update]] (due: 2026-04-20)
-- [ ] [[ring-pete-arkell-update-apr20]] (due: 2026-04-20)
+- [ ] [[arkell-way-wait-to-hear-from-buyer]] (due: 2026-05-06)
+- [x] [[ring-countrywide-survey-update]] (due: 2026-04-20)
+- [x] [[ring-pete-arkell-update-apr20]] (due: 2026-04-20)
 
 ## Completed
 - [x] Print documents [[print-arkell-way-documents]] (due: 2026-03-25)
 - [x] Sign documents [[sign-arkell-way-documents]] (due: 2026-03-25)
 - [x] Post documents [[post-arkell-way-documents]] (due: 2026-03-26)
 - [x] [[get-rus-keys]] (due: 2026-03-26)
-- [ ] Take mine and Ru's keys to Lisa [[take-mine-and-rus-keys]] (due: 2026-04-23)
+- [x] Take mine and Ru's keys to Lisa [[take-mine-and-rus-keys]] (due: 2026-04-23)
 - [x] Contact surveyors for new RICS valuation [[contact-surveyors-rics-valuation]] (due: 2026-03-31)
 
 ## Tasks - Conveyancing Documents
@@ -34,7 +34,7 @@ work-personal: personal
 
 ## Tasks - Keys
 - [x] [[get-rus-keys]] (due: 2026-03-26)
-- [ ] [[take-mine-and-rus-keys]] (due: 2026-03-30)
+- [x] [[take-mine-and-rus-keys]] (due: 2026-03-30)
 
 ## Completed
 - [x] [[ring-pete-lysandrou]]

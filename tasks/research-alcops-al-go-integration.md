@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-04-16
+due: 2026-04-29
 tags:
   - al-go
   - alcops

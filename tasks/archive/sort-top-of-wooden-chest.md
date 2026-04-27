@@ -1,10 +1,10 @@
 ---
 type: task
-status: pending
+status: complete
 tags:
   - home
 project: "[[sort-out-bedroom]]"
-due: 2026-05-02
+due: 2026-04-26
 title: Sort Top of Wooden Chest
 ---
 Sort top of wooden chest.

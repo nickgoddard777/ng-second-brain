@@ -10,6 +10,12 @@ work-personal: personal
 - Print photo [[print-photo]]
 
 ## Tasks
+- [ ] [[order-chippings]]
+- [ ] [[find-my-labeller]]
+- [ ] [[put-impact-driver-in-car]]
+- [ ] [[label-cupboard-doors]]
+- [ ] [[move-number-from-gate-to-fence]]
+- [ ] [[take-mum-to-asda]]
 - [x] [[take-mum-to-doctors]]
 - [x] [[pay-papers]]
 - [x] [[pay-cleaner]]
@@ -22,6 +28,6 @@ work-personal: personal
 - [ ] [[get-mum-bank-account]]
 - [x] [[pay-cleaner-9th-apr]]
 - [ ] [[take-mum-to-hospital-hearing-aid]]
-- [ ] [[order-birthday-card-poppie]]
+- [x] [[order-birthday-card-poppie]]
 
 ## Notes
