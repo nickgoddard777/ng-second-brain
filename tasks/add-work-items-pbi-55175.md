@@ -6,6 +6,7 @@ tags: []
 created: 2026-04-29T00:00:00
 title: Add Work Items for PBIs Based on 55175
 work-personal: work
+project: [[timebox6-planning]]
 ---
 
 # Add Work Items for PBIs Based on 55175
