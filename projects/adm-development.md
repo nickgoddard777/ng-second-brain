@@ -26,3 +26,6 @@ work-personal: work
 3. Zip the code repo
 4. Draft email with AL-Go guide
 5. Send to ADM
+
+
+Aquasec
