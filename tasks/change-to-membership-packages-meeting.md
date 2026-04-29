@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-04-29
 tags: []
 created: 2026-04-29T00:00:00
