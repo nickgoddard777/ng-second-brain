@@ -20,7 +20,15 @@ servicenow: []
 
 ## Why?
 
-When Direct Debits are created from Web Orders, a communication entry is created as part of the process. Within this, the code attempts to extract the year from the Posting Date on the Direct Debit Mandate Entry. If the Direct Debit Mandate Entry is not found, the code errors and the entire process stops.
+Orders that are for Direct Debits. 
+
+When the following 3 events happen in NAV, a Communication Entry is created to send the details to the Web Shop:
+
+- After Posting a Sales Document,
+- Resend DD Confirmation on the Sales Order page,
+- After the Fulfilment Status is set to Fulfilled.
+
+The creation code tries to get the Year from the Posting Date on the Direct Debit Mandate Entry. If the Direct Debit Mandate Entry is not found or the posting date is blank an unhandled error occurs and the current process is stopped.
 
 The function responsible for retrieving the Direct Debit Mandate Entry (`GetDirectDebitMandateSchedule`) returns `false` when no record is found, but this return value is not currently checked — meaning any missing or unresolved mandate entry causes an unhandled failure.
 
