@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-04-27
+due: 2026-05-04
 tags:
   - work
   - hsl

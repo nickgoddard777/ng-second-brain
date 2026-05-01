@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-04-28
+due: 2026-05-01
 tags:
   - work
   - infopro

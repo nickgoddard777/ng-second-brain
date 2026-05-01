@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-04-30
+due:
 tags:
   - al-go
   - business-central
