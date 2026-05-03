@@ -11,10 +11,9 @@ work-personal: work
 Planning and preparation work for Timebox 6.
 
 ## Next Action
-[[update-work-item-56330]]
 
 ## Tasks
-- [ ] Update Work Item 56330 [[update-work-item-56330]]
-- [ ] Add Work Items for PBIs Based on 55175 [[add-work-items-pbi-55175]]
+- [x] Update Work Item 56330 [[update-work-item-56330]]
+- [x] Add Work Items for PBIs Based on 55175 [[add-work-items-pbi-55175]]
 
 ## Notes
