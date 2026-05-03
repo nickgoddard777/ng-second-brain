@@ -9,11 +9,10 @@ work-personal: work
 ---
 
 ## Next Action
-- [[raise-als-development-team-retrospections-devops]]
 
 - [x] [[list-entra-permissions-cii-access]]
 - [x] [[ask-neil-to-raise ticket-to-sort-entra access]]
-- [ ] [[raise-als-development-team-retrospections-devops]]
+- [x] [[raise-als-development-team-retrospections-devops]]
 
 ## People
 - [[kevin-portellas]]
