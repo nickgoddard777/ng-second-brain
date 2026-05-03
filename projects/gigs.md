@@ -13,15 +13,14 @@ work-personal: personal
 Organise upcoming gigs — Nirvana tribute and/or Surrender Dorothy next weekend (2026-05-02/03).
 
 ## Next Action
-- Ask Dave if he wants to come [[ask-dave-nirvana-or-surrender-dorothy]]
 
 ## Tasks
-- [ ] [[ask-dave-nirvana-or-surrender-dorothy]]
-- [ ] [[ask-kate-nirvana-or-surrender-dorothy]]
-- [ ] [[ask-melissa-travel-by-train]]
-- [ ] [[book-melissa-train-tickets]]
-- [ ] [[book-friday-off-work]]
-- [ ] [[book-nirvana-tickets]]
+- [x] [[ask-dave-nirvana-or-surrender-dorothy]]
+- [x] [[ask-kate-nirvana-or-surrender-dorothy]]
+- [x] [[ask-melissa-travel-by-train]]
+- [x] [[book-melissa-train-tickets]]
+- [x] [[book-friday-off-work]]
+- [x] [[book-nirvana-tickets]]
 
 ## People
 - [[dave-marriott]]
