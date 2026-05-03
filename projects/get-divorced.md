@@ -12,8 +12,6 @@ work-personal: personal
 
 ## Next Action
 
-[[tasks/po-cruise-follow-up]]
-
 ## Tasks
 
 - [x] [[tasks/write-response-to-court-order]]
@@ -25,7 +23,7 @@ work-personal: personal
 - [x] [[tasks/wait-for-court-financial-order]]
 - [x] [[tasks/ask-lisa-decree-absolute-timeline]]
 - [x] [[tasks/archive/ring-po-change-cruise-details]]
-- [ ] [[tasks/po-cruise-follow-up]]
+- [x] [[tasks/po-cruise-follow-up]]
 
 ## Notes
 
