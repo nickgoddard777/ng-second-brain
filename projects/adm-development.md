@@ -15,9 +15,9 @@ work-personal: work
 - [x] [[meeting-barista-bc-instance-setup]]
 - [x] [[adm-update-fdl-repo-to-al-go]]
 - [ ] [[adm-sort-fdl-v28-compatibility]]
-- [ ] [[adm-zip-code-repo-for-adm]]
-- [ ] [[adm-draft-email-al-go-guide]]
-- [ ] [[adm-send-email-to-adm]]
+- [x] [[adm-zip-code-repo-for-adm]]
+- [x] [[adm-draft-email-al-go-guide]]
+- [x] [[adm-send-email-to-adm]]
 
 ## Notes
 ### FDL Handover Sequence
