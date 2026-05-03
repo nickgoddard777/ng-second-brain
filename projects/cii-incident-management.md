@@ -43,13 +43,13 @@ work-personal: work
 - [x] [[cii-investigate-inc1038074]]
 - [x] [[cii-investigate-inc1038308]]
 - [x] [[cii-investigate-inc1036434]]
-- [ ] [[cii-inc1036434-discuss-proper-fix-kevin]]
+- [x] [[cii-inc1036434-discuss-proper-fix-kevin]]
 - [x] [[cii-investigate-inc1038768]]
 - [x] [[cii-investigate-inc1033419]]
-- [ ] [[cii-inc1036434-second-data-import]]
-- [ ] [[cii-pbi-prioritisation-meeting]]
-- [ ] [[cii-update-pbis-new-format]]
-- [ ] [[cii-process-web-orders-no-payments]]
+- [x] [[cii-inc1036434-second-data-import]]
+- [x] [[cii-pbi-prioritisation-meeting]]
+- [x] [[cii-update-pbis-new-format]]
+- [x] [[cii-process-web-orders-no-payments]]
 
 ## Notes
 
