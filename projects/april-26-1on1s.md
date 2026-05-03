@@ -22,27 +22,27 @@ Carry out this month's 1:1s with direct reports. Originally scheduled around Apr
 [x] [[reschedule-april-1on1s]]
 
 ### Lukasz Rodewald
-[[1on1-perform-lukasz-rodewald]]
-[[1on1-writeup-lukasz-rodewald]]
+[x] [[1on1-perform-lukasz-rodewald]]
+[ ] [[1on1-writeup-lukasz-rodewald]]
 
 ### Kevin Portellas
-[[1on1-perform-kevin-portellas]]
-[[1on1-writeup-kevin-portellas]]
+[x] [[1on1-perform-kevin-portellas]]
+[ ] [[1on1-writeup-kevin-portellas]]
 
 ### Pitso Ntise
-[[1on1-perform-pitso-ntise]]
-[[1on1-writeup-pitso-ntise]]
+[ ] [[1on1-perform-pitso-ntise]]
+[ ] [[1on1-writeup-pitso-ntise]]
 
 ### Zeph Lakota
-[[1on1-perform-zeph-lakota]]
-[[1on1-writeup-zeph-lakota]]
+[x] [[1on1-perform-zeph-lakota]]
+[ ] [[1on1-writeup-zeph-lakota]]
 
 ### Yevgen Bukar
-[[1on1-perform-yevgen-bukar]]
-[[1on1-writeup-yevgen-bukar]]
+[ ] [[1on1-perform-yevgen-bukar]]
+[ ] [[1on1-writeup-yevgen-bukar]]
 
 ### Jiten Parekh (28 Apr)
-[[1on1-have-jiten]]
+[x] [[1on1-have-jiten]]
 
 ## Notes
 - Perform/write-up due dates for Lukasz, Kevin, Pitso, Zeph, Yevgen to be set after rescheduling
