@@ -7,15 +7,15 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- Print photo [[print-photo]]
+- Order chippings [[order-chippings]]
 
 ## Tasks
 - [ ] [[order-chippings]]
 - [ ] [[find-my-labeller]]
-- [ ] [[put-impact-driver-in-car]]
+- [x] [[put-impact-driver-in-car]]
 - [ ] [[label-cupboard-doors]]
-- [ ] [[move-number-from-gate-to-fence]]
-- [ ] [[take-mum-to-asda]]
+- [x] [[move-number-from-gate-to-fence]]
+- [x] [[take-mum-to-asda]]
 - [x] [[take-mum-to-doctors]]
 - [x] [[pay-papers]]
 - [x] [[pay-cleaner]]
