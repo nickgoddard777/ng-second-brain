@@ -26,7 +26,7 @@ Build Amazon and eBay integrations for Haynes.
 ### eBay - Sales Invoice / Credits
 - [ ] [[haynes-ebay-si-variant-code-mapping]]
 - [ ] [[haynes-ebay-si-location-line-level]]
-- [ ] [[haynes-ebay-si-padding-mp-prefix]]
+- [x] [[haynes-ebay-si-padding-mp-prefix]]
 - [ ] [[haynes-ebay-si-automate-dimension-5]]
 - [ ] [[haynes-ebay-si-fix-unit-price]]
 - [ ] [[haynes-ebay-si-country-code-line]]
