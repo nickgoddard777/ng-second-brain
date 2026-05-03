@@ -21,7 +21,7 @@ work-personal: personal
 - [x] [[pay-cleaner]]
 - [x] [[asda-shop]]
 - [x] [[buy-photo-paper]]
-- [ ] [[print-photo]]
+- [x] [[print-photo]]
 - [x] [[check-mum-got-home-from-hairdressers]]
 - [x] [[check-referral-from-dr]]
 - [x] [[turn-contactless-on-bank-card]]
