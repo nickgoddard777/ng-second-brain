@@ -10,7 +10,14 @@ work-personal: work
 ## Next Action
 - [ ] [[cii-investigate-inc1042288]]
 
-## Tasks
+## Active Tasks
+
+- [ ] [[cii-investigate-inc1042288]]
+- [ ] [[cii-investigate-inc1043368]]
+- [ ] [[cii-investigate-inc1041481]]
+- [ ] [[cii-investigate-inc1041665]]
+
+## Completed Tasks
 
 - [x] [[review-inc1014760]]
 - [x] [[review-inc1015406]]
@@ -51,10 +58,6 @@ work-personal: work
 - [x] [[cii-pbi-prioritisation-meeting]]
 - [x] [[cii-update-pbis-new-format]]
 - [x] [[cii-process-web-orders-no-payments]]
-- [ ] [[cii-investigate-inc1042288]]
-- [ ] [[cii-investigate-inc1043368]]
-- [ ] [[cii-investigate-inc1041481]]
-- [ ] [[cii-investigate-inc1041665]]
 
 ## Notes
 
