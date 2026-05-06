@@ -6,9 +6,13 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- [ ] [[arkell-way-wait-to-hear-from-buyer]] (due: 2026-05-06)
+- [ ] [[arkell-way-ring-pete-update]] (due: 2026-05-06)
 
 ## Tasks - Active
+- [ ] [[arkell-way-ring-pete-update]] (due: 2026-05-06)
+- [ ] [[arkell-way-ring-help-to-buy-update]] (due: 2026-05-06)
+- [ ] [[arkell-way-ring-countrywide-valuation-amended]] (due: 2026-05-06)
+- [ ] [[arkell-way-send-valuation-help-to-buy]] (due: 2026-05-07)
 - [ ] [[arkell-way-wait-to-hear-from-buyer]] (due: 2026-05-06)
 - [x] [[ring-countrywide-survey-update]] (due: 2026-04-20)
 - [x] [[ring-pete-arkell-update-apr20]] (due: 2026-04-20)
