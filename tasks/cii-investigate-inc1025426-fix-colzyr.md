@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-05-06
 tags:
   - work
