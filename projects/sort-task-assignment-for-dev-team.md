@@ -1,0 +1,23 @@
+---
+type: project
+status: active
+tags:
+  - work
+  - dev-team
+  - devops
+created: 2026-05-07
+work-personal: work
+---
+
+# Sort Task Assignment for Dev Team
+
+Ensure all dev team task assignment goes through DevOps. Involves communicating the change to the team and understanding the DevOps project Mamta/Jiten were working on earlier this year.
+
+## Next Action
+- [ ] [[send-email-dev-team-accept-jobs-through-devops]]
+
+## Tasks
+- [ ] [[send-email-dev-team-accept-jobs-through-devops]]
+- [ ] [[speak-to-mamta-jiten-devops-project]]
+
+## Notes
