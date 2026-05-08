@@ -12,3 +12,9 @@ work-personal: work
 # Inform Carl and Dan That Release Is Ready
 
 ## Notes
+
+Need to message the Release Group Cii Team
+
+We have R911 NAV to UAT, ready or deployment. Carl or Mohale, can you please prepare the build?
+
+Add link to the release not to message
