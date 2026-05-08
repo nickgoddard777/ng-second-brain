@@ -6,9 +6,7 @@ created: 2026-04-29
 work-personal: work
 ---
 
-# Timebox 6 Planning
-
-Planning and preparation work for Timebox 6.
+# Timebox 6
 
 ## Next Action
 
