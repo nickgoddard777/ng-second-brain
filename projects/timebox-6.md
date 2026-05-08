@@ -1,6 +1,6 @@
 ---
 type: project
-status: paused
+status: active
 tags: []
 created: 2026-04-29
 work-personal: work
