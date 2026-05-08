@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-05-02
+due: 2026-05-09
 tags:
   - mum
   - family
