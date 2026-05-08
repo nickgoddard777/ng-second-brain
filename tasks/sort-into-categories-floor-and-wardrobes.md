@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 tags:
   - home
 project: "[[sort-out-bedroom]]"
