@@ -43,7 +43,7 @@ Build Amazon and eBay integrations for Haynes.
 - [ ] [[haynes-amazon-pi-no-field-mapping]]
 
 ### General
-- [ ] [[haynes-confirm-mapping-table-sent]]
+- [x] [[haynes-confirm-mapping-table-sent]]
 - [ ] [[haynes-config-mapping-prod-refresh-sandbox]]
 
 ## Ideas
