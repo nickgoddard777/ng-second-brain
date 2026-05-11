@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [ ] Confirm mapping table was sent [[haynes-confirm-mapping-table-sent]]
+- [ ] eBay SI - Variant Code Mapping [[haynes-ebay-si-variant-code-mapping]]
 
 ## Tasks
 
