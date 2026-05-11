@@ -8,15 +8,12 @@ tags:
 work-personal: work
 ---
 ## Next Action
-- [ ] [[cii-investigate-inc1042288]]
+- [ ] [[cii-investigate-inc1041481]]
 
 ## Active Tasks
 
-- [ ] [[cii-investigate-inc1042288]]
-- [ ] [[cii-investigate-inc1043368]]
 - [ ] [[cii-investigate-inc1041481]]
 - [ ] [[cii-investigate-inc1041665]]
-- [ ] [[cii-investigate-inc1025426-fix-colzyr]]
 
 ## Completed Tasks
 
