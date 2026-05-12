@@ -1,7 +1,7 @@
 ---
 type: task
-status: pending
-due: 2026-05-05
+status: in-progress
+due: 2026-05-13
 tags:
   - work
   - d365

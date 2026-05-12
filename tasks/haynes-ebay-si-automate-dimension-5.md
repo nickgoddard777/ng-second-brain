@@ -22,3 +22,4 @@ Automate Dimension 5 population on eBay sales invoices based on item type.
   - type = print or bundle → `Pmarketplace`
   - type = digital → `dmarketplace`
 - Raised in [[haynes-integrations-stakeholder-meeting]]
+This done by mapping the format to the relevant code.
