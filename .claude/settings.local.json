@@ -103,7 +103,12 @@
       "Bash(grep -rl \"due: 2026-04-0[0-9]\" tasks/*.md)",
       "Bash(grep -rl \"due: 2026-03\" tasks/*.md)",
       "Bash(node \"C:\\\\Users\\\\Nick.Goddard\\\\AppData\\\\Local\\\\Temp\\\\alcops-migration.js\")",
-      "Bash(git stash *)"
+      "Bash(git stash *)",
+      "Bash(grep -rl \"due: 2026-05-05\" tasks/*.md)",
+      "Bash(grep -rl \"due: 2026-05-0[1-4]\" tasks/*.md)",
+      "Bash(grep -rl \"due: 2026-04-\" tasks/*.md)",
+      "Bash(grep -rl \"due: 2026-03-\" tasks/*.md)",
+      "PowerShell(git diff --name-only HEAD@{8am}..HEAD -- tasks/)"
     ]
   }
 }
