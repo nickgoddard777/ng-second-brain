@@ -1,6 +1,6 @@
 ---
 type: task
-status: in-progress
+status: complete
 due: 2026-05-13
 tags:
   - work
