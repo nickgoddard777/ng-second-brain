@@ -45,6 +45,7 @@ Build Amazon and eBay integrations for Haynes.
 ### General
 - [x] [[haynes-confirm-mapping-table-sent]]
 - [ ] [[haynes-config-mapping-prod-refresh-sandbox]]
+- [ ] [[haynes-document-ebay-authorisation-process]]
 
 ## Ideas
 - [[haynes-shopify-migration]] — Haynes have moved to Shopify, approach TBD
