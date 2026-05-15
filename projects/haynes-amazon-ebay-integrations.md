@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [ ] eBay SI - Variant Code Mapping [[haynes-ebay-si-variant-code-mapping]]
+- [x] eBay SI - Variant Code Mapping [[haynes-ebay-si-variant-code-mapping]]
 
 ## Tasks
 
@@ -24,15 +24,15 @@ Build Amazon and eBay integrations for Haynes.
 - [x] [[haynes-integrations-stakeholder-meeting]]
 
 ### eBay - Sales Invoice / Credits
-- [ ] [[haynes-ebay-si-variant-code-mapping]]
+- [x] [[haynes-ebay-si-variant-code-mapping]]
 - [ ] [[haynes-ebay-si-location-line-level]]
 - [x] [[haynes-ebay-si-padding-mp-prefix]]
 - [x] [[haynes-ebay-si-automate-dimension-5]]
-- [ ] [[haynes-ebay-si-fix-unit-price]]
-- [ ] [[haynes-ebay-si-country-code-line]]
+- [x] [[haynes-ebay-si-fix-unit-price]]
+- [x] [[haynes-ebay-si-country-code-line]]
 
 ### eBay - Purchase Invoice
-- [ ] [[haynes-ebay-pi-field-mapping]]
+- [x] [[haynes-ebay-pi-field-mapping]]
 - [ ] [[haynes-ebay-pi-marketing-fees-gl-code]]
 
 ### Amazon - Sales Invoice
