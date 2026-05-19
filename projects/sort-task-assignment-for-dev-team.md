@@ -14,10 +14,10 @@ work-personal: work
 Ensure all dev team task assignment goes through DevOps. Involves communicating the change to the team and understanding the DevOps project Mamta/Jiten were working on earlier this year.
 
 ## Next Action
-- [ ] [[send-email-dev-team-accept-jobs-through-devops]]
+None — all tasks complete.
 
 ## Tasks
-- [ ] [[send-email-dev-team-accept-jobs-through-devops]]
-- [ ] [[speak-to-mamta-jiten-devops-project]]
+- [x] [[send-email-dev-team-accept-jobs-through-devops]]
+- [x] [[speak-to-mamta-jiten-devops-project]]
 
 ## Notes
