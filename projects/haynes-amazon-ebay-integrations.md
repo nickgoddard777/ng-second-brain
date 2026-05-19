@@ -33,7 +33,7 @@ Build Amazon and eBay integrations for Haynes.
 
 ### eBay - Purchase Invoice
 - [x] [[haynes-ebay-pi-field-mapping]]
-- [ ] [[haynes-ebay-pi-marketing-fees-gl-code]]
+- [x] [[haynes-ebay-pi-marketing-fees-gl-code]]
 
 ### Amazon - Sales Invoice
 - [ ] [[haynes-amazon-si-investigate-fee-lines]]
