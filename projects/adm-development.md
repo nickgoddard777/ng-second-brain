@@ -8,13 +8,13 @@ work-personal: work
 ---
 
 ## Next Action
-- [ ] [[adm-sort-fdl-v28-compatibility]]
+None — all tasks complete.
 
 ## Tasks
 - [x] [[meeting-d365-instance-setup]]
 - [x] [[meeting-barista-bc-instance-setup]]
 - [x] [[adm-update-fdl-repo-to-al-go]]
-- [ ] [[adm-sort-fdl-v28-compatibility]]
+- [x] [[adm-sort-fdl-v28-compatibility]]
 - [x] [[adm-zip-code-repo-for-adm]]
 - [x] [[adm-draft-email-al-go-guide]]
 - [x] [[adm-send-email-to-adm]]
