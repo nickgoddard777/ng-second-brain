@@ -67,3 +67,4 @@ Selling 4 Arkell Way. Contact: [[pete-lysandrou]].
 2026-03-31 15:49 - email from Claire, She had spoken to the buyers, they will have an update next week.
 2026-03-31 16:17 - Lisa's replied saying she had been in touch to get a new valuation
 2026-04-07 13:20 - Lisa let me know that the Valuation is booked for the 16th.
+2026-05-15 12:17 - Pete rang to confirm completion !!!! 
