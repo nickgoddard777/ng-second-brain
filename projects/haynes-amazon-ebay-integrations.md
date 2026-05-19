@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [x] eBay SI - Variant Code Mapping [[haynes-ebay-si-variant-code-mapping]]
+- [ ] eBay SI - Location Line Level [[haynes-ebay-si-location-line-level]]
 
 ## Tasks
 
