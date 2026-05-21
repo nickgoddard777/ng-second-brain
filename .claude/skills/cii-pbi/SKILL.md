@@ -1,6 +1,6 @@
 ---
 name: cii-pbi
-description: Write a PBI (Product Backlog Item) for a CII issue. Asks questions to gather Why, Impact, Risk, Proposed Fix, Time to Fix, ServiceNow tickets, and Business Owner, then produces a formatted PBI document.
+description: Write a PBI (Product Backlog Item) for a CII issue. Asks questions to gather Why, Impact, Risk, Proposed Fix, Time to Fix, ServiceNow tickets, Business Owner, and Acceptance Criteria, then produces a formatted PBI document.
 argument-hint: <pbi00000> [optional brief description of the issue]
 allowed-tools: Read, Glob, Write, Edit, AskUserQuestion
 ---
@@ -100,6 +100,13 @@ Question: "Who is the Business Owner for this PBI? (Name and/or role)"
 Header: "Business Owner"
 ```
 
+### 9. Acceptance Criteria
+
+```
+Question: "What are the acceptance criteria for this fix? List the conditions that must be true for this PBI to be considered done (e.g. 'Orders process without error', 'Bank account field populated correctly')."
+Header: "Acceptance criteria"
+```
+
 ---
 
 ## Output Format
@@ -158,6 +165,16 @@ servicenow: ["INC0000000"]   # empty list if none
 **Estimated effort:** <X hours / X days>
 
 <Any notes on complexity, dependencies, or unknowns that affect the estimate.>
+
+---
+
+## Acceptance Criteria
+
+<List each criterion as a checkbox item. These are the conditions that must be met for this PBI to be considered complete.>
+
+- [ ] <Criterion 1>
+- [ ] <Criterion 2>
+- [ ] <Criterion 3>
 ```
 
 ---

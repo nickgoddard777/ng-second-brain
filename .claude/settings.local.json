@@ -108,7 +108,14 @@
       "Bash(grep -rl \"due: 2026-05-0[1-4]\" tasks/*.md)",
       "Bash(grep -rl \"due: 2026-04-\" tasks/*.md)",
       "Bash(grep -rl \"due: 2026-03-\" tasks/*.md)",
-      "PowerShell(git diff --name-only HEAD@{8am}..HEAD -- tasks/)"
+      "PowerShell(git diff --name-only HEAD@{8am}..HEAD -- tasks/)",
+      "PowerShell(git push)",
+      "PowerShell(git -C \"C:\\\\Users\\\\Nick.Goddard\\\\OneDrive - Acora Limited\\\\Documents\\\\GitHub\\\\ng-second-brain\" log --since=\"midnight\" --grep=\"cos:\" --oneline)",
+      "WebFetch(domain:developer.ebay.com)",
+      "PowerShell($env:NODE_PATH = \"$env:APPDATA\\\\npm\\\\node_modules\"; node -e \"require\\('docx'\\); console.log\\('ok'\\)\")",
+      "PowerShell($f = \"C:\\\\Users\\\\Nick.Goddard\\\\OneDrive - Acora Limited\\\\Documents\\\\GitHub\\\\ng-second-brain\\\\outputs\\\\2026-05-15-ebay-authorisation-process.docx\"; $size = \\(Get-Item $f\\).Length; Write-Output \"File size: $\\([math]::Round\\($size/1024, 1\\)\\) KB\")",
+      "mcp__Desktop_Commander__read_multiple_files",
+      "mcp__Desktop_Commander__read_file"
     ]
   }
 }
