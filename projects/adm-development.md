@@ -8,7 +8,7 @@ work-personal: work
 ---
 
 ## Next Action
-None — all tasks complete.
+- [ ] [[adm-update-meeting-mohale]] (due: 2026-05-21)
 
 ## Tasks
 - [x] [[meeting-d365-instance-setup]]
