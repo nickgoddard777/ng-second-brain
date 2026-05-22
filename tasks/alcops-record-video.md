@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-05-15
+due: 2026-05-26
 tags:
   - work
   - business-central

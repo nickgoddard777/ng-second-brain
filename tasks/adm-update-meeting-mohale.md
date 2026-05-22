@@ -16,3 +16,7 @@ work-personal: work
 Update meeting with ADM and Mohale on the ADM development project.
 
 ## Notes
+ - Roles need setting up - no-one can span more than one group.
+	 - Developer
+	 - Lead Developer
+	 - PR Approver

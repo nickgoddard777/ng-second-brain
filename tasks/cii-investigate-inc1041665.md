@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-05-05
+due: 2026-05-26
 tags:
   - work
   - cii
