@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-05-16
+due: 2026-05-30
 tags:
   - finances
   - personal
