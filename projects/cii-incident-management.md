@@ -8,11 +8,10 @@ tags:
 work-personal: work
 ---
 ## Next Action
-- [ ] [[cii-investigate-inc1041481]]
+- [ ] [[cii-investigate-inc1041665]]
 
 ## Active Tasks
 
-- [ ] [[cii-investigate-inc1041481]]
 - [ ] [[cii-investigate-inc1041665]]
 
 ## Completed Tasks
