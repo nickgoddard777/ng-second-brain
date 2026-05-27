@@ -15,10 +15,10 @@ work-personal: work
 Fix the "Already processed via Magento" issue in CII.
 
 ## Next Action
-- [ ] [[cii-pbi-56322-reschedule-timebox-7]]
+None — rescheduled to Timebox 7.
 
 ## Tasks
-- [ ] [[cii-pbi-56322-reschedule-timebox-7]]
+- [x] [[cii-pbi-56322-reschedule-timebox-7]]
 
 ## Notes
 - PBI: 56322
