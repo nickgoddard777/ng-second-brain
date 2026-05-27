@@ -18,9 +18,9 @@ Get personal finances in order — find passport, open new bank account, and cle
 ## Tasks
 - [ ] [[find-passport]]
 - [ ] [[get-new-bank-account]]
-- [ ] [[pay-off-tesco-credit-card]]
-- [ ] [[pay-off-plato-loan]]
-- [ ] [[pay-off-virgin-credit-card]]
+- [x] [[pay-off-tesco-credit-card]]
+- [x] [[pay-off-plato-loan]]
+- [x] [[pay-off-virgin-credit-card]]
 
 ## Notes
 - All tasks due by 2026-05-16
