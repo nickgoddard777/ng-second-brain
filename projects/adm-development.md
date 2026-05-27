@@ -8,7 +8,7 @@ work-personal: work
 ---
 
 ## Next Action
-- [ ] [[adm-update-meeting-mohale]] (due: 2026-05-21)
+None — all tasks complete.
 
 ## Tasks
 - [x] [[meeting-d365-instance-setup]]
@@ -18,7 +18,7 @@ work-personal: work
 - [x] [[adm-zip-code-repo-for-adm]]
 - [x] [[adm-draft-email-al-go-guide]]
 - [x] [[adm-send-email-to-adm]]
-- [ ] [[adm-update-meeting-mohale]]
+- [x] [[adm-update-meeting-mohale]]
 
 ## Notes
 ### FDL Handover Sequence
