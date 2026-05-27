@@ -1,6 +1,6 @@
 ---
 type: project
-status: active
+status: complete
 tags:
   - personal
 work-personal: personal
