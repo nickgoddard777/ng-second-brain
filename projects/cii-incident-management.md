@@ -16,6 +16,7 @@ work-personal: work
 
 ## Completed Tasks
 
+- [x] [[cii-investigate-inc1041481]]
 - [x] [[review-inc1014760]]
 - [x] [[review-inc1015406]]
 - [x] [[review-inc1015233]]
