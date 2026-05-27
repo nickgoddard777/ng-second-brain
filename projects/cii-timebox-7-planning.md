@@ -13,12 +13,12 @@ work-personal: work
 Planning and preparation tasks for CII Timebox 7.
 
 ## Next Action
-- [ ] [[cii-pbi-56292-add-acceptance-criteria]]
+None — all tasks complete.
 
 ## Tasks
-- [ ] [[cii-pbi-56292-add-acceptance-criteria]]
-- [ ] [[cii-pbi-56295-update-harrys-style]]
-- [ ] [[cii-pbi-56296-update-harrys-style]]
-- [ ] [[cii-pbi-56329-add-acceptance-criteria]]
+- [x] [[cii-pbi-56292-add-acceptance-criteria]]
+- [x] [[cii-pbi-56295-update-harrys-style]]
+- [x] [[cii-pbi-56296-update-harrys-style]]
+- [x] [[cii-pbi-56329-add-acceptance-criteria]]
 
 ## Notes
