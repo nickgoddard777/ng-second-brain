@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-05-26
+due: 2026-05-29
 tags:
   - work
   - cii
@@ -16,3 +16,6 @@ work-personal: work
 
 ## Notes
 password g44vunKRFtfwzJKRtNJ7
+
+
+- 2026-05-27 - Had a meeting regarding this and need to further investigate the issue
