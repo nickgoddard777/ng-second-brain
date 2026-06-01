@@ -14,16 +14,16 @@ Sell the Seat Exeo via webuyanycar.
 
 ## Next Action
 
-[[tasks/find-v5-logbook]]
+- [ ] Clean car [[tasks/clean-seat-exeo]]
 
 ## Tasks
 
-- [[tasks/find-v5-logbook]]
+- [x] [[tasks/find-v5-logbook]]
 - [[tasks/order-new-v5-logbook]] ← only if logbook not found
-- [[tasks/clean-seat-exeo]]
-- [[tasks/book-car-webuyanycar]]
-- [[tasks/take-car-to-webuyanycar]]
-- [[tasks/swap-insurance-to-vw-golf]]
+- [ ] [[tasks/clean-seat-exeo]]
+- [ ] [[tasks/book-car-webuyanycar]]
+- [ ] [[tasks/take-car-to-webuyanycar]]
+- [x] [[tasks/swap-insurance-to-vw-golf]]
 
 ## Notes
 
