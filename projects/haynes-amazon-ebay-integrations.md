@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [ ] eBay SI - Location Line Level [[haynes-ebay-si-location-line-level]]
+- [ ] Amazon SI - Investigate Fee Lines [[haynes-amazon-si-investigate-fee-lines]]
 
 ## Tasks
 
@@ -25,7 +25,7 @@ Build Amazon and eBay integrations for Haynes.
 
 ### eBay - Sales Invoice / Credits
 - [x] [[haynes-ebay-si-variant-code-mapping]]
-- [ ] [[haynes-ebay-si-location-line-level]]
+- [x] [[haynes-ebay-si-location-line-level]]
 - [x] [[haynes-ebay-si-padding-mp-prefix]]
 - [x] [[haynes-ebay-si-automate-dimension-5]]
 - [x] [[haynes-ebay-si-fix-unit-price]]
