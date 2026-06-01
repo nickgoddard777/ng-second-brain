@@ -13,10 +13,10 @@ work-personal: personal
 Get personal finances in order — find passport, open new bank account, and clear outstanding debts.
 
 ## Next Action
-- [ ] [[find-passport]]
+- [ ] [[get-new-bank-account]]
 
 ## Tasks
-- [ ] [[find-passport]]
+- [x] [[find-passport]]
 - [ ] [[get-new-bank-account]]
 - [x] [[pay-off-tesco-credit-card]]
 - [x] [[pay-off-plato-loan]]
