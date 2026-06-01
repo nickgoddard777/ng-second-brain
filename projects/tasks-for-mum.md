@@ -11,7 +11,7 @@ work-personal: personal
 
 ## Tasks
 - [ ] [[order-chippings]]
-- [ ] [[find-my-labeller]]
+- [x] [[find-my-labeller]]
 - [x] [[put-impact-driver-in-car]]
 - [ ] [[label-cupboard-doors]]
 - [x] [[move-number-from-gate-to-fence]]
