@@ -14,7 +14,7 @@ work-personal: work
 Carry out this month's 1:1s with direct reports. Originally scheduled around April 26 — rescheduling underway.
 
 ## Next Action
-- Perform Pitso's 1:1 [[1on1-perform-pitso-ntise]]
+None — all 1:1s completed.
 
 ## Tasks
 
@@ -23,23 +23,23 @@ Carry out this month's 1:1s with direct reports. Originally scheduled around Apr
 
 ### Lukasz Rodewald
 [x] [[1on1-perform-lukasz-rodewald]]
-[ ] [[1on1-writeup-lukasz-rodewald]]
+[x] [[1on1-writeup-lukasz-rodewald]]
 
 ### Kevin Portellas
 [x] [[1on1-perform-kevin-portellas]]
-[ ] [[1on1-writeup-kevin-portellas]]
+[x] [[1on1-writeup-kevin-portellas]]
 
 ### Pitso Ntise
-[ ] [[1on1-perform-pitso-ntise]]
-[ ] [[1on1-writeup-pitso-ntise]]
+[x] [[1on1-perform-pitso-ntise]]
+[x] [[1on1-writeup-pitso-ntise]]
 
 ### Zeph Lakota
 [x] [[1on1-perform-zeph-lakota]]
-[ ] [[1on1-writeup-zeph-lakota]]
+[x] [[1on1-writeup-zeph-lakota]]
 
 ### Yevgen Bukar
-[ ] [[1on1-perform-yevgen-bukar]]
-[ ] [[1on1-writeup-yevgen-bukar]]
+[x] [[1on1-perform-yevgen-bukar]]
+[x] [[1on1-writeup-yevgen-bukar]]
 
 ### Jiten Parekh (28 Apr)
 [x] [[1on1-have-jiten]]
