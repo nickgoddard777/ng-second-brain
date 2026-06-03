@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due:
+due: 2026-06-06
 tags:
   - car
   - admin
