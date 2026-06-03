@@ -15,14 +15,14 @@ work-personal: work
 Release process for CII Timebox 7.
 
 ## Next Action
-- [ ] Create release notes on master [[cii-tb7-create-release-notes]]
+- [ ] Inform Carl and Mohale release is ready [[cii-tb7-inform-carl-mohale]]
 
 ## Tasks
-- [ ] [[cii-tb7-create-release-notes]] (due: 2026-06-02)
-- [ ] [[cii-tb7-create-r919-branch-update-versions]] (due: 2026-06-02)
-- [ ] [[cii-tb7-prepare-files-tmp]] (due: 2026-06-02)
-- [ ] [[cii-tb7-move-extensions-navrelease]] (due: 2026-06-02)
-- [ ] [[cii-tb7-commit-create-pr-dev]] (due: 2026-06-02)
+- [x] [[cii-tb7-create-release-notes]] (due: 2026-06-02)
+- [x] [[cii-tb7-create-r919-branch-update-versions]] (due: 2026-06-02)
+- [x] [[cii-tb7-prepare-files-tmp]] (due: 2026-06-02)
+- [x] [[cii-tb7-move-extensions-navrelease]] (due: 2026-06-02)
+- [x] [[cii-tb7-commit-create-pr-dev]] (due: 2026-06-02)
 - [ ] [[cii-tb7-inform-carl-mohale]] (due: 2026-06-02)
 
 ## Notes
