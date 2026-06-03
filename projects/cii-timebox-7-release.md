@@ -15,7 +15,7 @@ work-personal: work
 Release process for CII Timebox 7.
 
 ## Next Action
-- [ ] Inform Carl and Mohale release is ready [[cii-tb7-inform-carl-mohale]]
+All tasks complete — release process finished.
 
 ## Tasks
 - [x] [[cii-tb7-create-release-notes]] (due: 2026-06-02)
@@ -23,7 +23,7 @@ Release process for CII Timebox 7.
 - [x] [[cii-tb7-prepare-files-tmp]] (due: 2026-06-02)
 - [x] [[cii-tb7-move-extensions-navrelease]] (due: 2026-06-02)
 - [x] [[cii-tb7-commit-create-pr-dev]] (due: 2026-06-02)
-- [ ] [[cii-tb7-inform-carl-mohale]] (due: 2026-06-02)
+- [x] [[cii-tb7-inform-carl-mohale]] (due: 2026-06-02)
 
 ## Notes
 - Sequential release process
