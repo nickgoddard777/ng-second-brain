@@ -7,7 +7,7 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- Order chippings [[order-chippings]]
+- Order jacket from Damart [[mum-order-jacket-damart]]
 
 ## Tasks
 - [ ] [[order-chippings]]
