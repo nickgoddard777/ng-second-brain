@@ -11,16 +11,16 @@ work-personal: personal
 # Amsterdam Cruise Holiday
 
 ## Next Action
-- [ ] Pack suitcase [[cruise-pack-suitcase]]
+None — cruise complete.
 
-## Active Tasks
+## Completed Tasks
 
-- [ ] [[cruise-wait-for-upgrade-response]]
-- [ ] [[cruise-print-boarding-passes]]
-- [ ] [[cruise-print-attach-luggage-labels]]
-- [ ] [[cruise-pack-suitcase]]
-- [ ] [[cruise-check-ed-has-rail-tickets]]
-- [ ] [[cruise-travel-to-southampton]]
+- [x] [[cruise-pack-suitcase]]
+- [x] [[cruise-wait-for-upgrade-response]]
+- [x] [[cruise-print-boarding-passes]]
+- [x] [[cruise-print-attach-luggage-labels]]
+- [x] [[cruise-check-ed-has-rail-tickets]]
+- [x] [[cruise-travel-to-southampton]]
 
 ## Notes
 
