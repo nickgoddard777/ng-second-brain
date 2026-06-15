@@ -69,6 +69,9 @@ work-personal: work
 - [x] [[cii-investigate-inc1042288]]
 - [x] [[cii-investigate-inc1043368]]
 - [x] [[cii-investigate-inc1025426-fix-colzyr]]
+- [x] [[cii-investigate-inc1059123]]
+- [x] [[cii-investigate-inc1058518]]
+- [x] [[cii-investigate-inc1059425]]
 
 ## Notes
 
