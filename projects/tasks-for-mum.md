@@ -30,8 +30,9 @@ work-personal: personal
 - [x] [[take-mum-to-hospital-hearing-aid]]
 - [x] [[order-birthday-card-poppie]]
 - [ ] [[mum-order-jacket-damart]]
-- [ ] [[mum-ring-montague-hospital]]
-- [ ] [[mum-get-ed-book-the-gate]]
+- [x] [[mum-ring-montague-hospital]]
+- [x] [[mum-get-ed-book-the-gate]]
 - [ ] [[mum-review-papers-bill-extra-item]]
+- [ ] [[mum-wait-for-audiology-email-reply]]
 
 ## Notes
