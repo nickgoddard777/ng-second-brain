@@ -14,11 +14,11 @@ work-personal: work
 Migrate AL-Go deployment authentication from current method to Service-to-Service (S2S) authentication.
 
 ## Next Action
-- [ ] [[al-go-s2s-setup-test-environment]] (due: 2026-05-22)
+- [ ] [[al-go-s2s-list-customers-repos]]
 
 ## Tasks
 - [x] [[al-go-s2s-get-app-registration-vault]] (due: 2026-05-21)
-- [ ] [[al-go-s2s-setup-test-environment]] (due: 2026-05-22)
+- [x] [[al-go-s2s-setup-test-environment]] (due: 2026-05-22)
 - [ ] [[al-go-s2s-list-customers-repos]] (dependent on test task)
 
 ## Notes
