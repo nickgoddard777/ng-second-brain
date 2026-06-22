@@ -1,6 +1,6 @@
 ---
 type: project
-status: paused
+status: active
 tags:
   - cii
   - membership
