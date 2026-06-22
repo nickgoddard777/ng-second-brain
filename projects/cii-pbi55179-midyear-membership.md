@@ -47,6 +47,10 @@ In particular, we need clarity on whether existing code paths are shared between
 - [x] Create test plan for testers [[cii-pbi55179-test-plan]]
 - [x] Update SRD [[cii-pbi55179-update-srd]]
 - [x] Create and send Pricing workflow diagram [[cii-pbi55179-pricing-workflow-diagram]]
+- [ ] Make PBI55179 code change [[cii-pbi55179-make-code-change]]
+- [ ] Release PBI55179 to UAT [[cii-pbi55179-release-to-uat]]
+- [ ] Wait for testers to come back on PBI55179 [[cii-pbi55179-wait-for-testers]]
+- [ ] Release PBI55179 to PPD [[cii-pbi55179-release-to-ppd]]
 
 ## Notes
 - [[cii-pbi55179-webshop-order-import-process-flow]] — idea: process flow for web shop order importing
