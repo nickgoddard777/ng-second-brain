@@ -23,7 +23,7 @@ Carry out the HSL handover — remove telemetry, archive repos, publish updated 
 - [x] [[hsl-handover-publish-fat]] — Publish updated app to FAT environments
 - [x] [[hsl-handover-speak-to-josh]] — Speak to Josh re handover (due: 2026-04-20)
 - [x] [[hsl-handover-publish-prod]] — Publish updated app to PROD
-- [ ] [[hsl-handover-investigate-ado-move]] — Investigate how to move the Azure DevOps project
+- [x] [[hsl-handover-investigate-ado-move]] — Investigate how to move the Azure DevOps project
 - [x] [[hsl-handover-speak-to-mick-carr-devops]] — Speak to Mick Carr about DevOps move (due: 2026-04-27)
 
 ## Notes

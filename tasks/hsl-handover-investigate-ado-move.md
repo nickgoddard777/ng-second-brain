@@ -1,11 +1,12 @@
 ---
 type: task
-status: pending
+status: complete
 tags:
   - work
   - hsl
 created: 2026-04-19T00:00:00
-project: [[projects/hsl-handover]]
+project:
+  - - projects/hsl-handover
 title: Investigate how to move the Azure DevOps project
 work-personal: work
 ---
