@@ -15,7 +15,7 @@ work-personal: work
 Release process for CII Timebox 7 and 8.
 
 ## Next Action
-- [ ] Create TB8 Release Notes [[cii-tb8-create-release-notes]]
+- [ ] Inform Carl & Mohale about TB8 [[cii-tb8-inform-carl-mohale]]
 
 ## Tasks
 
@@ -28,10 +28,10 @@ Release process for CII Timebox 7 and 8.
 - [x] [[cii-tb7-inform-carl-mohale]] (due: 2026-06-02)
 
 ### Timebox 8
-- [ ] [[cii-tb8-create-release-notes]] (due: 2026-06-23)
-- [ ] [[cii-tb8-create-branch-update-versions]] (due: 2026-06-23)
-- [ ] [[cii-tb8-publish-to-uat]] (due: 2026-06-23)
-- [ ] [[cii-tb8-prep-for-ppd]] (due: 2026-06-23)
+- [x] [[cii-tb8-create-release-notes]] (due: 2026-06-23)
+- [x] [[cii-tb8-create-branch-update-versions]] (due: 2026-06-23)
+- [x] [[cii-tb8-publish-to-uat]] (due: 2026-06-23)
+- [x] [[cii-tb8-prep-for-ppd]] (due: 2026-06-23)
 - [ ] [[cii-tb8-inform-carl-mohale]] (due: 2026-06-23)
 
 ## Notes
