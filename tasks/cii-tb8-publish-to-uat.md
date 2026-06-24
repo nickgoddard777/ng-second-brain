@@ -1,7 +1,7 @@
 ---
 type: task
 due: 2026-06-23
-status: pending
+status: complete
 tags: [cii, release, work]
 created: 2026-06-23T09:00:00
 project: "[[cii-timebox-7-release]]"
