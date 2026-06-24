@@ -1,7 +1,7 @@
 ---
 type: task
 due: 2026-06-22
-status: pending
+status: complete
 tags: [cii, membership, webshop, work]
 created: 2026-06-22T00:00:00
 project: "[[cii-pbi55179-midyear-membership]]"
