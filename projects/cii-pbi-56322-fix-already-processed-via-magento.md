@@ -15,12 +15,12 @@ work-personal: work
 Fix the "Already processed via Magento" issue in CII.
 
 ## Next Action
-- [ ] Wait for testing [[cii-pbi-56322-wait-for-testing]]
+None — all tasks complete.
 
 ## Tasks
 - [x] [[cii-pbi-56322-reschedule-timebox-7]]
 - [x] [[cii-pbi-56322-complete-code-change]] (due: 2026-06-02)
-- [ ] [[cii-pbi-56322-wait-for-testing]] (due: 2026-06-09)
+- [x] [[cii-pbi-56322-wait-for-testing]] (due: 2026-06-09)
 
 ## Notes
 - PBI: 56322
