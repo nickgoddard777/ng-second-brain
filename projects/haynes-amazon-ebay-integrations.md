@@ -23,6 +23,9 @@ Build Amazon and eBay integrations for Haynes.
 ### Meeting
 - [x] [[haynes-integrations-stakeholder-meeting]]
 
+### eBay - Handover
+- [ ] [[haynes-ebay-handover-meeting]] (due: 2026-06-30)
+
 ### eBay - Sales Invoice / Credits
 - [x] [[haynes-ebay-si-variant-code-mapping]]
 - [x] [[haynes-ebay-si-location-line-level]]
