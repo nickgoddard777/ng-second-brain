@@ -1,8 +1,11 @@
 ---
 type: task
-due: 2026-06-23
+due: 2026-07-01
 status: pending
-tags: [cii, release, work]
+tags:
+  - cii
+  - release
+  - work
 created: 2026-06-23T09:00:00
 project: "[[cii-timebox-7-release]]"
 title: Inform Carl & Mohale about TB8 Release
