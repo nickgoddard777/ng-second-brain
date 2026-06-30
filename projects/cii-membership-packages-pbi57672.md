@@ -12,7 +12,7 @@ Membership Packages work for CII. Reference: [PBI57672](https://dev.azure.com/th
 
 ## Next Action
 - [ ] Speak to Dan T about PPD Job Queue Schedules [[cii-pbi57672-speak-dan-t-ppd-job-queues]]
-- [ ] Check how Customers are created from CRM contact Sync with Kev [[cii-pbi57672-check-crm-contact-sync]]
+- [x] Check how Customers are created from CRM contact Sync with Kev [[cii-pbi57672-check-crm-contact-sync]]
 
 ## Notes
 - [[dan-townsend]]
