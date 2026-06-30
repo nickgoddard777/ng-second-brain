@@ -33,6 +33,7 @@ Release process for CII Timebox 7 and 8.
 - [x] [[cii-tb8-publish-to-uat]] (due: 2026-06-23)
 - [x] [[cii-tb8-prep-for-ppd]] (due: 2026-06-23)
 - [ ] [[cii-tb8-inform-carl-mohale]] (due: 2026-06-23)
+- [ ] [[cii-tb8-uat-session-pbis]] (due: 2026-06-30)
 
 ## Notes
 - Sequential release process
