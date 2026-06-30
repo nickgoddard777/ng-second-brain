@@ -21,7 +21,7 @@ work-personal: work
 - [x] [[cii-investigate-inc1056492]]
 - [x] [[cii-investigate-inc1056400]]
 - [ ] [[cii-investigate-inc1055243]]
-- [ ] [[cii-investigate-inc1055162]]
+- [x] [[cii-investigate-inc1055162]]
 - [x] [[cii-investigate-inc1038768]]
 
 ## Completed Tasks
