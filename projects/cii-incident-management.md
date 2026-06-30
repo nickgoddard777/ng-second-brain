@@ -8,21 +8,21 @@ tags:
 work-personal: work
 ---
 ## Next Action
-- [ ] [[cii-investigate-inc1060594]]
+- [ ] [[cii-investigate-inc1041665]]
 
 ## Active Tasks
 
 - [ ] [[cii-investigate-inc1041665]]
-- [ ] [[cii-investigate-inc1060594]]
-- [ ] [[cii-investigate-inc1060119]]
+- [x] [[cii-investigate-inc1060594]]
+- [x] [[cii-investigate-inc1060119]]
 - [ ] [[cii-investigate-inc1059372]]
-- [ ] [[cii-investigate-inc1057828]]
-- [ ] [[cii-investigate-inc1057712]]
-- [ ] [[cii-investigate-inc1056492]]
-- [ ] [[cii-investigate-inc1056400]]
+- [x] [[cii-investigate-inc1057828]]
+- [x] [[cii-investigate-inc1057712]]
+- [x] [[cii-investigate-inc1056492]]
+- [x] [[cii-investigate-inc1056400]]
 - [ ] [[cii-investigate-inc1055243]]
 - [ ] [[cii-investigate-inc1055162]]
-- [ ] [[cii-investigate-inc1038768]]
+- [x] [[cii-investigate-inc1038768]]
 
 ## Completed Tasks
 
