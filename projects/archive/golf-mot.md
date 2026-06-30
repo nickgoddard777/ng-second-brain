@@ -4,6 +4,7 @@ status: complete
 tags:
   - car
   - mot
+work-personal: personal
 ---
 ## Next Action
 - [[arrange-mot-appointment]]

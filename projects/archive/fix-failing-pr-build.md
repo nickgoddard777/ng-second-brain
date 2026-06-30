@@ -7,6 +7,7 @@ tags:
   - pr
   - acora
   - work
+work-personal: work
 ---
 ## Next Action
 - Investigate and fix the failing PR build

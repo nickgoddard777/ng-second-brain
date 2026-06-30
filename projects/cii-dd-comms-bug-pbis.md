@@ -1,6 +1,6 @@
 ---
 type: project
-status: paused
+status: complete
 tags:
   - work
   - cii
