@@ -29,7 +29,7 @@ work-personal: personal
 - [x] [[pay-cleaner-9th-apr]]
 - [x] [[take-mum-to-hospital-hearing-aid]]
 - [x] [[order-birthday-card-poppie]]
-- [ ] [[mum-order-jacket-damart]]
+- [x] [[mum-order-jacket-damart]]
 - [x] [[mum-ring-montague-hospital]]
 - [x] [[mum-get-ed-book-the-gate]]
 - [ ] [[mum-review-papers-bill-extra-item]]
