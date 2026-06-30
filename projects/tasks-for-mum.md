@@ -7,7 +7,7 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- Order jacket from Damart [[mum-order-jacket-damart]]
+- [ ] Review the extra item on the papers bill [[mum-review-papers-bill-extra-item]]
 
 ## Tasks
 - [ ] [[order-chippings]]
