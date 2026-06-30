@@ -13,7 +13,7 @@ work-personal: work
 Carry out the HSL handover — remove telemetry, archive repos, publish updated apps through UAT/FAT/PROD, and migrate the Azure DevOps project.
 
 ## Next Action
-[[hsl-handover-investigate-ado-move]]
+None — all tasks complete.
 
 ## Tasks
 - [x] [[hsl-handover-remove-telemetry]] — Remove telemetry from 01 and 05 apps
