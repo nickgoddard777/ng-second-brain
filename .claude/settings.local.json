@@ -115,7 +115,13 @@
       "PowerShell($env:NODE_PATH = \"$env:APPDATA\\\\npm\\\\node_modules\"; node -e \"require\\('docx'\\); console.log\\('ok'\\)\")",
       "PowerShell($f = \"C:\\\\Users\\\\Nick.Goddard\\\\OneDrive - Acora Limited\\\\Documents\\\\GitHub\\\\ng-second-brain\\\\outputs\\\\2026-05-15-ebay-authorisation-process.docx\"; $size = \\(Get-Item $f\\).Length; Write-Output \"File size: $\\([math]::Round\\($size/1024, 1\\)\\) KB\")",
       "mcp__Desktop_Commander__read_multiple_files",
-      "mcp__Desktop_Commander__read_file"
+      "mcp__Desktop_Commander__read_file",
+      "Bash(git -C \"C:\\\\Users\\\\Nick.Goddard\\\\OneDrive - Acora Limited\\\\Documents\\\\GitHub\\\\ng-second-brain\" log --since=\"midnight\" --grep=\"cos:\" --oneline)",
+      "PowerShell($tasks = @\\('1on1-writeup-lukasz-rodewald.md','1on1-writeup-yevgen-bukar.md','1on1-writeup-kevin-portellas.md','1on1-writeup-pitso-ntise.md','1on1-perform-pitso-ntise.md','1on1-perform-yevgen-bukar.md','1on1-writeup-zeph-lakota.md','fix-infopro-v28-deferral-schedule-tests.md','fix-infopro-v28-salesforce-inbound-tests.md','haynes-ebay-si-location-line-level.md','haynes-ebay-si-variant-code-mapping.md','find-v5-logbook.md','find-passport.md','find-my-labeller.md','swap-insurance-to-vw-golf.md'\\) ; foreach \\($t in $tasks\\) { Copy-Item \"tasks/$t\" \"tasks/archive/$t\" -Confirm:$false ; Remove-Item \"tasks/$t\" -Confirm:$false ; Write-Output \"Archived: $t\" })",
+      "Bash(git mv *)",
+      "Bash(cd \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain\" && grep -rl \"due: 2026-0[1-5]-\\\\|due: 2026-06-[01][0-9]\\\\|due: 2026-06-2[01]\" tasks/*.md 2>/dev/null)",
+      "Bash(cat daily/2026-06-23.md)",
+      "Bash(echo \"---EXIT:$?---\")"
     ]
   }
 }
