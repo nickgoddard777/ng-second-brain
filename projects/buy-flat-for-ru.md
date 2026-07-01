@@ -13,7 +13,7 @@ work-personal: personal
 Buy a flat for Ru.
 
 ## Next Action
-- [ ] Get mortgage in principle [[get-mortgage-in-principle]]
+- [ ] Book viewing for Sovereign House via Hunters [[book-viewing-sovereign-house]]
 
 ## Tasks
 - [ ] [[get-mortgage-in-principle]] (due: 2026-06-30)
