@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-06-30
 tags: [property, personal]
 created: 2026-06-30T09:00:00
