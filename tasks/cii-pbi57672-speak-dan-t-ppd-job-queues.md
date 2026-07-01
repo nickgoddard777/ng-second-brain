@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-06-22
 tags: [cii, membership, work]
 created: 2026-06-22T00:00:00
