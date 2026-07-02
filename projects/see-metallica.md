@@ -14,6 +14,8 @@ Trip to see Metallica live. Staying in an Airbnb, checking out Monday 2026-07-06
 - Pack case for 3 days
 [[pack-case-for-3-days]]
 [[get-keybox-code-for-airbnb]]
+[[tickets-on-phone]]
+[[charge-and-pack-power-banks]]
 [[check-out-of-airbnb]]
 
 ## Notes
