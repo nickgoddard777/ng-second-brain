@@ -1,7 +1,7 @@
 ---
 type: task
 due: 2026-07-01
-status: pending
+status: complete
 tags:
   - cii
   - release
