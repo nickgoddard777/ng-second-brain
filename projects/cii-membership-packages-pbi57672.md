@@ -1,6 +1,6 @@
 ---
 type: project
-status: active
+status: complete
 tags: [cii, membership, work]
 created: 2026-06-22
 work-personal: work
