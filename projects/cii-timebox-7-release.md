@@ -32,9 +32,9 @@ None — all tasks complete.
 - [x] [[cii-tb8-create-branch-update-versions]] (due: 2026-06-23)
 - [x] [[cii-tb8-publish-to-uat]] (due: 2026-06-23)
 - [x] [[cii-tb8-prep-for-ppd]] (due: 2026-06-23)
-- [ ] [[cii-tb8-inform-carl-mohale]] (due: 2026-06-23)
-- [ ] [[cii-tb8-uat-session-pbis]] (due: 2026-06-30)
-- [ ] [[cii-tb8-remove-pbi56322-new-release]] (due: 2026-06-30)
+- [x] [[cii-tb8-inform-carl-mohale]] (due: 2026-06-23)
+- [x] [[cii-tb8-uat-session-pbis]] (due: 2026-06-30)
+- [x] [[cii-tb8-remove-pbi56322-new-release]] (due: 2026-06-30)
 
 ## Notes
 - Sequential release process
