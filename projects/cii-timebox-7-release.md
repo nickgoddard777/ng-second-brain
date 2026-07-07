@@ -15,7 +15,7 @@ work-personal: work
 Release process for CII Timebox 7 and 8.
 
 ## Next Action
-- [ ] Inform Carl & Mohale about TB8 [[cii-tb8-inform-carl-mohale]]
+None — all tasks complete.
 
 ## Tasks
 
