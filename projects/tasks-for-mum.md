@@ -33,7 +33,7 @@ work-personal: personal
 - [x] [[mum-ring-montague-hospital]]
 - [x] [[mum-get-ed-book-the-gate]]
 - [ ] [[mum-review-papers-bill-extra-item]]
-- [ ] [[mum-wait-for-audiology-email-reply]]
+- [x] [[mum-wait-for-audiology-email-reply]]
 - [ ] [[mum-pay-cleaner-30th-jun]]
 
 ## Notes
