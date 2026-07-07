@@ -16,7 +16,7 @@ Buy a flat for Ru.
 - [ ] Book viewing for Sovereign House via Hunters [[book-viewing-sovereign-house]]
 
 ## Tasks
-- [ ] [[get-mortgage-in-principle]] (due: 2026-06-30)
+- [x] [[get-mortgage-in-principle]] (due: 2026-06-30)
 - [ ] [[book-viewing-sovereign-house]] (due: 2026-07-01)
 
 ## Notes
