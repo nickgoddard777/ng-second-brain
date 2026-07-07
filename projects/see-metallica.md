@@ -1,6 +1,6 @@
 ---
 type: project
-status: active
+status: complete
 tags: [music, travel]
 created: 2026-07-02
 work-personal: personal
