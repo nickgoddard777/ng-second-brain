@@ -16,14 +16,14 @@ Reinstate the GenerateAPIToken function into the CII API calls to restore proper
 
 ## Next Action
 
-- [ ] NAV development to reinstate GenerateAPIToken [[cii-write-generate-api-token-code]] (due: 2026-07-02)
+- [ ] UAT support — apply fix to UAT and test [[cii-apply-generate-api-token-fix-uat]]
 
 ## Tasks
 
 - [x] Swarm call [[cii-generate-api-token-swarm-call]]
 - [x] Create PBI for INC1037720 [[cii-create-pbi-inc1037720]]
-- [ ] NAV development to reinstate GenerateAPIToken [[cii-write-generate-api-token-code]] (due: 2026-07-02)
-- [ ] Create pull request [[cii-pbi56330-create-pull-request]] (due: 2026-07-02)
+- [x] NAV development to reinstate GenerateAPIToken [[cii-write-generate-api-token-code]] (due: 2026-07-02)
+- [x] Create pull request [[cii-pbi56330-create-pull-request]] (due: 2026-07-02)
 - [ ] UAT support — apply fix to UAT and test [[cii-apply-generate-api-token-fix-uat]] (no due date yet)
 
 ## Notes
