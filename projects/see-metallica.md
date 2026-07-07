@@ -11,12 +11,14 @@ work-personal: personal
 Trip to see Metallica live. Staying in an Airbnb, checking out Monday 2026-07-06.
 
 ## Next Action
-- Pack case for 3 days
-[[pack-case-for-3-days]]
-[[get-keybox-code-for-airbnb]]
-[[tickets-on-phone]]
-[[charge-and-pack-power-banks]]
-[[check-out-of-airbnb]]
+None — trip complete.
+
+## Tasks
+- [x] [[pack-case-for-3-days]]
+- [x] [[get-keybox-code-for-airbnb]]
+- [x] [[tickets-on-phone]]
+- [x] [[charge-and-pack-power-banks]]
+- [x] [[check-out-of-airbnb]]
 
 ## Notes
 - Airbnb checkout: Monday 2026-07-06
