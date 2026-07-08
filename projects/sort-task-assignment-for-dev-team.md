@@ -19,6 +19,6 @@ None — all tasks complete.
 ## Tasks
 - [x] [[send-email-dev-team-accept-jobs-through-devops]]
 - [x] [[speak-to-mamta-jiten-devops-project]]
-- [ ] [[speak-to-pms-tasks-in-devops]] (due: 2026-07-01)
+- [x] [[speak-to-pms-tasks-in-devops]] (due: 2026-07-01)
 
 ## Notes
