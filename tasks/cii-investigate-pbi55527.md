@@ -1,0 +1,19 @@
+---
+type: task
+status: pending
+due: 2026-07-08
+tags:
+  - cii
+  - work
+created: 2026-07-08T11:43:12
+project: "[[cii-incident-management]]"
+title: Investigate PBI55527
+work-personal: work
+---
+
+# Investigate PBI55527
+
+Investigate PBI55527 for CII.
+
+## Notes
+- Part of [[cii-incident-management]]

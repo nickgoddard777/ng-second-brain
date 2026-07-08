@@ -14,3 +14,4 @@ work-personal: work
 # Investigate INC1059372
 
 ## Notes
+**NAV not updating with new email address for my PIN 001592629B and showing CRM account not found error**
