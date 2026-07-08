@@ -12,8 +12,8 @@ work-personal: work
 
 ## Active Tasks
 
-- [ ] [[cii-investigate-pbi55527]]
-- [ ] [[cii-investigate-pbi57800]]
+- [x] [[cii-investigate-pbi55527]]
+- [x] [[cii-investigate-pbi57800]]
 - [ ] [[cii-investigate-inc1041665]]
 - [x] [[cii-investigate-inc1060594]]
 - [x] [[cii-investigate-inc1060119]]
