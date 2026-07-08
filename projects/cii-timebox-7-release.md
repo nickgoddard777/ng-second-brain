@@ -35,6 +35,7 @@ Release process for CII Timebox 7 and 8.
 - [x] [[cii-tb8-inform-carl-mohale]] (due: 2026-06-23)
 - [x] [[cii-tb8-uat-session-pbis]] (due: 2026-06-30)
 - [x] [[cii-tb8-remove-pbi56322-new-release]] (due: 2026-06-30)
+- [ ] [[cii-tb8-fix-broken-ext3-runtime-file]] (due: 2026-07-08)
 
 ## Notes
 - Sequential release process
