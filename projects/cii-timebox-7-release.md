@@ -15,7 +15,7 @@ work-personal: work
 Release process for CII Timebox 7 and 8.
 
 ## Next Action
-- [ ] Fix the broken Ext3 runtime file [[cii-tb8-fix-broken-ext3-runtime-file]]
+None — all tasks complete.
 
 ## Tasks
 
