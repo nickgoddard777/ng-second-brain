@@ -17,3 +17,4 @@ Investigate PBI55527 for CII.
 
 ## Notes
 - Part of [[cii-incident-management]]
+- PBI write-up: [[2026-07-08-pbi55527-cii-pbi-customer-web-orders-two-pins]]
