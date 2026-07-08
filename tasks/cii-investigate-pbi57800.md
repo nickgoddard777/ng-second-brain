@@ -18,3 +18,4 @@ Investigate PBI57800 for CII.
 ## Notes
 - Part of [[cii-incident-management]]
  **Renewal orders are not getting fulfilled in NAV**
+- PBI write-up: [[2026-07-08-pbi57800-cii-pbi-membership-renewals-not-updating-details]]
