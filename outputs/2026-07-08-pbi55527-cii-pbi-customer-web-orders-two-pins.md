@@ -63,7 +63,7 @@ Small, well-understood refactor confined to a single codeunit.
 
 ## Acceptance Criteria
 
-- [ ] Orders with no Web Customer exit cleanly without running downstream import code
+- [ ] Orders with no Web Customer don't try to update the membership data
 - [ ] Orders are never processed against the wrong customer/PIN
 - [ ] Existing valid web order imports are unaffected
 - [ ] The example order 002076962D scenario no longer produces a Web Customer record with two PINs
