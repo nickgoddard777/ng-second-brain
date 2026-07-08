@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-07-01
 tags: [work, dev-team, devops]
 created: 2026-06-30T09:00:00
