@@ -1,8 +1,10 @@
 ---
 type: task
 status: pending
-due: 2026-07-01
-tags: [property, personal]
+due: 2026-07-08
+tags:
+  - property
+  - personal
 created: 2026-06-30T09:00:00
 project: "[[buy-flat-for-ru]]"
 title: Book Viewing for Sovereign House via Hunters
