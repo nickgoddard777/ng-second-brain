@@ -51,7 +51,7 @@ In particular, we need clarity on whether existing code paths are shared between
 - [x] Release PBI55179 to UAT [[cii-pbi55179-release-to-uat]]
 - [x] Wait for testers to come back on PBI55179 [[cii-pbi55179-wait-for-testers]]
 - [x] Release PBI55179 to PPD [[cii-pbi55179-release-to-ppd]]
-- [ ] Revert the PBI55179 code for TB8 [[cii-pbi55179-revert-code-tb8]] (due: 2026-07-08)
+- [x] Revert the PBI55179 code for TB8 [[cii-pbi55179-revert-code-tb8]] (due: 2026-07-08)
 - [ ] Investigate customer payment terms and bank issues [[cii-pbi55179-investigate-payment-terms-bank-issues]] (due: 2026-07-08)
 
 ## Notes
