@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-05-29
+due: 2026-07-09
 tags:
   - work
   - devops
