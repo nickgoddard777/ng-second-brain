@@ -11,9 +11,11 @@ work-personal: personal
 # Get Divorced
 
 ## Next Action
+- [ ] Attend court for financial agreement [[attend-court-financial-agreement]] (due: 2026-08-25)
 
 ## Tasks
 
+- [ ] [[tasks/attend-court-financial-agreement]] (due: 2026-08-25)
 - [x] [[tasks/write-response-to-court-order]]
 - [x] [[tasks/send-response-to-lisa]]
 - [x] [[tasks/wait-for-lisas-response]]
