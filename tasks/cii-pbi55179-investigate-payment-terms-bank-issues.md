@@ -18,3 +18,8 @@ Investigate customer payment terms and bank issues for PBI55179.
 
 ## Notes
 - Part of [[cii-pbi55179-midyear-membership]]
+
+Codeunit 50203
+	Proc UpdateSalesLineWithP2Extension
+		Sets the Membership Payment method and Preferred bank account with no check to see if they should eb updated.
+
