@@ -6,7 +6,7 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- Wash clothes [[wash-clothes]]
+- Work out places to store everything[[work-out-places-to-store-everything]]
 
 ## Tasks
 - [x] [[replace-bedding]]
