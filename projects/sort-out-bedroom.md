@@ -12,7 +12,7 @@ work-personal: personal
 - [x] [[replace-bedding]]
 - [x] [[sort-top-of-wooden-chest]]
 - [x] [[replace-mattress-topper]]
-- [ ] [[wash-clothes]]
+- [x] [[wash-clothes]]
 - [x] [[sort-into-categories-floor-and-wardrobes]]
 - [ ] [[work-out-places-to-store-everything]]
 - [ ] [[work-out-if-more-storage-needed]]

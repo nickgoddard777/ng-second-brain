@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-07-08
+due: 2026-07-15
 tags:
   - property
   - personal

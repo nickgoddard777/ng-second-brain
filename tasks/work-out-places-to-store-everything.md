@@ -4,7 +4,7 @@ status: pending
 tags:
   - home
 project: "[[sort-out-bedroom]]"
-due:
+due: 2026-07-18
 title: Work Out Places to Store Everything
 ---
 Work out places to store everything.

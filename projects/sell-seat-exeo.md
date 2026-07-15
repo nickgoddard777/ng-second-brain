@@ -19,7 +19,6 @@ Sell the Seat Exeo via webuyanycar.
 ## Tasks
 
 - [x] [[tasks/find-v5-logbook]]
-- [[tasks/order-new-v5-logbook]] ← only if logbook not found
 - [ ] [[tasks/clean-seat-exeo]]
 - [ ] [[tasks/book-car-webuyanycar]]
 - [ ] [[tasks/take-car-to-webuyanycar]]
