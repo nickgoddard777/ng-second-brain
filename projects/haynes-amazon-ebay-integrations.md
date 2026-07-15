@@ -48,6 +48,7 @@ Build Amazon and eBay integrations for Haynes.
 ### General
 - [x] [[haynes-confirm-mapping-table-sent]]
 - [ ] [[haynes-config-mapping-prod-refresh-sandbox]]
+- [ ] Review and send Amazon app instructions to Andrew Golby [[haynes-amazon-app-instructions-golby]] (due: 2026-07-15)
 - [x] [[haynes-document-ebay-authorisation-process]]
 
 ## Ideas
