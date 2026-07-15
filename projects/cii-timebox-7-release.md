@@ -15,7 +15,7 @@ work-personal: work
 Release process for CII Timebox 7 and 8.
 
 ## Next Action
-None — all tasks complete.
+- [ ] TB8 release support [[cii-tb8-release-support]] (due: 2026-07-15)
 
 ## Tasks
 
