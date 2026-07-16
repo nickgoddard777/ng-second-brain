@@ -44,6 +44,7 @@ Build Amazon and eBay integrations for Haynes.
 
 ### Amazon - Purchase Invoice
 - [ ] [[haynes-amazon-pi-no-field-mapping]]
+- [ ] Fix PI unit amount to be amount not including VAT [[haynes-amazon-pi-unit-amount-ex-vat]] (due: 2026-07-16)
 
 ### General
 - [x] [[haynes-confirm-mapping-table-sent]]
