@@ -14,7 +14,10 @@ work-personal: work
 
 # Configure Mapping in Production and Refresh Haynes Sandbox
 
-Do some mapping config in production, then make a new copy of the Haynes sandbox from production so the sandbox matches.
+- [ ] Move Import Templates to Production
+- [ ] Delete Sandbox Haynes
+- [ ] Recreate Sandbox Haynes from Production
+
 
 ## Notes
 - Raised in [[haynes-integrations-stakeholder-meeting]]
