@@ -16,7 +16,7 @@ Reinstate the GenerateAPIToken function into the CII API calls to restore proper
 
 ## Next Action
 
-- [ ] Fix issue of not connecting to web [[cii-api-token-fix-web-connection]] (due: 2026-07-15)
+- [ ] UAT support — apply fix to UAT and test [[cii-apply-generate-api-token-fix-uat]] (no due date yet)
 
 ## Tasks
 
