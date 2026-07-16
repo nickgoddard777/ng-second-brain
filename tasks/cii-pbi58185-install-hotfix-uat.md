@@ -18,7 +18,7 @@ Install the CVE-2026-55944 hotfix onto UAT and test it.
 
 ## Notes
 - Part of [[cii-pbi58185-vulnerability-cve-2026-55944]] (PBI 58185)
-- Follows [[cii-pbi58185-investigate-cve-2026-55944]]; no due date until the plan is agreed
+- Follows [[cii-pbi58185-investigate-cve-2026-55944]]
 
 ### Steps
 1. Take backup of E:\Program Files\Microsoft Dynamics NAV\110\Service\CustomSettings.config
