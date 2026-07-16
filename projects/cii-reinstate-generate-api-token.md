@@ -25,8 +25,8 @@ Reinstate the GenerateAPIToken function into the CII API calls to restore proper
 - [x] NAV development to reinstate GenerateAPIToken [[cii-write-generate-api-token-code]] (due: 2026-07-02)
 - [x] Create pull request [[cii-pbi56330-create-pull-request]] (due: 2026-07-02)
 - [ ] UAT support — apply fix to UAT and test [[cii-apply-generate-api-token-fix-uat]] (no due date yet)
-- [ ] Fix issue of not connecting to web [[cii-api-token-fix-web-connection]] (due: 2026-07-15)
-- [ ] Create release 933 to test in PPD [[cii-api-token-create-release-933]] (due: 2026-07-15)
+- [x] Fix issue of not connecting to web [[cii-api-token-fix-web-connection]] (due: 2026-07-15)
+- [x] Create release 933 to test in PPD [[cii-api-token-create-release-933]] (due: 2026-07-15)
 
 ## Notes
 - Linked to INC1037720
