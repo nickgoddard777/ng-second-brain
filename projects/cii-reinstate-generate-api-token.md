@@ -27,6 +27,7 @@ Reinstate the GenerateAPIToken function into the CII API calls to restore proper
 - [ ] UAT support — apply fix to UAT and test [[cii-apply-generate-api-token-fix-uat]] (no due date yet)
 - [x] Fix issue of not connecting to web [[cii-api-token-fix-web-connection]] (due: 2026-07-15)
 - [x] Create release 933 to test in PPD [[cii-api-token-create-release-933]] (due: 2026-07-15)
+- [ ] Update code to not check if token exists [[cii-api-token-remove-token-exists-check]] (due: 2026-07-17)
 
 ## Notes
 - Linked to INC1037720
