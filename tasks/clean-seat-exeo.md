@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-07-16
+due: 2026-07-18
 tags:
   - car
 created: 2026-03-12T00:00:00
