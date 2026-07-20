@@ -16,7 +16,7 @@ Reinstate the GenerateAPIToken function into the CII API calls to restore proper
 
 ## Next Action
 
-- [ ] UAT support — apply fix to UAT and test [[cii-apply-generate-api-token-fix-uat]] (no due date yet)
+- [ ] Meeting to test GenerateAPIToken after updated method of calling [[cii-api-token-meeting-test-updated-calls]] (due: 2026-07-20)
 
 ## Tasks
 
