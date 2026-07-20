@@ -14,11 +14,13 @@ work-personal: work
 Migrate AL-Go deployment authentication from current method to Service-to-Service (S2S) authentication.
 
 ## Next Action
-None — all current tasks complete. Needs rollout tasks.
+- [ ] Get reduced customer list for Josh White [[al-go-s2s-reduced-customer-list-josh-white]] (due: 2026-07-20)
 
 ## Tasks
 - [x] [[al-go-s2s-get-app-registration-vault]] (due: 2026-05-21)
 - [x] [[al-go-s2s-setup-test-environment]] (due: 2026-05-22)
 - [x] [[al-go-s2s-list-customers-repos]] (dependent on test task)
+- [ ] Get reduced customer list for Josh White [[al-go-s2s-reduced-customer-list-josh-white]] (due: 2026-07-20)
+- [ ] Think how we can handle more than 20 clients [[al-go-s2s-handle-more-than-20-clients]] (no due date)
 
 ## Notes
