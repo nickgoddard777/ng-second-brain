@@ -22,5 +22,6 @@ Migrate AL-Go deployment authentication from current method to Service-to-Servic
 - [x] [[al-go-s2s-list-customers-repos]] (dependent on test task)
 - [ ] Get reduced customer list for Josh White [[al-go-s2s-reduced-customer-list-josh-white]] (due: 2026-07-20)
 - [ ] Think how we can handle more than 20 clients [[al-go-s2s-handle-more-than-20-clients]] (no due date)
+- [ ] Wait for Josh White re publishing to Acora BC [[al-go-s2s-wait-josh-white-acora-bc-publish]] (no due date)
 
 ## Notes
