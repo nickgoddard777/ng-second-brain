@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-07-20
+due: 2026-07-22
 tags:
   - haynes
   - integrations
@@ -15,8 +15,11 @@ work-personal: work
 # Configure Mapping in Production and Refresh Haynes Sandbox
 
 - [ ] Move Import Templates to Production
+- [ ] Set Production eBay Vendor to Prices include VAT 
 - [ ] Delete Sandbox Haynes
 - [ ] Recreate Sandbox Haynes from Production
+- [ ] Run eBay Import
+- [ ] Inform Debbie/Iain
 
 
 ## Notes

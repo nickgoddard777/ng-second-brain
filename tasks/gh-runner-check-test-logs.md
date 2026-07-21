@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-07-20
+due: 2026-07-23
 tags:
   - work
   - github
