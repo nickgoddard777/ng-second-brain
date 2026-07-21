@@ -16,6 +16,7 @@ Get personal finances in order — find passport, open new bank account, and cle
 - [ ] [[get-mum-bank-account]]
 
 ## Tasks
+- [ ] [[ring-barclays-add-accounts-same-login]]
 - [x] [[find-passport]]
 - [x] [[get-new-bank-account]]
 - [x] [[pay-off-tesco-credit-card]]
