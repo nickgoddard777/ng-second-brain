@@ -47,6 +47,7 @@ Build Amazon and eBay integrations for Haynes.
 - [x] Fix PI unit amount to be amount not including VAT [[haynes-amazon-pi-unit-amount-ex-vat]] (due: 2026-07-16)
 
 ### General
+- [ ] Email Debbie regarding VAT issue [[haynes-ebay-email-debbie-vat-issue]] (due: 2026-07-21)
 - [x] [[haynes-confirm-mapping-table-sent]]
 - [ ] [[haynes-config-mapping-prod-refresh-sandbox]]
 - [ ] Review and send Amazon app instructions to Andrew Golby [[haynes-amazon-app-instructions-golby]] (due: 2026-07-15)
