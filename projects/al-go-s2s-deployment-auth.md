@@ -14,7 +14,7 @@ work-personal: work
 Migrate AL-Go deployment authentication from current method to Service-to-Service (S2S) authentication.
 
 ## Next Action
-- [ ] Get reduced customer list for Josh White [[al-go-s2s-reduced-customer-list-josh-white]] (due: 2026-07-20)
+- [ ] Wait for Josh White re publishing to Acora BC [[al-go-s2s-wait-josh-white-acora-bc-publish]] (no due date)
 
 ## Tasks
 - [x] [[al-go-s2s-get-app-registration-vault]] (due: 2026-05-21)
