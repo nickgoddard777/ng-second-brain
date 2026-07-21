@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-06-04
+due: 2026-07-27
 tags:
   - cii
   - incident

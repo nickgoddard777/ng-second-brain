@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-07-17
+due:
 tags:
   - haynes
   - amazon
