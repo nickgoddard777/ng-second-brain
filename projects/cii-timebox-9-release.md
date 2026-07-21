@@ -15,7 +15,7 @@ work-personal: work
 Release process for CII Timebox 9.
 
 ## Next Action
-- [ ] Create release including PBI57800 [[cii-tb9-create-release-pbi57800]] (due: 2026-07-20)
+- [ ] Wait for release day confirmation [[cii-tb9-wait-release-day-confirmation]] (due: 2026-07-29)
 
 ## Tasks
 - [x] [[cii-tb9-fix-api-utilities-number]] (due: 2026-07-10)
