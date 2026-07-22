@@ -7,9 +7,18 @@ created: 2026-04-29T00:00:00
 title: Respond to Bhav's Email re HK Bank Format
 work-personal: work
 person:
-  - - bhavanesh-laher
+  - "[[bhavanesh-laher]]"
 ---
 
 # Respond to Bhav's Email re HK Bank Format
 
 ## Notes
+- [x] I have changed the company name in company information. However, it is still populating Infopro digital (HK) rather than Infopro Digital (Hong-Kong) Limited, please confirm the field this is being pulled from.
+- [x] The ordering party address should be the company address not the bank address. Can this be pulled from company information.
+- [x] Beneficiary Name is still being shortened. Why is this, from my understanding the field can have up to 35 characters.
+- [ ] Creditor building number – Can we move this to the Vendor card rather than the bank details; we will be using the bank card for the suppliers banking address not registered address.
+- [ ] Creditor street name is pulled from the Vendor card but the address on the vendor card is one line and included the door number. The line above can fix this issue, and we can split it out. (@Jessica Townsend we would need this in all companies as it will impact Kevins work on the supplier onboarding forms.)
+- [ ] Creditor town name is populating both city and post code.
+- [ ] Beneficiary account number is pulling the IBAN rather than account number. Please check mapping.
+- [ ] Payment Currency is mandatory, if the payment is HKD, we cannot populate that in the general journal or purchase invoice as it is the base currency. Can we default if its blank to HKD otherwise pick up the currency on the line.
+- [ ] Customer reference and instruction reference seem to be mapped one cell to the right.
