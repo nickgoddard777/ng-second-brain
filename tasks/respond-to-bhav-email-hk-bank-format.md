@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: in-progress
 due: 2026-07-21
 tags: []
 created: 2026-04-29T00:00:00
