@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: in-progress
 due: 2026-07-22
 tags:
   - haynes
