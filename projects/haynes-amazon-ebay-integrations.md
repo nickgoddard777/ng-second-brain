@@ -38,6 +38,10 @@ Build Amazon and eBay integrations for Haynes.
 - [x] [[haynes-ebay-pi-field-mapping]]
 - [x] [[haynes-ebay-pi-marketing-fees-gl-code]]
 
+### eBay - Authentication
+- [ ] Fix eBay Authentication [[haynes-ebay-fix-authentication]] (due: 2026-07-23)
+- [x] [[haynes-document-ebay-authorisation-process]]
+
 ### Amazon - Sales Invoice
 - [ ] [[haynes-amazon-si-investigate-fee-lines]]
 - [ ] [[haynes-amazon-si-shipping-from-line]]
