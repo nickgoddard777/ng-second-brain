@@ -14,13 +14,15 @@ work-personal: work
 
 # Configure Mapping in Production and Refresh Haynes Sandbox
 
-- [ ] Move Import Templates to Production
-- [ ] Set Production eBay Vendor to Prices include VAT 
-- [ ] Delete Sandbox Haynes
-- [ ] Recreate Sandbox Haynes from Production
+- [x] Move Import Templates to Production
+- [x] Set Production eBay Vendor to Prices include VAT 
+- [x] Delete Sandbox Haynes
+- [x] Recreate Sandbox Haynes from Production
+- [x] Import latest extensions
 - [ ] Run eBay Import
 - [ ] Inform Debbie/Iain
 
 
 ## Notes
 - Raised in [[haynes-integrations-stakeholder-meeting]]
+- Security Group: D365 BC Haynes Sandbox
