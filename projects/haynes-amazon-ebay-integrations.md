@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [ ] Amazon SI - Investigate Fee Lines [[haynes-amazon-si-investigate-fee-lines]]
+- [ ] Fix eBay Authentication [[haynes-ebay-fix-authentication]] (due: 2026-07-23)
 
 ## Tasks
 
