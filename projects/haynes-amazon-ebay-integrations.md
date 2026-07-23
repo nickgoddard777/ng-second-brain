@@ -42,6 +42,9 @@ Build Amazon and eBay integrations for Haynes.
 - [ ] Fix eBay Authentication [[haynes-ebay-fix-authentication]] (due: 2026-07-23)
 - [x] [[haynes-document-ebay-authorisation-process]]
 
+### eBay - Get Orders
+- [ ] Rework Get Orders to use new 2026-01-01 API model [[haynes-ebay-rework-get-orders-new-api-model]] (due: 2026-07-24)
+
 ### Amazon - Sales Invoice
 - [ ] [[haynes-amazon-si-investigate-fee-lines]]
 - [ ] [[haynes-amazon-si-shipping-from-line]]
