@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-07-22
+due: 2026-07-25
 tags: [mum, damart]
 created: 2026-07-21T00:00:00
 title: Order new Damart body warmer (bigger size) for mum
