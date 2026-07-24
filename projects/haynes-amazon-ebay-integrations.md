@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [ ] Fix eBay Authentication [[haynes-ebay-fix-authentication]] (due: 2026-07-23)
+- [ ] Rework Get Orders to use new 2026-01-01 API model [[haynes-ebay-rework-get-orders-new-api-model]] (due: 2026-07-24)
 
 ## Tasks
 
