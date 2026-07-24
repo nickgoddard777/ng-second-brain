@@ -12,9 +12,10 @@ work-personal: work
 # Haynes Inbound 3PL
 
 ## Next Action
-- [ ] [[haynes-3pl-set-primary-template-code]] (due: 2026-05-20)
+- None — project complete (2026-07-24)
 
 ## Tasks
-- [ ] [[haynes-3pl-set-primary-template-code]] (due: 2026-05-20)
+- [x] [[haynes-3pl-set-primary-template-code]] (completed 2026-07-21)
 
 ## Notes
+- Completed 2026-07-24. Primary template code set; no further inbound 3PL work outstanding.
