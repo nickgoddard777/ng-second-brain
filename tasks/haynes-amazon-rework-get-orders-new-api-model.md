@@ -14,7 +14,7 @@ work-personal: work
 
 # Rework Get Orders to Use New 2026-01-01 API Model
 
-Rework the eBay Get Orders call to use the new 2026-01-01 API model.
+Rework the Amazon Get Orders call to use the new 2026-01-01 API model.
 
 ## Notes
 - Part of [[haynes-amazon-ebay-integrations]]

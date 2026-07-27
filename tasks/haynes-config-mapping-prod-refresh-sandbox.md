@@ -19,8 +19,9 @@ work-personal: work
 - [x] Delete Sandbox Haynes
 - [x] Recreate Sandbox Haynes from Production
 - [x] Import latest extensions
-- [ ] Run eBay Import
-- [ ] Inform Debbie/Iain
+- [x] Fix Signature functionality
+- [x] Run eBay Import
+- [x] Inform Debbie/Iain
 
 
 ## Notes
