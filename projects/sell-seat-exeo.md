@@ -20,7 +20,7 @@ Sell the Seat Exeo via webuyanycar.
 
 - [x] [[tasks/find-v5-logbook]]
 - [x] [[tasks/clean-seat-exeo]]
-- [ ] [[tasks/find-local-car-wash]]
+- [x] [[tasks/find-local-car-wash]]
 - [ ] [[tasks/take-seat-exeo-to-car-wash]]
 - [ ] [[tasks/book-car-webuyanycar]]
 - [ ] [[tasks/take-car-to-webuyanycar]]

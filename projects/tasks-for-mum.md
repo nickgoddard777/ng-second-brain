@@ -10,10 +10,10 @@ work-personal: personal
 - [ ] Review the extra item on the papers bill [[mum-review-papers-bill-extra-item]]
 
 ## Tasks
-- [ ] [[order-chippings]]
+- [x] [[order-chippings]]
 - [x] [[find-my-labeller]]
 - [x] [[put-impact-driver-in-car]]
-- [ ] [[label-cupboard-doors]]
+- [x] [[label-cupboard-doors]]
 - [x] [[move-number-from-gate-to-fence]]
 - [x] [[take-mum-to-asda]]
 - [x] [[take-mum-to-doctors]]
@@ -33,6 +33,9 @@ work-personal: personal
 - [x] [[mum-ring-montague-hospital]]
 - [x] [[mum-get-ed-book-the-gate]]
 - [ ] [[mum-review-papers-bill-extra-item]]
+- [x] [[mum-oil-door-hinges]]
+- [x] [[mum-buy-walking-seat]]
+- [ ] [[mum-speak-to-british-gas-account]]
 - [x] [[mum-wait-for-audiology-email-reply]]
 - [x] [[mum-pay-cleaner-30th-jun]]
 
