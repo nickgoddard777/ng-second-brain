@@ -121,7 +121,8 @@
       "Bash(git mv *)",
       "Bash(cd \"/c/Users/Nick.Goddard/OneDrive - Acora Limited/Documents/GitHub/ng-second-brain\" && grep -rl \"due: 2026-0[1-5]-\\\\|due: 2026-06-[01][0-9]\\\\|due: 2026-06-2[01]\" tasks/*.md 2>/dev/null)",
       "Bash(cat daily/2026-06-23.md)",
-      "Bash(echo \"---EXIT:$?---\")"
+      "Bash(echo \"---EXIT:$?---\")",
+      "mcp__c7404596-8e27-467c-9777-fc62f54fd75c__microsoft_docs_search"
     ]
   }
 }
