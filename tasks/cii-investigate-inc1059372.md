@@ -1,7 +1,7 @@
 ---
 type: task
-status: pending
-due: 2026-07-27
+status: cancelled
+due:
 tags:
   - cii
   - incident
