@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [ ] Rework Get Orders to use new 2026-01-01 API model [[haynes-amazon-rework-get-orders-new-api-model]] (due: 2026-07-24)
+- [ ] Analyze outstanding Amazon Import issues + estimate time [[haynes-amazon-import-analyze-outstanding-issues]] (due: 2026-07-29), then email Haynes with the updated time frame [[haynes-amazon-email-updated-timeframe]] (due: 2026-07-29)
 
 ## Tasks
 
