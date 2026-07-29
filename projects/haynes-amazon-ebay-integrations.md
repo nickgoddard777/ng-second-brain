@@ -45,6 +45,10 @@ Build Amazon and eBay integrations for Haynes.
 ### Amazon - Get Orders
 - [x] Rework Get Orders to use new 2026-01-01 API model [[haynes-amazon-rework-get-orders-new-api-model]] (due: 2026-07-24)
 
+### Amazon - Import
+- [ ] Analyze outstanding issues with Amazon Import and work out how long [[haynes-amazon-import-analyze-outstanding-issues]] (due: 2026-07-29)
+- [ ] Email Haynes with updated time frame [[haynes-amazon-email-updated-timeframe]] (due: 2026-07-29, blocked by analysis)
+
 ### Amazon - Sales Invoice
 - [ ] [[haynes-amazon-si-investigate-fee-lines]]
 - [ ] [[haynes-amazon-si-shipping-from-line]]
