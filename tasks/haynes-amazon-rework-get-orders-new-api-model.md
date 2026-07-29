@@ -1,7 +1,8 @@
 ---
 type: task
-status: pending
+status: complete
 due: 2026-07-24
+completed: 2026-07-28
 tags:
   - haynes
   - ebay
