@@ -1,0 +1,22 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.path != this.file.path
+        - type == "project"
+        - status != "active"
+        - status != "complete"
+    groupBy:
+      property: work-personal
+      direction: ASC
+    order:
+      - work-personal
+      - file.name
+      - status
+      - tags
+      - file.mtime
+      - file.links
+    sort:
+      - property: file.mtime
+        direction: ASC
