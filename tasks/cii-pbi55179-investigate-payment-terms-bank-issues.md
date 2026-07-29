@@ -1,7 +1,7 @@
 ---
 type: task
 status: in-progress
-due: 2026-07-27
+due: 2026-08-03
 tags:
   - cii
   - membership

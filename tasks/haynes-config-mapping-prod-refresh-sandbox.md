@@ -1,7 +1,8 @@
 ---
 type: task
-status: in-progress
+status: complete
 due: 2026-07-22
+completed: 2026-07-28
 tags:
   - haynes
   - integrations
