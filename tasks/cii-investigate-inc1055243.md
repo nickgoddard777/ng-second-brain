@@ -1,6 +1,6 @@
 ---
 type: task
-status: pending
+status: complete
 tags:
   - cii
   - incident
@@ -9,6 +9,7 @@ project: "[[cii-incident-management]]"
 title: Investigate INC1055243
 work-personal: work
 due: 2026-07-29
+completed: 2026-07-29
 ---
 
 # Investigate INC1055243
