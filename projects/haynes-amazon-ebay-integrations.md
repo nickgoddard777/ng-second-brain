@@ -16,7 +16,7 @@ work-personal: work
 Build Amazon and eBay integrations for Haynes.
 
 ## Next Action
-- [ ] Analyze outstanding Amazon Import issues + estimate time [[haynes-amazon-import-analyze-outstanding-issues]] (due: 2026-07-29), then email Haynes with the updated time frame [[haynes-amazon-email-updated-timeframe]] (due: 2026-07-29)
+- [ ] Add dummy coding to check variant format when creating Amazon records [[haynes-amazon-record-creation-dummy-coding-variant-format]] (due: 2026-08-03), then work the Amazon Import scope (SI fee lines, shipping-from line, PI field mapping)
 
 ## Tasks
 
