@@ -23,8 +23,8 @@ Review the outstanding issues with the Amazon Import and estimate how long the r
 - Feeds into [[haynes-amazon-email-updated-timeframe]] — the estimate produced here is what gets sent to Haynes
 - Outstanding Amazon items to factor in: [[haynes-amazon-si-investigate-fee-lines]], [[haynes-amazon-si-shipping-from-line]], [[haynes-amazon-pi-no-field-mapping]]
 
-- [ ] Add Primary Template
-- [ ] Item Nos have \_TEMPORAL at the end
+- [x] Add Primary Template
+- [x] Item Nos have \_TEMPORAL at the end
 - [ ] Need to calculate the format 
 - [ ] Add dimensions
 	- [ ] Sales Inv Header/Sales Inv Line/Sales Credit Memo Header/Sales Credit Memo Line
@@ -38,7 +38,8 @@ Review the outstanding issues with the Amazon Import and estimate how long the r
 		- [ ] Dim 3 - Based on Type
 		- [ ] Dim 4 - Based on Format
 - [ ] Purchase Invoice Line - Need to map GL Account
-- [ ] Fix any failing tests
+- [ ] Location needs mapping
+- [x] Fix any failing tests
 
 
 
