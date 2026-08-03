@@ -53,6 +53,9 @@ Build Amazon and eBay integrations for Haynes.
 - [ ] [[haynes-amazon-si-investigate-fee-lines]]
 - [ ] [[haynes-amazon-si-shipping-from-line]]
 
+### Amazon - Record Creation
+- [ ] Add dummy coding to check variant format when creating Amazon records [[haynes-amazon-record-creation-dummy-coding-variant-format]] (due: 2026-08-03)
+
 ### Amazon - Purchase Invoice
 - [ ] [[haynes-amazon-pi-no-field-mapping]]
 - [x] Fix PI unit amount to be amount not including VAT [[haynes-amazon-pi-unit-amount-ex-vat]] (due: 2026-07-16)
