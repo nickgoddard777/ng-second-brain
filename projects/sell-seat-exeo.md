@@ -14,15 +14,15 @@ Sell the Seat Exeo via webuyanycar.
 
 ## Next Action
 
-- [ ] Book car with We Buy Any Car [[tasks/book-car-webuyanycar]]
+- [ ] Take car to We Buy Any Car appointment [[tasks/take-car-to-webuyanycar]]
 
 ## Tasks
 
 - [x] [[tasks/find-v5-logbook]]
 - [x] [[tasks/clean-seat-exeo]]
 - [x] [[tasks/find-local-car-wash]]
-- [ ] [[tasks/take-seat-exeo-to-car-wash]]
-- [ ] [[tasks/book-car-webuyanycar]]
+- [x] [[tasks/take-seat-exeo-to-car-wash]]
+- [x] [[tasks/book-car-webuyanycar]]
 - [ ] [[tasks/take-car-to-webuyanycar]]
 - [x] [[tasks/swap-insurance-to-vw-golf]]
 
