@@ -23,6 +23,8 @@ Meeting about the development process.
 
 ## Meeting Summary (2026-08-04, 1h12m)
 
+> Word version: [[outputs/2026-08-04-dev-process-meeting-summary.docx]]
+
 **Attendees:** Nick Goddard, Josh Murphy, Daniel Townsend, Mick Carr, Kevin Portellas, Stuart Allen, Mike Jones, Mamta Pathak, Ricardo Cardoso
 
 ### 1. Auditability / work through DevOps
