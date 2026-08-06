@@ -12,14 +12,16 @@ work-personal: work
 Migrate all BC (Business Central) repositories over to AL-Go for GitHub.
 
 ## Next Action
-- Create a script documenting how to move a single repo to AL-Go [[al-go-migration-script]]
+- Collate a list of repos to migrate [[al-go-migration-collate-repos-list]] (due: 2026-08-10)
 
 ## Tasks
-- [ ] [[al-go-migration-script]] - Create migration script (due: 2026-03-30)
-- [ ] [[al-go-migration-meeting]] - Schedule and record demo meeting (due: 2026-03-31)
-- [ ] [[al-go-migration-plan]] - Build plan for remaining repos
+- [ ] [[al-go-migration-collate-repos-list]] - Collate list of BC repos to migrate (due: 2026-08-10)
+- [ ] [[al-go-migration-script]] - Create migration script (due: 2026-08-12)
+- [ ] [[al-go-migration-meeting]] - Schedule and record demo meeting (due: 2026-08-13)
+- [ ] [[al-go-migration-plan]] - Build plan for remaining repos (due: 2026-08-14)
 - [ ] [[al-go-execute-migration]] - Execute migration plan
 - [x] [[research-alcops-al-go-integration]] - Research ALCops AL-Go Integration
 
 ## Notes
-Sequential process: script → demo → plan → execute.
+Sequential process: collate repos → script → demo → plan → execute.
+Replanned to week of 2026-08-10 (was stalled on March 2026 dates).

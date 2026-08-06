@@ -1,7 +1,7 @@
 ---
 type: task
 status: pending
-due: 2026-08-05
+due: 2026-08-10
 tags:
   - work
   - code-review
