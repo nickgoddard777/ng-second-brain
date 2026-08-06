@@ -18,5 +18,5 @@ Arrange a meeting with David Beaton to discuss the Acora Internal deployments.
 
 ## Notes
 - Part of [[al-go-s2s-deployment-auth]]
-- Ask [[matt]] for his availability first — he'll probably need to be at the meeting.
+- Ask [[matt-hollins]] for his availability first — he'll probably need to be at the meeting.
 - Don't need to look at this until next week.
