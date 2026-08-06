@@ -15,7 +15,7 @@ work-personal: work
 Release process for CII Timebox 9.
 
 ## Next Action
-- [ ] Release Timebox 9 to production [[cii-tb9-release-to-production]] (due: 2026-08-04)
+- None — released to production 2026-08-04; project complete, ready to archive at weekly review.
 
 ## Tasks
 - [x] [[cii-tb9-fix-api-utilities-number]] (due: 2026-07-10)
