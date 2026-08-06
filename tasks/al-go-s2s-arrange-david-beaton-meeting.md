@@ -14,7 +14,7 @@ work-personal: work
 
 # Arrange Meeting with David Beaton re Acora Internal Deployments
 
-Arrange a meeting with David Beaton to discuss the Acora Internal deployments.
+Arrange a meeting with [[david-beaton]] to discuss the Acora Internal deployments.
 
 ## Notes
 - Part of [[al-go-s2s-deployment-auth]]
