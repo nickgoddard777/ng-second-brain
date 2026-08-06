@@ -1,16 +1,19 @@
 ---
 type: task
-status: pending
+status: blocked
 tags:
   - work
   - al-go
   - support
-due: 2026-07-24
+blocked-by: "[[improve-github-runner-stability]]"
 project: "[[al-go-support-email-notifications]]"
 title: Compile AL-Go Triage Error List
 ---
 
 Compile a list of known AL-Go test errors that support can use to triage incoming failure notifications.
+
+> [!warning] Blocked
+> Deferred until [[improve-github-runner-stability]] is complete. The self-hosted runner instability is generating most of the current test failure emails, so triaging the error list now would capture noise rather than genuine, reproducible AL-Go errors. Revisit once the runners are stable. (Was due 2026-07-24.)
 
 [[al-go-support-email-notifications]]
 

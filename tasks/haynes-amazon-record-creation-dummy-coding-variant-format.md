@@ -1,14 +1,15 @@
 ---
 type: task
-status: pending
-due: 2026-08-03
+status: in-progress
+due: 2026-08-07
 tags:
   - haynes
   - amazon
   - integrations
   - work
 created: 2026-08-03T00:00:00
-project: [[haynes-amazon-ebay-integrations]]
+project:
+  - - haynes-amazon-ebay-integrations
 title: Add dummy coding to check variant format when creating Amazon records
 work-personal: work
 ---
