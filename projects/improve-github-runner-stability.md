@@ -28,3 +28,4 @@ Improve the stability of the GitHub self-hosted runners used for builds/CI.
 ## Notes
 - Current setup: 1 VM running 4 runners; plan is 2 VMs running 2 runners each
 - Mamta ([[mamta-pathak]]) has a PR in flight related to this
+- Blocking [[compile-al-go-triage-error-list]] — runner instability is generating most of the failure emails, so that triage is deferred until this project is complete. Unblock it once runners are stable.
