@@ -1,6 +1,6 @@
 ---
 type: task
-due: 2026-07-24
+due: 2026-08-14
 status: pending
 tags:
   - tooling
