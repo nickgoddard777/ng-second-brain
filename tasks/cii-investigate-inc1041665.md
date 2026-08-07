@@ -28,3 +28,5 @@ If someone creates a membership order on the web and the membership payment is a
 ### Investigation
 - Example of transfer order: Order No: 2001190282 Customer PIN: 002143224H
 - Example of credit card order: Order No: 2001197856 Customer PIN: 001798912H
+
+
