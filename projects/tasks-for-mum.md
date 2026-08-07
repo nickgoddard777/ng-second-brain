@@ -7,9 +7,12 @@ tags:
 work-personal: personal
 ---
 ## Next Action
-- [ ] Review the extra item on the papers bill [[mum-review-papers-bill-extra-item]]
+- [ ] Fix Mum's bedroom TV [[mum-fix-bedroom-tv]] (due: 2026-08-08)
 
 ## Tasks
+- [ ] [[mum-fix-bedroom-tv]] (due: 2026-08-08)
+- [ ] [[mum-take-to-doctors-10th-aug]] (due: 2026-08-10)
+- [ ] [[mum-take-to-fracture-clinic]] (due: 2026-08-10)
 - [x] [[order-chippings]]
 - [x] [[find-my-labeller]]
 - [x] [[put-impact-driver-in-car]]
