@@ -19,4 +19,4 @@ Collate a list of all the BC (Business Central) repositories that need migrating
 [[bc-repos-al-go-migration]]
 
 ## Notes
-- Doing this on Monday 2026-08-10.
+- Moved to Tuesday 2026-08-11 (not working Mon 10th).
