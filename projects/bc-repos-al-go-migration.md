@@ -12,7 +12,7 @@ work-personal: work
 Migrate all BC (Business Central) repositories over to AL-Go for GitHub.
 
 ## Next Action
-- Collate a list of repos to migrate [[al-go-migration-collate-repos-list]] (due: 2026-08-10)
+- Collate a list of repos to migrate [[al-go-migration-collate-repos-list]] (due: 2026-08-11)
 
 ## Tasks
 - [ ] [[al-go-migration-collate-repos-list]] - Collate list of BC repos to migrate (due: 2026-08-10)
