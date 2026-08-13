@@ -1,7 +1,7 @@
 ---
 type: task
 status: in-progress
-due: 2026-08-07
+due: 2026-08-13
 tags:
   - haynes
   - amazon
