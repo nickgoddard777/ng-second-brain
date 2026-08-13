@@ -1,6 +1,6 @@
 ---
 type: task
-due: 2026-08-11
+due: 2026-08-14
 status: pending
 tags:
   - al-go
