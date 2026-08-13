@@ -13,11 +13,11 @@ work-personal: personal
 Buy a flat for Ru.
 
 ## Next Action
-- [ ] Book viewing for Sovereign House via Hunters [[book-viewing-sovereign-house]]
+- Attend the Sovereign House viewing, then decide on next steps
 
 ## Tasks
 - [x] [[get-mortgage-in-principle]] (due: 2026-06-30)
-- [ ] [[book-viewing-sovereign-house]] (due: 2026-07-01)
+- [x] [[book-viewing-sovereign-house]] (due: 2026-07-01)
 
 ## Notes
 - Estate agent: Hunters (for Sovereign House viewing)
