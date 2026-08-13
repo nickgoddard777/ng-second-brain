@@ -8,12 +8,12 @@ tags:
 work-personal: work
 ---
 ## Next Action
-- [ ] [[cii-investigate-pbi57030]] — **priority, due today**
+- [ ] [[cii-investigate-pbi57030]] — **priority, in progress (due 2026-08-06, overdue)**
 
 ## Active Tasks
 
 - [ ] [[cii-investigate-pbi57030]] (due: 2026-08-06)
-- [ ] [[cii-release-pbi57076-ppd]] (due: 2026-08-06)
+- [x] [[cii-release-pbi57076-ppd]] (due: 2026-08-06)
 - [x] [[cii-investigate-pbi55527]]
 - [x] [[cii-investigate-pbi57800]]
 - [ ] [[cii-investigate-inc1041665]]
