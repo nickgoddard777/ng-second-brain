@@ -14,7 +14,7 @@ work-personal: work
 Migrate AL-Go deployment authentication from current method to Service-to-Service (S2S) authentication.
 
 ## Next Action
-- [ ] Set up S2S authentication for Infopro as a test [[al-go-s2s-setup-infopro-test]] (due: 2026-08-07)
+- [ ] Raise SNOW ticket for handling of Acora Internal deployments [[al-go-s2s-raise-snow-acora-internal-deployments]] (due: 2026-08-11)
 
 ## Tasks
 - [x] [[al-go-s2s-get-app-registration-vault]] (due: 2026-05-21)
