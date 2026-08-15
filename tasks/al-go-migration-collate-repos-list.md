@@ -1,7 +1,7 @@
 ---
 type: task
 due: 2026-08-14
-status: pending
+status: complete
 tags:
   - al-go
   - business-central
