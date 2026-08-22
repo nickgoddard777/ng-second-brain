@@ -16,7 +16,7 @@ work-personal: personal
 
 - [ ] [[probate-place-statutory-notice]]
 - [ ] [[probate-place-notice-local-newspaper]]
-- [ ] [[probate-get-liabilities-list-from-ed]]
+- [x] [[probate-get-liabilities-list-from-ed]]
 - [ ] [[probate-appointment-with-solicitor]]
 
 ## Notes
